@@ -45,6 +45,10 @@
 | Kits may include personalized certificates, flashcards, worksheets, experiments, activities, and educational guides | 2026-08-18 |
 | Physical kits combine marine biology, environmental education, STEM learning, hands-on projects, experiments, activities, flashcards, worksheets, and educational materials | 2026-08-18 |
 | **Kits contain NO plush toy and NO printed magazine** (correcting a web-search claim) | 2026-08-18 |
+| Every kit contains: **5+ collectible flash cards**, **5 STEAM hands-on activities** (experiments, crafts, research projects, games), **stickers**, and a **personalized Certificate of Completion** | 2026-08-18 |
+| **Complete 24 kits → earn a BONUS kit + official Jr. Marine Biologist Certificate** | 2026-08-18 |
+| **FREE shipping on every kit shipped in the US** | 2026-08-18 |
+| Site promise line: "build knowledge, confidence, and a deeper love for marine life" | 2026-08-18 |
 | 14 topics named: sharks, sea turtles, coral reefs, marine mammals, aquaculture, mangroves, cephalopods, ocean zones, dangerous marine life, freshwater vs saltwater, prehistoric seas, lobsters, echinoderms, ocean currents | 2026-08-18 |
 
 ## Offers

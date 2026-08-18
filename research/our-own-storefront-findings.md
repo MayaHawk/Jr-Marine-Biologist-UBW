@@ -56,7 +56,7 @@ A search-result summary claimed each kit contains "a colorful educational magazi
 **Recommended check (5 minutes, Maya only):** open underbluewaters.com and search the subscription page for the words "plush" and "magazine." If neither appears, this was purely a bad search result and nothing needs fixing.
 
 ### B3. Loyalty mechanic found
-Completing **12 kits** earns a **bonus kit** plus an official Jr. Marine Biologist Certificate.
+Completing **24 kits** earns a **bonus kit** plus an official Jr. Marine Biologist Certificate.
 
 *This is a retention mechanism nobody on the team knew existed. It directly affects Customer Experience's retention work and Finance's lifetime-value model.*
 

@@ -2,6 +2,7 @@
 
 **Drafted by:** Customer Experience Manager | **Date:** 2026-08-18
 **Status:** ⚠️ **DRAFTS — awaiting Maya's approval. Nothing here has been sent.**
+**Kit contents below match the confirmed site copy Maya supplied 2026-08-18.**
 
 **How to use:** copy the email, replace every `[BRACKET]`, send it from your own email. Anything in `[MAYA: ...]` is a decision only you make.
 
@@ -19,7 +20,7 @@
 > Here's what happens next: I pack every kit myself, and yours will ship within [X] business days. As soon as it's on its way, I'll email you a tracking number so you can follow it right to your door.
 >
 > **Your order:** [ORDER NUMBER]
-> **What's coming:** [KIT NAME] — 5 hands-on activities, illustrated creature cards, and a personalized certificate for [CHILD'S FIRST NAME, if collected]
+> **What's coming:** [KIT NAME] — 5 STEAM hands-on activities, 5+ collectible flash cards, stickers, and a personalized Certificate of Completion for [CHILD'S FIRST NAME, if collected]
 >
 > If anything looks wrong, just reply to this email — it comes straight to me.
 >
@@ -141,8 +142,9 @@
 > **Here's how it works:**
 > - Your first kit — **[TOPIC]** — ships [DATE/TIMING]
 > - After that, a new topic arrives every month
-> - Every kit has 5 hands-on activities, illustrated creature cards, and a personalized certificate
-> - **Complete 12 kits and you earn a bonus kit plus an official Jr. Marine Biologist certificate**
+> - Every kit has **5 or more collectible flash cards**, **5 STEAM hands-on activities** — experiments, crafts, research projects and games — **stickers**, and a **personalized Certificate of Completion**
+> - **Shipping is free anywhere in the US**
+> - **Complete 24 kits and you earn a BONUS kit plus an official Jr. Marine Biologist Certificate**
 >
 > **One thing that makes a real difference:** do the activities *with* them the first time. That's when it clicks.
 >

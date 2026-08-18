@@ -35,6 +35,8 @@
 | U-5 | **What email address do you send customer email from?** | Customer Experience | ⬜ |
 | U-6 | **What is the month-to-month subscription price?** Search found 6-month ($251.99) and 12-month ($479.88) prepay, but not the monthly rate. | Finance, Sales | ⬜ |
 | U-7 | **What does one individual kit cost to buy?** | Finance, Sales | ⬜ |
+| U-8 | **What does it actually cost you to ship one kit in the US?** You offer free shipping, so this comes straight out of margin. A recent postage receipt answers it. | Finance, Operations | ⬜ |
+| U-9 | **What is the average number of months a subscriber stays?** The 24-kit bonus takes two years to reach — this tells us whether most subscribers ever see it. | Customer Experience, Finance | ⬜ |
 
 ---
 
@@ -47,7 +49,7 @@
 | 10 | What are the ~10 remaining topics? | ⬜ |
 | 11 | For each named topic: idea, outlined, designed, prototyped, or shipped? | ⬜ |
 | 12 | Is one kit written for all ages 4–12, or are there separate age tiers? | ⬜ |
-| 13 | Is the personalized certificate in every kit or only some? | ⬜ |
+| 13 | ~~Is the personalized certificate in every kit?~~ **ANSWERED: yes, every kit.** | ✅ |
 | 14 | What are the box dimensions and weight? Does it fit a standard mailer? | ⬜ |
 | 15 | Which topic do you want to lead with, and why? | ⬜ |
 

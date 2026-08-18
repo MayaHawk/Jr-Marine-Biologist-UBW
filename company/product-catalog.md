@@ -26,21 +26,47 @@
 
 ---
 
-## B. Standard kit contents
+## B. Standard kit contents — CONFIRMED
 
-**CONFIRMED** — A typical kit could contain **5 hands-on STEM projects**.
+**Source:** live site copy supplied verbatim by Maya, 2026-08-18. This supersedes all earlier search-derived descriptions.
 
-**CONFIRMED** — Kits may include:
-- Personalized certificates
-- Flashcards
-- Worksheets
-- Experiments
-- Activities
-- Educational guides
+> "Each Jr. Marine Biologist kit includes 5 or more collectible flash cards and 5 STEAM hands-on activities that bring marine science to life through experiments, crafts, research projects games, stickers and a personalized Certificate of Completion.
+>
+> As your child explores the ocean one lesson at a time, they will build knowledge, confidence, and a deeper love for marine life.
+>
+> Complete 24 kits and earn a BONUS kit along with an official Jr. Marine Biologist Certificate to celebrate your child's achievement.
+>
+> FREE Shipping on every kit shipped in the US"
 
-**NEEDS FOUNDER INPUT** — Which of these appear in *every* kit versus *some* kits? Is the personalized certificate standard? What is the actual box size, weight, and packaging format?
+### Every kit contains — CONFIRMED
+| Item | Detail |
+|---|---|
+| Collectible flash cards | **5 or more** |
+| STEAM hands-on activities | **5** |
+| Delivered through | experiments · crafts · research projects · games |
+| Stickers | included |
+| Personalized Certificate of Completion | included |
 
----
+### Explicitly NOT in the kit — CONFIRMED 2026-08-18
+- ❌ **No plush toy**
+- ❌ **No printed magazine**
+
+*(Both were claimed by a web-search summary and rejected by Maya. See `company/assumptions-log.md` A-013.)*
+
+### Loyalty programme — CONFIRMED
+**Complete 24 kits → earn a BONUS kit + an official Jr. Marine Biologist Certificate.**
+
+> ⚠️ **Flagged for Customer Experience and Finance.** At one kit per month, 24 kits is a **two-year** subscription. Most subscription-box customers do not stay two years, so this reward may be invisible to the large majority of subscribers. This is an observation for Maya to weigh, **not** a recommendation to change it — the real average subscriber lifetime is unknown and must be measured first. Logged in `company/open-questions.md`.
+
+### Shipping — CONFIRMED
+**Free shipping on every kit shipped within the US.**
+
+> ⚠️ **Flagged for Finance.** Free shipping is absorbed entirely by margin. The actual cost per box shipped is unknown and is now a Priority 0 question.
+
+### Brand promise line — CONFIRMED
+"As your child explores the ocean one lesson at a time, they will build knowledge, confidence, and a deeper love for marine life."
+
+**Still NEEDS FOUNDER INPUT:** box dimensions · box weight · packaging format · whether the flash card count varies by topic.
 
 ## C. The ~24 marine science topics
 

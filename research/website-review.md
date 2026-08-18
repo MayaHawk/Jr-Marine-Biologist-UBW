@@ -50,7 +50,7 @@ Search results describe the monthly kit as containing:
 - A personalized Certificate of Completion
 - **Free US shipping on every plan** ← *not in our records, and financially significant*
 
-**Loyalty mechanic found:** complete 12 kits → earn a bonus kit + official Jr. Marine Biologist Certificate.
+**Loyalty mechanic found:** complete 24 kits → earn a bonus kit + official Jr. Marine Biologist Certificate.
 
 **Pricing found:** 6-month prepay $251.99 ($41.99/kit) · 12-month prepay $479.88 ($39.99/kit) · **month-to-month rate not found in any search result.**
 
@@ -101,7 +101,7 @@ Because checkout runs through Under Blue Waters, that brand's public reviews now
 
 ### 🟢 6. Your product content is genuinely strong
 
-Illustrated cards, real experiments, a personalized certificate, and a 12-kit reward path is a well-constructed product. The "24 topics covering marine ecosystems, creatures, current research, careers, and ocean conservation" framing is on-brand and clearly not a generic craft box. **The product does not appear to be the problem. The path to buying it does.**
+Illustrated cards, real experiments, a personalized certificate, and a 24-kit reward path is a well-constructed product. The "24 topics covering marine ecosystems, creatures, current research, careers, and ocean conservation" framing is on-brand and clearly not a generic craft box. **The product does not appear to be the problem. The path to buying it does.**
 
 ---
 
