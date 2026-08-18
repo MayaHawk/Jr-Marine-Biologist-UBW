@@ -13,14 +13,28 @@
 
 | # | Question | Who needs it | Status |
 |---|---|---|---|
-| 1 | Is the business selling today? If yes: roughly how many active subscribers and how many total customers? | Everyone | ⬜ |
+| 1 | ~~Is the business selling today?~~ **ANSWERED: yes.** Still needed: roughly how many active subscribers and how many total customers? | Everyone | 🟨 partial |
 | 2 | Which products are actually **live and purchasable** right now versus still being built? | Everyone | ⬜ |
 | 3 | What do you currently charge (or plan to charge) for: monthly subscription, individual kit, digital download, digital course? | Finance, Sales | ⬜ |
 | 4 | What does one kit cost you to make and ship? Even rough numbers, or a supply receipt to work from. | Finance, Operations | ⬜ |
-| 5 | Where do you sell? (Shopify, Etsy, Squarespace, WooCommerce, in person, none yet?) | Sales, Ops, Social | ⬜ |
+| 5 | ~~Where do you sell?~~ **ANSWERED: GoDaddy store for individual kits; monthly membership on underbluewaters.com.** | Sales, Ops, Social | ✅ |
 | 6 | What email tool do you use, if any? (Klaviyo, Mailchimp, Flodesk, ConvertKit, none?) | Sales, CX | ⬜ |
 | 7 | Which social accounts exist today, with roughly what following? | Social | ⬜ |
 | 8 | How much time per week can you personally give to marketing and content? | Social, Chief of Staff | ⬜ |
+
+---
+
+## 🔴 PRIORITY 0 — URGENT, orders are waiting to ship
+
+| # | Question | Who needs it | Status |
+|---|---|---|---|
+| U-1 | **How many orders are waiting to go out right now?** | Operations | ⬜ |
+| U-2 | **Do your storefronts already send an order-confirmation email automatically?** (Check your own inbox for a copy, or place a $1 test order.) | Customer Experience | ⬜ |
+| U-3 | **Do they send a SHIPPED email with a tracking number automatically — or is that the gap?** | Customer Experience | ⬜ |
+| U-4 | **Which carrier do you ship with** (USPS, UPS, FedEx) and how do you buy labels — at the counter, Pirate Ship, GoDaddy, PayPal? | Operations | ⬜ |
+| U-5 | **What email address do you send customer email from?** | Customer Experience | ⬜ |
+| U-6 | **What is the month-to-month subscription price?** Search found 6-month ($251.99) and 12-month ($479.88) prepay, but not the monthly rate. | Finance, Sales | ⬜ |
+| U-7 | **What does one individual kit cost to buy?** | Finance, Sales | ⬜ |
 
 ---
 

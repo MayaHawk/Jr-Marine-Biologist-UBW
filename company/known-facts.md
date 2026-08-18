@@ -20,11 +20,19 @@
 | Has taught children about the ocean through real-world experiences | 2026-08-18 |
 | Homeschool mom | 2026-08-18 |
 
-## Brands
+## Brands & selling channels
 
 | Fact | Date confirmed |
 |---|---|
 | Junior Marine Biologist and Under Blue Waters are sister brands | 2026-08-18 |
+| **The business IS selling today** | 2026-08-18 |
+| Live storefront: **www.jrmarinebiologist.com** | 2026-08-18 |
+| Live storefront: **underbluewaters.com** | 2026-08-18 |
+| Individual kits are sold on a **GoDaddy store** | 2026-08-18 |
+| **GoDaddy does not offer a monthly subscription option** | 2026-08-18 |
+| Because of that, the **monthly membership is hosted on Under Blue Waters** and linked to from the Jr. Marine Biologist store | 2026-08-18 |
+| **There are orders currently awaiting fulfillment** | 2026-08-18 |
+| Maya needs a system for customer email and order tracking | 2026-08-18 |
 | Under Blue Waters can eventually include the subscription program, homeschool field trips, classes, and family marine adventures | 2026-08-18 |
 
 ## Product
@@ -72,4 +80,4 @@
 
 The following have **no confirmed value** and must never be stated as fact by any agent:
 
-prices · costs · COGS · margins · revenue · subscriber count · customer count · order volume · inventory · advertising spend · email list size · social following · conversion rates · website platform · email platform · payment processor · subscription billing software · shipping carrier · shipping rates · box dimensions · box weight · vendor names · legal entity type · state of registration · sales tax setup · launch dates · which products are currently live
+current subscriber count · month-to-month subscription price · individual kit price · prices · costs · COGS · margins · revenue · subscriber count · customer count · order volume · inventory · advertising spend · email list size · social following · conversion rates  · email platform · payment processor · subscription billing software · shipping carrier · shipping rates · box dimensions · box weight · vendor names · legal entity type · state of registration · sales tax setup · launch dates · which products are currently live
