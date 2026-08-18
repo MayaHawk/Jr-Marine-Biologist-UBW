@@ -44,6 +44,7 @@
 | A typical kit could contain 5 hands-on STEM projects | 2026-08-18 |
 | Kits may include personalized certificates, flashcards, worksheets, experiments, activities, and educational guides | 2026-08-18 |
 | Physical kits combine marine biology, environmental education, STEM learning, hands-on projects, experiments, activities, flashcards, worksheets, and educational materials | 2026-08-18 |
+| **Kits contain NO plush toy and NO printed magazine** (correcting a web-search claim) | 2026-08-18 |
 | 14 topics named: sharks, sea turtles, coral reefs, marine mammals, aquaculture, mangroves, cephalopods, ocean zones, dangerous marine life, freshwater vs saltwater, prehistoric seas, lobsters, echinoderms, ocean currents | 2026-08-18 |
 
 ## Offers

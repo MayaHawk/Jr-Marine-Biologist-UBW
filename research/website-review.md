@@ -44,9 +44,9 @@ Search results describe the monthly kit as containing:
 
 - 5+ beautifully illustrated cards (ocean creatures and facts)
 - 5 hands-on experiments, crafts, research projects, and games
-- **A colorful educational magazine** with ocean stories and puzzles ← *not in our records*
-- **High-quality marine animal plush toys** ← *not in our records*
-- Stickers ← *not in our records*
+- ~~A colorful educational magazine~~ ❌ **RETRACTED — Maya confirmed 2026-08-18 there is no printed magazine**
+- ~~High-quality marine animal plush toys~~ ❌ **RETRACTED — Maya confirmed 2026-08-18 there is no plush toy**
+- Stickers ← *not in our records; still unconfirmed*
 - A personalized Certificate of Completion
 - **Free US shipping on every plan** ← *not in our records, and financially significant*
 
@@ -79,11 +79,15 @@ The site reportedly describes you as "a passionate marine biologist and mom." Tr
 
 Almost no competitor in the children's science-kit category can claim any of that. It's the one advantage that cannot be copied, and it's currently mostly invisible.
 
-### 🔴 3. Free US shipping + plush toys + a magazine = an urgent margin question
+### 🟠 3. Free US shipping still makes margin the urgent question
 
-Free shipping on every plan, combined with a plush toy, a printed magazine, 5+ cards, and 5 activities, at roughly **$39.99–$41.99 per kit**, means the margin question is no longer theoretical.
+> **CORRECTED 2026-08-18.** This finding originally cited a plush toy and a printed magazine, based on a search-result summary. **Maya confirmed neither is in the kit.** That materially reduces the cost concern — the corrected version stands below.
 
-**Nobody on this team can tell you whether you are making money on each kit, and that is now the most urgent financial question in the business.** Finance can answer it same-day once you provide supply costs and your actual shipping cost per box.
+Free US shipping on every plan, combined with printed cards, 5 activities, and a personalized certificate, at roughly **$39.99–$41.99 per kit**, still leaves margin unquantified. Shipping alone on a physical kit is usually the largest single line after materials.
+
+**Nobody on this team can tell you whether you are making money on each kit.** Finance can answer it same-day once you provide supply costs and your actual shipping cost per box.
+
+⚠️ **Separately, worth 5 minutes of your time:** check whether any page on underbluewaters.com actually promises a plush toy or a magazine. If a page does, customers are being promised items that never arrive — a refund and bad-review risk. If no page does, the search engine simply got it wrong and nothing needs fixing.
 
 ### 🟠 4. The month-to-month price is hard to find
 
@@ -97,7 +101,7 @@ Because checkout runs through Under Blue Waters, that brand's public reviews now
 
 ### 🟢 6. Your product content is genuinely strong
 
-Illustrated cards, real experiments, a magazine, a plush toy, a personalized certificate, and a 12-kit reward path is a well-constructed product. The "24 topics covering marine ecosystems, creatures, current research, careers, and ocean conservation" framing is on-brand and clearly not a generic craft box. **The product does not appear to be the problem. The path to buying it does.**
+Illustrated cards, real experiments, a personalized certificate, and a 12-kit reward path is a well-constructed product. The "24 topics covering marine ecosystems, creatures, current research, careers, and ocean conservation" framing is on-brand and clearly not a generic craft box. **The product does not appear to be the problem. The path to buying it does.**
 
 ---
 
@@ -109,7 +113,7 @@ Illustrated cards, real experiments, a magazine, a plush toy, a personalized cer
 | 2 | Is **Under Blue Waters LLC** the legal entity for both brands? | Bookkeeping, taxes, insurance |
 | 3 | What is the **month-to-month subscription price**? | All financial modeling |
 | 4 | What does an **individual kit** sell for? | Pricing, bundles |
-| 5 | Do kits really include a **plush toy and a printed magazine** in every box? | COGS — these are expensive items |
+| 5 | ~~Do kits include a plush toy and magazine?~~ **ANSWERED: no, neither.** New question: does any page on your site wrongly say they do? | Customer expectations, refund risk |
 | 6 | Is **free US shipping** offered on every plan? | Margin |
 | 7 | Is **"Creatures of the Deep"** a kit topic, a collection, or a page? | Product catalog |
 | 8 | How many **active subscribers** today? | Everything |

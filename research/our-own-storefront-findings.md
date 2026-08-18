@@ -41,6 +41,20 @@
 
 *Consistent with what Maya confirmed (5 hands-on projects, flashcards, personalized certificates). Search additionally mentions **stickers**, **games**, and **research projects**, which were not in Maya's original list.*
 
+### ❌ B2b. CORRECTED 2026-08-18 — plush toy and printed magazine
+A search-result summary claimed each kit contains "a colorful educational magazine packed with ocean stories and puzzles" and "adorable, high-quality marine animal plush toys."
+
+**Maya confirmed on 2026-08-18 that kits contain NO plush toy and NO printed magazine.** The founder's word is authoritative; the search summary was wrong.
+
+**Why this matters beyond the correction:** the summary named `underbluewaters.com` among its sources, and this environment cannot load the page to check. There are two possibilities, and they have very different consequences:
+
+| Possibility | Consequence |
+|---|---|
+| The search engine blended in another company's copy, or paraphrased loosely | No action needed — a bad search result, nothing more |
+| **A page on underbluewaters.com actually does describe a plush toy and a magazine** | **Customers would be paying for items that never arrive.** That drives refunds, chargebacks, and one-star reviews. |
+
+**Recommended check (5 minutes, Maya only):** open underbluewaters.com and search the subscription page for the words "plush" and "magazine." If neither appears, this was purely a bad search result and nothing needs fixing.
+
 ### B3. Loyalty mechanic found
 Completing **12 kits** earns a **bonus kit** plus an official Jr. Marine Biologist Certificate.
 

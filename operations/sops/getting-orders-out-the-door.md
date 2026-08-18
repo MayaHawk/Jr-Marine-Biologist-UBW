@@ -50,7 +50,7 @@ You have orders waiting. Do this once, in this order:
 ## C. The packing steps
 
 1. Lay out one of every component for the kit
-2. Build kits **assembly-line style** — every card, then every activity, then every plush, then every certificate. Not one complete kit at a time.
+2. Build kits **assembly-line style** — every card set, then every activity, then every certificate. Not one complete kit at a time.
 3. Personalize the certificate with the child's name — **check the spelling against the order**
 4. Run the quality check below
 5. Seal, label, set aside for pickup/dropoff
@@ -59,8 +59,6 @@ You have orders waiting. Do this once, in this order:
 - [ ] Every activity present
 - [ ] Card set complete
 - [ ] Certificate included, name spelled correctly
-- [ ] Magazine included *(if it ships in this kit)*
-- [ ] Plush included *(if it ships in this kit)*
 - [ ] Nothing that can leak, crush, or poke through
 - [ ] Address matches the order
 
