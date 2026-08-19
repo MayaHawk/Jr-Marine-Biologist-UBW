@@ -65,7 +65,7 @@ That gives you your **true cost per box** and your **true box weight** — two P
 
 | # | Component | In every kit? | Cost varies by topic? |
 |---|---|---|---|
-| 1 | Mailer box | ✅ Yes | No |
+| 1 | Mailer box — ✅ **CONFIRMED $1.46 landed** | ✅ Yes | No |
 | 2 | Collectible flash cards (5+) | ✅ Yes | No — same spec, different art |
 | 3 | Sticker sheet | ✅ Yes | No |
 | 4 | Personalized Certificate of Completion | ✅ Yes | No |
@@ -79,7 +79,29 @@ That gives you your **true cost per box** and your **true box weight** — two P
 
 ---
 
-### 1. Mailer box — RESEARCHED RANGE
+### 1. Mailer box — ✅ CONFIRMED, NO LONGER AN ESTIMATE
+
+**Source: BoxUp order 1086099, receipt supplied by Maya 2026-08-18.**
+
+| Line | Amount |
+|---|---|
+| 3,000 custom display mailer boxes, 7" × 5" × 3", printed outside only, @ $1.26 | $3,780.00 |
+| Tax | $245.70 |
+| Shipping | $360.00 |
+| **Total paid** | **$4,385.70** |
+
+> ### The number to use is **$1.46 per box**, not $1.26
+> $4,385.70 ÷ 3,000 = **$1.4619**
+>
+> Tax and freight add **$0.20 per box — 16% on top of the sticker price.** This is what "landed cost" means, and it is the figure that belongs in every margin calculation. Using $1.26 would understate your cost on every kit you ever ship.
+
+**How this compares to the market:** researched ranges put custom printed mailers at **$1.30–$3.80 per unit at 100–500 units**, with plain unprinted kraft under $0.60. At **$1.46 landed for a custom-printed box**, buying 3,000 got a genuinely good price — near the bottom of the custom-print range while still being a branded box. **This was a sound purchase.**
+
+**Confirmed box dimensions: 7" × 5" × 3"** (105 cubic inches). Well inside USPS size limits, so postage will be driven by **weight**, not size.
+
+---
+
+### 1b. Mailer box — earlier RESEARCHED RANGE, kept for reference
 
 | Option | Range per unit | Note |
 |---|---|---|

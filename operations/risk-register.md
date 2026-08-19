@@ -99,6 +99,25 @@ Ordering components from a consumer marketplace introduces variable lead times, 
 
 ---
 
+## 🟡 R-06 — A large share of cash is sitting in cardboard
+
+**Status:** OPEN · **Owner:** Finance
+
+**CONFIRMED:** $4,385.70 spent on 3,000 boxes. At 7"×5"×3" that is a good unit price and a sensible bulk buy — but it is real cash converted into inventory that only releases as kits ship.
+
+| Kits shipped per month | 3,000 boxes lasts |
+|---|---|
+| 25 | 10 years |
+| 50 | 5 years |
+| 100 | 2.5 years |
+| 200 | 15 months |
+
+**This is not a criticism** — the price per box drops sharply with quantity, and 3,000 bought a genuinely good rate. It is recorded so that cash flow planning accounts for it, and so the next bulk purchase is a deliberate decision rather than a repeat.
+
+**Mitigation:** before the next large component order, check how many months of stock it buys at *current* volume, not hoped-for volume.
+
+---
+
 ## 🟡 R-05 — Fulfillment depends entirely on one person
 
 **Status:** OPEN · **Owner:** Operations

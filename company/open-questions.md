@@ -54,6 +54,8 @@
 | U-32 | **How many flash cards are actually in the Sharks kit?** You said 7; the sheet shows 8 packed plus 2 in the Math activity. | Product | ⬜ |
 | U-33 | **What is "reef mix" in the Coral Reef kit** — bought ready-made, or assembled by you? | Product, Finance | ⬜ |
 | U-34 | **Where does the beach sand come from?** Bought or collected? Affects weight and postage. | Operations | ⬜ |
+| U-35 | **How many of the 3,000 boxes are left?** Sets how long before the next reorder. | Operations, Finance | ⬜ |
+| U-36 | **Do you have other receipts like the BoxUp one?** Any supplier order confirmation email is a confirmed cost. Search your inbox for "order confirmation" and forward what you find. | Finance | ⬜ |
 | U-22 | ~~Confirm the Gmail address.~~ **ANSWERED: JrMarinebiologist@gmail.com** | Customer Experience | ✅ |
 | U-23 | ~~Which address do customers reply to?~~ **ANSWERED: everything lands in info@underbluewaters.com.** | Customer Experience | ✅ |
 | U-24 | ~~Merge the inboxes?~~ **ANSWERED: already done — Gmail forwards to info@.** | Customer Experience | ✅ |
@@ -75,7 +77,7 @@
 | 11 | For each named topic: idea, outlined, designed, prototyped, or shipped? | ⬜ |
 | 12 | ~~Separate age tiers?~~ **ANSWERED: yes — 4–6, 7–10, 10+.** Whether they ship separately is now U-30. | ✅ |
 | 13 | ~~Is the personalized certificate in every kit?~~ **ANSWERED: yes, every kit.** | ✅ |
-| 14 | What are the box dimensions and weight? Does it fit a standard mailer? | ⬜ |
+| 14 | ~~Box dimensions?~~ **ANSWERED: 7" × 5" × 3".** Weight of a PACKED box still needed — that drives postage. | 🟨 partial |
 | 15 | Which topic do you want to lead with, and why? | ⬜ |
 
 ### Finance
