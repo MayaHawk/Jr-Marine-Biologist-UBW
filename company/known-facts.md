@@ -33,6 +33,8 @@
 | Because of that, the **monthly membership is hosted on Under Blue Waters** and linked to from the Jr. Marine Biologist store | 2026-08-18 |
 | **There are orders currently awaiting fulfillment** | 2026-08-18 |
 | Maya needs a system for customer email and order tracking | 2026-08-18 |
+| **Boxes have been shipped using USPS Click-N-Ship** | 2026-08-18 |
+| **No supply receipts exist — material costs must be researched** | 2026-08-18 |
 | Under Blue Waters can eventually include the subscription program, homeschool field trips, classes, and family marine adventures | 2026-08-18 |
 
 ## Product

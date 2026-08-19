@@ -16,7 +16,7 @@
 | 1 | ~~Is the business selling today?~~ **ANSWERED: yes.** Still needed: roughly how many active subscribers and how many total customers? | Everyone | 🟨 partial |
 | 2 | Which products are actually **live and purchasable** right now versus still being built? | Everyone | ⬜ |
 | 3 | What do you currently charge (or plan to charge) for: monthly subscription, individual kit, digital download, digital course? | Finance, Sales | ⬜ |
-| 4 | What does one kit cost you to make and ship? Even rough numbers, or a supply receipt to work from. | Finance, Operations | ⬜ |
+| 4 | ~~What does one kit cost to make and ship?~~ **PARTIALLY ANSWERED: no receipts exist; materials must be researched. Shipping was via USPS Click-N-Ship, so the history export answers the shipping half.** | Finance, Operations | 🟨 partial |
 | 5 | ~~Where do you sell?~~ **ANSWERED: GoDaddy store for individual kits; monthly membership on underbluewaters.com.** | Sales, Ops, Social | ✅ |
 | 6 | What email tool do you use, if any? (Klaviyo, Mailchimp, Flodesk, ConvertKit, none?) | Sales, CX | ⬜ |
 | 7 | Which social accounts exist today, with roughly what following? | Social | ⬜ |
@@ -35,7 +35,10 @@
 | U-5 | **What email address do you send customer email from?** | Customer Experience | ⬜ |
 | U-6 | **What is the month-to-month subscription price?** Search found 6-month ($251.99) and 12-month ($479.88) prepay, but not the monthly rate. | Finance, Sales | ⬜ |
 | U-7 | **What does one individual kit cost to buy?** | Finance, Sales | ⬜ |
-| U-8 | **What does it actually cost you to ship one kit in the US?** You offer free shipping, so this comes straight out of margin. A recent postage receipt answers it. | Finance, Operations | ⬜ |
+| U-8 | **Export your USPS Click-N-Ship Shipping History** (usps.com > Click-N-Ship > Shipping History). Gives real cost per box AND real box weight. | Finance, Operations | ⬜ |
+| U-10 | **Which USPS service do your labels say** — Priority Mail or Ground Advantage? Research suggests Ground Advantage is 25-40% cheaper for parcels under 3 lb. | Finance, Operations | ⬜ |
+| U-11 | **Where do you currently buy boxes, cardstock, stickers and activity supplies?** | Operations, Finance | ⬜ |
+| U-12 | **Are certificates printed at home or by a printer?** | Finance | ⬜ |
 | U-9 | **What is the average number of months a subscriber stays?** The 24-kit bonus takes two years to reach — this tells us whether most subscribers ever see it. | Customer Experience, Finance | ⬜ |
 
 ---

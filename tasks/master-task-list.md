@@ -16,7 +16,7 @@
 
 | # | Task | Owner | Blocked on | Priority |
 |---|---|---|---|---|
-| B-01 | Build COGS worksheet for the first kit | Finance | Supply list + real supply costs (Q4) | P1 |
+| B-01 | Fill in the kit cost calculator for ONE topic | Finance | Click-N-Ship export (U-8) + one topic's supply list | **P0** |
 | B-02 | Calculate break-even subscriber count | Finance | COGS + fixed monthly costs (Q19) | P1 |
 | B-03 | Recommend subscription pricing | Finance → Sales | COGS + competitor pricing | P1 |
 | B-04 | Design the QuickBooks chart of accounts | Finance | Is QuickBooks set up? (Q16) | P2 |
