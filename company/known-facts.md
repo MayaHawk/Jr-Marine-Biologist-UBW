@@ -51,6 +51,10 @@
 | **Complete 24 kits → earn a BONUS kit + official Jr. Marine Biologist Certificate** | 2026-08-18 |
 | **FREE shipping on every kit shipped in the US** | 2026-08-18 |
 | **Kits are NOT uniform — contents and cost vary by topic** | 2026-08-18 |
+| **Every kit follows a STEAM structure: one Science, one Technology, one Engineering, one Art and one Math activity** | 2026-08-18 |
+| **Kits are age-tiered: AGE 4–6, AGE 7–10, AGE 10+** | 2026-08-18 |
+| Standing packing instruction: **"pack in box not plastic bag"** | 2026-08-18 |
+| Supply lists exist for Sharks, Sea Turtles and Coral Reefs in Maya's Google Sheet | 2026-08-18 |
 | **The Sharks kit is the most expensive kit in the range** | 2026-08-18 |
 | **Sharks contains 7 flash cards (not 5) and a shark tooth necklace** | 2026-08-18 |
 | **Top-selling kits: Sharks, Sea Turtles, Coral Reefs** | 2026-08-18 |

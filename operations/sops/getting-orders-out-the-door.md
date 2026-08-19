@@ -55,6 +55,8 @@ You have orders waiting. Do this once, in this order:
 4. Run the quality check below
 5. Seal, label, set aside for pickup/dropoff
 
+> **Standing instruction from Maya's supply lists:** **"pack in box not plastic bag."**
+
 ### Quality check — before every box is sealed
 - [ ] Every activity present
 - [ ] Card set complete

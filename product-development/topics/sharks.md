@@ -32,6 +32,18 @@ If the highest-volume kit is also the lowest-margin kit, **the blended margin ac
 
 ---
 
+## C-0. ⚠️ CORRECTION — the necklace is (at least partly) make-your-own
+
+**Maya's supply list, received 2026-08-18, changes the earlier picture.** The Art activity is **"MAKE YOUR OWN SHARK TOOTH NECKLACE"** using **air dry clay, yarn or hemp string, and toothpicks** — the child moulds the tooth themselves.
+
+That removes most of the sharp-fossil-edge concern raised earlier. **The team's earlier framing assumed a finished fossil tooth and was wrong to assume it.**
+
+**However**, the pack-in list *separately* includes `* shark tooth necklace * ×1` as a supplied item. So the kit may contain **both** the make-your-own activity **and** a finished necklace.
+
+> **🔴 The single most important question on this kit:** is the included necklace a **real fossil tooth**, a **replica**, or **the clay one the child makes**? Cost, sourcing and the whole safety picture below depend on the answer.
+
+The section below stands as written **only if a finished, supplied necklace is in the box.** If the only necklace is the clay one the child makes, most of it does not apply — though a cord worn by a young child remains worth a thought either way.
+
 ## C. 🔴 SAFETY — flagged for verification, not a conclusion
 
 **A wearable necklace in a kit aimed at children as young as 4 is a different safety category from cards and worksheets.** The Product & Curriculum Manager is required to flag this. Flagging is not a claim that anything is wrong.
@@ -85,7 +97,7 @@ Searched 2026-08-18. **No supplier has been contacted.**
 
 | # | Unknown | Needed by |
 |---|---|---|
-| 1 | The 5 activities and their materials | Finance, Operations |
+| 1 | ~~The 5 activities and their materials~~ **RECEIVED 2026-08-18** — see `product-development/supply-lists/sharks.md` | Finance, Operations |
 | 2 | Cost of teeth, cord, clasp, presentation | Finance |
 | 3 | Assembly time for one necklace | Operations |
 | 4 | Whether 7 cards cost more to print than 5 | Finance |

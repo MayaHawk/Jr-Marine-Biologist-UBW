@@ -23,7 +23,7 @@ Each is ordinary on its own. **Together they form a stack worth one professional
 
 ### Why each one matters
 
-**The necklace.** A wearable product for young children sits in a stricter safety category than cards and worksheets — cord length, breakaway clasps, small detachable parts, and sharp fossil edges are all recognised considerations for children's products.
+**The necklace.** ⚠️ **Partly corrected 2026-08-18.** Maya's supply list shows the Art activity is **make-your-own from air dry clay**, which removes most of the sharp-fossil-edge concern the team originally raised. A separate finished `shark tooth necklace` is still listed as packed in the kit, and **what that item actually is remains unconfirmed.** Regardless of material, a **cord worn by a young child** stays a recognised consideration. The insurance question below is unaffected either way.
 
 **The Temu sourcing.** Children's products sold in the US fall under the Consumer Product Safety Improvement Act (CPSIA). Among other things, that regime involves third-party testing and a Children's Product Certificate, and those obligations generally attach to whoever manufactures, imports, or private-labels the product — not only to the original factory. When components are bought through an overseas consumer marketplace, test certificates and supplier traceability are often unavailable.
 

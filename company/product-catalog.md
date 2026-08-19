@@ -38,6 +38,26 @@
 >
 > FREE Shipping on every kit shipped in the US"
 
+### The STEAM structure — CONFIRMED 2026-08-18
+
+The 5 hands-on activities are not five generic activities. **Each maps to one letter of STEAM:**
+
+| Letter | Discipline | Sharks example | Coral Reefs example |
+|---|---|---|---|
+| **S** | Science | How Do Sharks Breathe? | Build a Coral Reef |
+| **T** | Technology | Sharks' Magnetic Sense | Anatomy of a Polyp |
+| **E** | Engineering | Build Your Own Shark Cage | Coral Reef Mapping |
+| **A** | Art | Make Your Own Shark Tooth Necklace | Coral Reef Bleaching |
+| **M** | Math | Measuring Sharks | Vital Signs of a Coral Reef |
+
+> 🟢 **This is a significant, under-used brand asset.** "5 hands-on activities" is a weaker claim than "one Science, one Technology, one Engineering, one Art and one Math activity in every single kit" — which is the exact language homeschool parents, co-ops, micro-schools and teachers search for. Flagged to Sales and Social. **No claim of alignment to any formal educational standard is made or implied.**
+
+### Age tiers — CONFIRMED 2026-08-18
+
+Kits are built in three bands: **AGE 4–6 · AGE 7–10 · AGE 10+**
+
+**NEEDS FOUNDER INPUT:** are three physically different kits packed and shipped, or one kit with age-adapted instructions? This changes SKU count, inventory and packing time by roughly 3×.
+
 ### Every kit contains — CONFIRMED
 | Item | Detail |
 |---|---|

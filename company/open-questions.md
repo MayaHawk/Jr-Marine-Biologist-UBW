@@ -46,7 +46,14 @@
 | U-17 | ~~Do you have product liability insurance?~~ **ANSWERED: NO.** See risk R-01. | Maya | ✅ |
 | U-19 | 🔴 **Will you get product liability quotes?** Researched range for an educational toy business is ~$300–$800/yr for $1M cover. | Maya | ⬜ |
 | U-20 | **Which components come from Temu, and can any supplier provide safety test certificates?** | Product, Operations | ⬜ |
-| U-21 | **What are the Sea Turtle and Coral Reef kits' contents?** Two of your three top sellers — needed to cost them. | Product | ⬜ |
+| U-21 | ~~Sea Turtle and Coral Reef contents?~~ **RECEIVED — supply lists transcribed.** | Product | ✅ |
+| U-28 | 🔴 **Is the packed "shark tooth necklace" a real fossil tooth, a replica, or the clay one the child makes?** Changes cost, sourcing and safety. | Product, Finance | ⬜ |
+| U-29 | 🔴 **Are the 7 prices in your sheet per UNIT or per PACK?** 8 flash cards at $0.71 each is $5.68; a pack at $0.71 is $0.71. Nothing can be costed until this is answered. | Finance | ⬜ |
+| U-30 | **Do three age tiers ship as three different physical kits**, or one kit with age-adapted instructions? Changes SKUs and packing by ~3×. | Product, Operations | ⬜ |
+| U-31 | **Two Sea Turtle sheets exist with different activities — which is current?** | Product | ⬜ |
+| U-32 | **How many flash cards are actually in the Sharks kit?** You said 7; the sheet shows 8 packed plus 2 in the Math activity. | Product | ⬜ |
+| U-33 | **What is "reef mix" in the Coral Reef kit** — bought ready-made, or assembled by you? | Product, Finance | ⬜ |
+| U-34 | **Where does the beach sand come from?** Bought or collected? Affects weight and postage. | Operations | ⬜ |
 | U-22 | ~~Confirm the Gmail address.~~ **ANSWERED: JrMarinebiologist@gmail.com** | Customer Experience | ✅ |
 | U-23 | ~~Which address do customers reply to?~~ **ANSWERED: everything lands in info@underbluewaters.com.** | Customer Experience | ✅ |
 | U-24 | ~~Merge the inboxes?~~ **ANSWERED: already done — Gmail forwards to info@.** | Customer Experience | ✅ |
@@ -66,7 +73,7 @@
 | 9 | Please confirm the topic list. Are "echinoderms" and "ocean currents" the correct terms? | ⬜ |
 | 10 | What are the ~10 remaining topics? | ⬜ |
 | 11 | For each named topic: idea, outlined, designed, prototyped, or shipped? | ⬜ |
-| 12 | Is one kit written for all ages 4–12, or are there separate age tiers? | ⬜ |
+| 12 | ~~Separate age tiers?~~ **ANSWERED: yes — 4–6, 7–10, 10+.** Whether they ship separately is now U-30. | ✅ |
 | 13 | ~~Is the personalized certificate in every kit?~~ **ANSWERED: yes, every kit.** | ✅ |
 | 14 | What are the box dimensions and weight? Does it fit a standard mailer? | ⬜ |
 | 15 | Which topic do you want to lead with, and why? | ⬜ |
