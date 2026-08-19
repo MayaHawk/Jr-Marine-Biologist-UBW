@@ -120,7 +120,17 @@ That gives you your **true cost per box** and your **true box weight** — two P
 
 ---
 
-### 2. Collectible flash cards — RESEARCHED RANGE
+### 2. Collectible flash cards — ⚠️ TRIAL COST KNOWN, PRODUCTION COST UNKNOWN
+
+**CONFIRMED by Maya 2026-08-18:** trial-printed at **Office Depot, $0.71 per card**, colour front and back on good cardstock. **Sharks uses 7 cards → $4.97 per kit at trial pricing.**
+
+> **This is a ceiling, not a cost.** A retail per-sheet copy-shop price is the most expensive way to print cards. Bulk should be lower — **how much lower is unknown and is not estimated here.**
+>
+> Across 24 topics at ~7 cards each, that is roughly **170 unique designs** — a substantial print run and a genuine reason for a printer to quote keenly. **Getting one quote is the highest-value phone call on the current list.**
+
+---
+
+### 2b. Card printing — RESEARCHED RANGE, for context only
 
 | Quantity | Range per deck | Spec |
 |---|---|---|

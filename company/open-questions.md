@@ -50,10 +50,10 @@
 | U-28 | 🔴 **Is the packed "shark tooth necklace" a real fossil tooth, a replica, or the clay one the child makes?** Changes cost, sourcing and safety. | Product, Finance | ⬜ |
 | U-29 | ~~Flash cards per unit or pack?~~ **ANSWERED: $0.71 PER CARD.** | Finance | ✅ |
 | U-37 | 🔴 **Are the OTHER prices per unit or per pack?** Coffee filter $0.30 · rubber bands $0.10 · salt $0.50 · googly eyes $0.60 · notebook $0.71 · cellophane envelope $0.50. Googly eyes at $0.60 each seems unlikely — worth checking each. | Finance | ⬜ |
-| U-38 | 🔴 **Will you get one commercial print quote for flash cards?** At $0.71/card from a retail copy shop, cards are your biggest kit cost. Worth testing whether a bulk printer beats it across all 24 topics. | Maya | ⬜ |
+| U-38 | 🔴 **Get a bulk print quote for flash cards.** $0.71/card was a TRIAL price — your production cost is unknown, and cards are the largest component identified so far. Nothing about kit margin is settled until this exists. | Maya | ⬜ |
 | U-30 | **Do three age tiers ship as three different physical kits**, or one kit with age-adapted instructions? Changes SKUs and packing by ~3×. | Product, Operations | ⬜ |
 | U-31 | **Two Sea Turtle sheets exist with different activities — which is current?** | Product | ⬜ |
-| U-32 | **How many flash cards are actually in the Sharks kit?** You said 7; the sheet shows 8 packed plus 2 in the Math activity. | Product | ⬜ |
+| U-32 | ~~How many flash cards in Sharks?~~ **ANSWERED: 7.** | Product | ✅ |
 | U-33 | **What is "reef mix" in the Coral Reef kit** — bought ready-made, or assembled by you? | Product, Finance | ⬜ |
 | U-34 | **Where does the beach sand come from?** Bought or collected? Affects weight and postage. | Operations | ⬜ |
 | U-35 | **How many of the 3,000 boxes are left?** Sets how long before the next reorder. | Operations, Finance | ⬜ |

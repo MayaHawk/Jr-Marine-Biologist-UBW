@@ -68,10 +68,10 @@
 | **Shark tooth necklace** | 1 | `[NEEDS PRICE]` | ⚠️ see correction above |
 | Paint | 1 | `[NEEDS PRICE]` | |
 | Shark pencil | 1 | `[NEEDS PRICE]` | |
-| **Flash cards** | **8** | **$0.71 EACH — CONFIRMED** | **Office Depot**, colour both sides, cardstock |
+| **Flash cards** | **7** — CONFIRMED | **$0.71 each — TRIAL price, not bulk** | **Office Depot**, colour both sides, cardstock |
 | Cellophane envelope | 5 | **$0.50** | **Amazon** |
 
-> **Note:** flash cards appear as **8** here, plus 2 inside the Math activity. Maya earlier said **7**. The site says "5 or more," so no customer promise is broken either way — but the exact count is needed to cost it. **NEEDS FOUNDER INPUT.**
+> **RESOLVED 2026-08-18: the Sharks kit contains 7 flash cards.** The site promises "5 or more," so the promise holds comfortably.
 
 ---
 
@@ -87,18 +87,24 @@
 | Flash cards | $0.71 | CONFIRMED — Office Depot |
 | Cellophane envelope | $0.50 | CONFIRMED — Amazon |
 
-### ✅ Flash cards — RESOLVED 2026-08-18
-**CONFIRMED by Maya: $0.71 is PER CARD.** Printed at **Office Depot**, **colour front and back on good cardstock**.
+### ✅ Flash cards — RESOLVED 2026-08-18, with an important caveat
 
-| Card count | Cost per kit | Compared to the box ($1.46) |
-|---|---|---|
-| 7 cards | **$4.97** | 3.4× |
-| 8 cards | **$5.68** | 3.9× |
-| 10 cards | **$7.10** | 4.9× |
+**CONFIRMED by Maya:**
+- **The Sharks kit has 7 flash cards.** *(The "8" in the source sheet is superseded.)*
+- **$0.71 per card** — printed at **Office Depot**, colour front and back on good cardstock.
+- ⚠️ **That $0.71 was TRIAL printing, NOT bulk.** It is a prototype cost, not a production cost.
 
-> 🔴 **Flash cards are almost certainly the single most expensive component in the kit** — roughly **four times the cost of the printed box**. Not the necklace, not the activities. The cards.
+| | |
+|---|---|
+| 7 cards × $0.71 | **$4.97 per kit** |
+| Compared with the landed box ($1.46) | **3.4×** |
 
-**At 8 cards per kit:** $284/month at 50 kits · **$568/month at 100 kits** · $6,816/year at 100 kits — on cards alone.
+> ### What this number is and is not
+> **$4.97 is a CEILING, not your cost.** Bulk printing should come in below a retail per-sheet trial price — but by how much is **completely unknown**, and this team will not invent a figure.
+>
+> **Your true production cost for flash cards has never been established.** That is not a small gap: at 7 cards, cards are the largest single component identified so far, more than three times the printed box.
+
+**At the trial price, cards would run:** $248/month at 50 kits · $497/month at 100 kits · ~$5,964/year at 100 kits. **Those figures assume you never move off trial pricing — which is exactly the assumption worth killing.**
 
 **NEEDS FOUNDER INPUT — still open for the OTHER prices.** Do not assume they are all per-unit. Googly eyes at $0.60 **each** × 6 would be $3.60 a kit, which is implausible for googly eyes — that one is probably per pack. Each price needs confirming individually.
 
