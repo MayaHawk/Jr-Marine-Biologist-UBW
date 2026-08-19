@@ -57,7 +57,8 @@
 | **Supplies have been ordered from Temu** | 2026-08-18 |
 | 🔴 **There is NO product liability insurance** | 2026-08-18 |
 | **Payments are accepted on BOTH stores** — GoDaddy and Under Blue Waters | 2026-08-18 |
-| Business email addresses in use: **info@underbluewaters.com** and a **Jr. Marine Biologist Gmail address** | 2026-08-18 |
+| Business email addresses: **JrMarinebiologist@gmail.com** and **info@underbluewaters.com** | 2026-08-18 |
+| **JrMarinebiologist@gmail.com forwards to info@underbluewaters.com** — so there is only ONE inbox to check | 2026-08-18 |
 | Site promise line: "build knowledge, confidence, and a deeper love for marine life" | 2026-08-18 |
 | 14 topics named: sharks, sea turtles, coral reefs, marine mammals, aquaculture, mangroves, cephalopods, ocean zones, dangerous marine life, freshwater vs saltwater, prehistoric seas, lobsters, echinoderms, ocean currents | 2026-08-18 |
 

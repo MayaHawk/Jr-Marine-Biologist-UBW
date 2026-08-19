@@ -9,8 +9,14 @@
 > The eight agents were deliberately built **without email tools** — they physically cannot send,
 > read, or reply to anything. These templates are words in a file. **You copy them and send them
 > yourself, from your own inbox.**
-> Business addresses in use: **info@underbluewaters.com** and a Jr. Marine Biologist Gmail address.
-> Neither is being watched by anything in this project.
+> **Your email setup (CONFIRMED 2026-08-18):** `JrMarinebiologist@gmail.com` **forwards to**
+> `info@underbluewaters.com`, so there is only **one inbox to check** — info@. Neither is being
+> watched by anything in this project.
+>
+> **Worth setting up once:** in Gmail, "Send mail as" lets you *reply from* the Jr. Marine
+> Biologist address while still reading everything in one place. A customer who wrote to Jr.
+> Marine Biologist then gets a reply from Jr. Marine Biologist — one inbox for you, consistent
+> branding for them.
 
 **How to use:** copy the email, replace every `[BRACKET]`, send it from your own email. Anything in `[MAYA: ...]` is a decision only you make.
 
