@@ -17,7 +17,9 @@
 | # | Task | Owner | Blocked on | Priority |
 |---|---|---|---|---|
 | B-01 | **Cost the SHARKS kit** — most expensive, possibly best-selling | Finance | Click-N-Ship export (U-8) + Sharks supply list | **P0** |
-| B-14 | 🔴 **Get the shark tooth necklace reviewed for child safety** | Maya + a professional | U-16, U-17 | **P0** |
+| B-14 | 🔴 **Get product liability insurance quotes** — none currently held. Researched range ~$300–$800/yr. | Maya | Nothing — can start today | **P0** |
+| B-15 | 🔴 **Ask a broker or the CPSC small-business line about children's product testing** for the necklace and Temu-sourced parts | Maya | Nothing | **P0** |
+| B-16 | Cost the Sea Turtle and Coral Reef kits (the other two top sellers) | Finance + Product | Supply lists | P1 |
 | B-02 | Calculate break-even subscriber count | Finance | COGS + fixed monthly costs (Q19) | P1 |
 | B-03 | Recommend subscription pricing | Finance → Sales | COGS + competitor pricing | P1 |
 | B-04 | Design the QuickBooks chart of accounts | Finance | Is QuickBooks set up? (Q16) | P2 |

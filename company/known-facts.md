@@ -53,6 +53,9 @@
 | **Kits are NOT uniform — contents and cost vary by topic** | 2026-08-18 |
 | **The Sharks kit is the most expensive kit in the range** | 2026-08-18 |
 | **Sharks contains 7 flash cards (not 5) and a shark tooth necklace** | 2026-08-18 |
+| **Top-selling kits: Sharks, Sea Turtles, Coral Reefs** | 2026-08-18 |
+| **Supplies have been ordered from Temu** | 2026-08-18 |
+| 🔴 **There is NO product liability insurance** | 2026-08-18 |
 | Site promise line: "build knowledge, confidence, and a deeper love for marine life" | 2026-08-18 |
 | 14 topics named: sharks, sea turtles, coral reefs, marine mammals, aquaculture, mangroves, cephalopods, ocean zones, dangerous marine life, freshwater vs saltwater, prehistoric seas, lobsters, echinoderms, ocean currents | 2026-08-18 |
 

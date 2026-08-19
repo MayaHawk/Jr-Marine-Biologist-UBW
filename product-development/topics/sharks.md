@@ -28,7 +28,7 @@ Sharks is **not** a standard kit. It carries two upgrades over the base specific
 
 If the highest-volume kit is also the lowest-margin kit, **the blended margin across the whole business is worse than any average would suggest.** That makes Sharks the correct kit to cost first — which is what the team recommended before knowing this, and now matters more.
 
-**NEEDS FOUNDER INPUT:** is Sharks in fact the best seller? Confirm before this reasoning is relied on.
+**CONFIRMED 2026-08-18:** Maya named **Sharks, Sea Turtles and Coral Reefs** as the top sellers. The concern is therefore real, not hypothetical — tracked as risk **R-02** in `operations/risk-register.md`.
 
 ---
 
@@ -51,7 +51,9 @@ If the highest-volume kit is also the lowest-margin kit, **the blended margin ac
 
 > **Recommendation:** since a wearable item for young children is a regulated product category, this is worth **one conversation with a children's product safety consultant or your product liability insurer.** That is a professional's call, not this team's.
 
-**NEEDS FOUNDER INPUT:** Has any safety testing been done? Is there a breakaway clasp? Is there an age warning on the packaging? Is product liability insurance in place?
+**CONFIRMED 2026-08-18:** **No product liability insurance is in place**, and components have been **ordered from Temu**. Together with the wearable necklace this is logged as risk **R-01** in `operations/risk-register.md`, with recommended actions and researched insurance costs.
+
+**Still NEEDS FOUNDER INPUT:** Has any safety testing been done? Is there a breakaway clasp? Is there an age warning on the packaging?
 
 ---
 
@@ -73,7 +75,9 @@ Searched 2026-08-18. **No supplier has been contacted.**
 
 **Also needs pricing:** the cord or chain · the clasp · any bail, crimp or wrap · a small bag or card to present it on.
 
-**NEEDS FOUNDER INPUT:** Where do you buy the teeth now? Real fossil or replica? Do you assemble the necklaces yourself — and if so, how long does one take?
+**CONFIRMED 2026-08-18:** supplies have been ordered from **Temu**. Marketplace sourcing rarely comes with safety test certificates or a traceable supplier — see risk R-01.
+
+**Still NEEDS FOUNDER INPUT:** Are the teeth real fossil or replica? Do you assemble the necklaces yourself — and if so, how long does one take?
 
 ---
 
