@@ -48,7 +48,9 @@
 | U-20 | **Which components come from Temu, and can any supplier provide safety test certificates?** | Product, Operations | ⬜ |
 | U-21 | ~~Sea Turtle and Coral Reef contents?~~ **RECEIVED — supply lists transcribed.** | Product | ✅ |
 | U-28 | 🔴 **Is the packed "shark tooth necklace" a real fossil tooth, a replica, or the clay one the child makes?** Changes cost, sourcing and safety. | Product, Finance | ⬜ |
-| U-29 | 🔴 **Are the 7 prices in your sheet per UNIT or per PACK?** 8 flash cards at $0.71 each is $5.68; a pack at $0.71 is $0.71. Nothing can be costed until this is answered. | Finance | ⬜ |
+| U-29 | ~~Flash cards per unit or pack?~~ **ANSWERED: $0.71 PER CARD.** | Finance | ✅ |
+| U-37 | 🔴 **Are the OTHER prices per unit or per pack?** Coffee filter $0.30 · rubber bands $0.10 · salt $0.50 · googly eyes $0.60 · notebook $0.71 · cellophane envelope $0.50. Googly eyes at $0.60 each seems unlikely — worth checking each. | Finance | ⬜ |
+| U-38 | 🔴 **Will you get one commercial print quote for flash cards?** At $0.71/card from a retail copy shop, cards are your biggest kit cost. Worth testing whether a bulk printer beats it across all 24 topics. | Maya | ⬜ |
 | U-30 | **Do three age tiers ship as three different physical kits**, or one kit with age-adapted instructions? Changes SKUs and packing by ~3×. | Product, Operations | ⬜ |
 | U-31 | **Two Sea Turtle sheets exist with different activities — which is current?** | Product | ⬜ |
 | U-32 | **How many flash cards are actually in the Sharks kit?** You said 7; the sheet shows 8 packed plus 2 in the Math activity. | Product | ⬜ |

@@ -58,6 +58,7 @@
 | **Box: 3,000 custom printed mailers ordered from BoxUp, 7"×5"×3", $4,385.70 total** | 2026-08-18 |
 | **TRUE LANDED COST PER BOX = $1.46** (incl. tax and freight; sticker price was $1.26) | 2026-08-18 |
 | **Confirmed box dimensions: 7" × 5" × 3"** | 2026-08-18 |
+| **Flash cards cost $0.71 EACH**, printed at Office Depot, colour front and back on good cardstock | 2026-08-18 |
 | **The Sharks kit is the most expensive kit in the range** | 2026-08-18 |
 | **Sharks contains 7 flash cards (not 5) and a shark tooth necklace** | 2026-08-18 |
 | **Top-selling kits: Sharks, Sea Turtles, Coral Reefs** | 2026-08-18 |

@@ -10,10 +10,10 @@
 ### S — Science: HOW DO SHARKS BREATHE?
 | Item | Qty | Price each | Source |
 |---|---|---|---|
-| Coffee filter | 3 | **$0.30** | |
+| Coffee filter | 3 | **$0.30** ⚠️ each or per pack? | |
 | Rubber bands | 3 | **$0.10** | |
 | Salt | 1 jar | **$0.50** | |
-| Googly eyes | 6 | **$0.60** | |
+| Googly eyes | 6 | **$0.60** ⚠️ each or per pack? *(each seems implausible)* | |
 
 ### T — Technology: SHARKS' MAGNETIC SENSE
 | Item | Qty | Price each | Source |
@@ -68,7 +68,7 @@
 | **Shark tooth necklace** | 1 | `[NEEDS PRICE]` | ⚠️ see correction above |
 | Paint | 1 | `[NEEDS PRICE]` | |
 | Shark pencil | 1 | `[NEEDS PRICE]` | |
-| **Flash cards** | **8** | **$0.71** | **Office Depot** |
+| **Flash cards** | **8** | **$0.71 EACH — CONFIRMED** | **Office Depot**, colour both sides, cardstock |
 | Cellophane envelope | 5 | **$0.50** | **Amazon** |
 
 > **Note:** flash cards appear as **8** here, plus 2 inside the Math activity. Maya earlier said **7**. The site says "5 or more," so no customer promise is broken either way — but the exact count is needed to cost it. **NEEDS FOUNDER INPUT.**
@@ -87,9 +87,20 @@
 | Flash cards | $0.71 | CONFIRMED — Office Depot |
 | Cellophane envelope | $0.50 | CONFIRMED — Amazon |
 
-**NEEDS FOUNDER INPUT:** are these per **unit** or per **pack**? It changes the total dramatically — 8 flash cards at $0.71 each is $5.68; a pack of cards at $0.71 is $0.71.
+### ✅ Flash cards — RESOLVED 2026-08-18
+**CONFIRMED by Maya: $0.71 is PER CARD.** Printed at **Office Depot**, **colour front and back on good cardstock**.
 
-**No total can be calculated until that is answered**, so none is shown here.
+| Card count | Cost per kit | Compared to the box ($1.46) |
+|---|---|---|
+| 7 cards | **$4.97** | 3.4× |
+| 8 cards | **$5.68** | 3.9× |
+| 10 cards | **$7.10** | 4.9× |
+
+> 🔴 **Flash cards are almost certainly the single most expensive component in the kit** — roughly **four times the cost of the printed box**. Not the necklace, not the activities. The cards.
+
+**At 8 cards per kit:** $284/month at 50 kits · **$568/month at 100 kits** · $6,816/year at 100 kits — on cards alone.
+
+**NEEDS FOUNDER INPUT — still open for the OTHER prices.** Do not assume they are all per-unit. Googly eyes at $0.60 **each** × 6 would be $3.60 a kit, which is implausible for googly eyes — that one is probably per pack. Each price needs confirming individually.
 
 ---
 
