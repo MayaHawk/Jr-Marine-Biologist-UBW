@@ -39,6 +39,12 @@
 | U-10 | **Which USPS service do your labels say** — Priority Mail or Ground Advantage? Research suggests Ground Advantage is 25-40% cheaper for parcels under 3 lb. | Finance, Operations | ⬜ |
 | U-11 | **Where do you currently buy boxes, cardstock, stickers and activity supplies?** | Operations, Finance | ⬜ |
 | U-12 | **Are certificates printed at home or by a printer?** | Finance | ⬜ |
+| U-13 | **Is Sharks your best-selling kit?** If it is both the most popular AND the most expensive, it sets the floor on your whole margin. | Finance, Sales | ⬜ |
+| U-14 | **Where do you buy the shark teeth, cord and clasps?** Real fossil or replica? | Finance, Operations | ⬜ |
+| U-15 | **How long does it take you to assemble one shark tooth necklace?** Time three of them. | Operations | ⬜ |
+| U-16 | 🔴 **Has any safety testing been done on the shark tooth necklace?** Is there a breakaway clasp or an age warning? A wearable item for children as young as 4 is a regulated product category. | Product, Maya | ⬜ |
+| U-17 | **Do you have product liability insurance?** | Maya | ⬜ |
+| U-18 | **Do any OTHER kits contain extra components or a wearable keepsake?** | Product, Finance | ⬜ |
 | U-9 | **What is the average number of months a subscriber stays?** The 24-kit bonus takes two years to reach — this tells us whether most subscribers ever see it. | Customer Experience, Finance | ⬜ |
 
 ---

@@ -50,6 +50,9 @@
 | Every kit contains: **5+ collectible flash cards**, **5 STEAM hands-on activities** (experiments, crafts, research projects, games), **stickers**, and a **personalized Certificate of Completion** | 2026-08-18 |
 | **Complete 24 kits → earn a BONUS kit + official Jr. Marine Biologist Certificate** | 2026-08-18 |
 | **FREE shipping on every kit shipped in the US** | 2026-08-18 |
+| **Kits are NOT uniform — contents and cost vary by topic** | 2026-08-18 |
+| **The Sharks kit is the most expensive kit in the range** | 2026-08-18 |
+| **Sharks contains 7 flash cards (not 5) and a shark tooth necklace** | 2026-08-18 |
 | Site promise line: "build knowledge, confidence, and a deeper love for marine life" | 2026-08-18 |
 | 14 topics named: sharks, sea turtles, coral reefs, marine mammals, aquaculture, mangroves, cephalopods, ocean zones, dangerous marine life, freshwater vs saltwater, prehistoric seas, lobsters, echinoderms, ocean currents | 2026-08-18 |
 

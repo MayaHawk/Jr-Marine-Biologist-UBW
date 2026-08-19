@@ -66,7 +66,18 @@
 ### Brand promise line — CONFIRMED
 "As your child explores the ocean one lesson at a time, they will build knowledge, confidence, and a deeper love for marine life."
 
-**Still NEEDS FOUNDER INPUT:** box dimensions · box weight · packaging format · whether the flash card count varies by topic.
+### ⚠️ Kits are NOT uniform — CONFIRMED 2026-08-18
+
+The base specification above is a **floor, not a fixed recipe.** Individual kits vary, and cost varies with them.
+
+| Kit | Variation from base | Cost impact |
+|---|---|---|
+| **Sharks** | **7 flash cards** (not 5) + a **shark tooth necklace** | **The most expensive kit in the range** |
+| All others | Not yet confirmed | Unknown |
+
+This means **there is no single COGS figure for "a kit."** Each topic must be costed on its own. Full detail: `product-development/topics/sharks.md` and `finance/cogs/sharks.md`.
+
+**Still NEEDS FOUNDER INPUT:** box dimensions · box weight · packaging format · which other topics carry extra components · whether any other kit contains a wearable or keepsake item.
 
 ## C. The ~24 marine science topics
 
@@ -74,7 +85,7 @@
 
 | # | Topic | Notes | Status |
 |---|---|---|---|
-| 1 | Sharks | Named by Maya. Likely a flagship / lead topic. | **NEEDS FOUNDER INPUT** |
+| 1 | Sharks | **SHIPPING.** 7 flash cards + shark tooth necklace. **Most expensive kit.** Spec: `product-development/topics/sharks.md` | **CONFIRMED live** |
 | 2 | Sea Turtles | Named by Maya. Strong emotional draw. | **NEEDS FOUNDER INPUT** |
 | 3 | Coral Reefs | Named by Maya. | **NEEDS FOUNDER INPUT** |
 | 4 | Marine Mammals | Named by Maya. | **NEEDS FOUNDER INPUT** |
