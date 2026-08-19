@@ -47,6 +47,10 @@
 | U-19 | 🔴 **Will you get product liability quotes?** Researched range for an educational toy business is ~$300–$800/yr for $1M cover. | Maya | ⬜ |
 | U-20 | **Which components come from Temu, and can any supplier provide safety test certificates?** | Product, Operations | ⬜ |
 | U-21 | **What are the Sea Turtle and Coral Reef kits' contents?** Two of your three top sellers — needed to cost them. | Product | ⬜ |
+| U-22 | **Confirm the exact Jr. Marine Biologist Gmail address.** | Customer Experience | ⬜ |
+| U-23 | **Which address do customers actually reply to?** Which one do the stores send order notifications to? | Customer Experience | ⬜ |
+| U-24 | **Do you want the two inboxes merged** (forward one into the other) so there is only one place to check? | Customer Experience | ⬜ |
+| U-25 | **Which payment processor does each store use?** Needed to confirm the real fee rate in MONEY CHECK. | Finance | ⬜ |
 | U-18 | **Do any OTHER kits contain extra components or a wearable keepsake?** | Product, Finance | ⬜ |
 | U-9 | **What is the average number of months a subscriber stays?** The 24-kit bonus takes two years to reach — this tells us whether most subscribers ever see it. | Customer Experience, Finance | ⬜ |
 

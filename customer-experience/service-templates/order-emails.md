@@ -4,6 +4,14 @@
 **Status:** ⚠️ **DRAFTS — awaiting Maya's approval. Nothing here has been sent.**
 **Kit contents below match the confirmed site copy Maya supplied 2026-08-18.**
 
+> ### 📧 What this system does and does not do with email
+> **NOTHING here is monitored, read, sent, or automated.** No inbox is connected to any agent.
+> The eight agents were deliberately built **without email tools** — they physically cannot send,
+> read, or reply to anything. These templates are words in a file. **You copy them and send them
+> yourself, from your own inbox.**
+> Business addresses in use: **info@underbluewaters.com** and a Jr. Marine Biologist Gmail address.
+> Neither is being watched by anything in this project.
+
 **How to use:** copy the email, replace every `[BRACKET]`, send it from your own email. Anything in `[MAYA: ...]` is a decision only you make.
 
 ---
