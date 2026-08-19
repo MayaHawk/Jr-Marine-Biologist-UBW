@@ -59,6 +59,7 @@
 | **TRUE LANDED COST PER BOX = $1.46** (incl. tax and freight; sticker price was $1.26) | 2026-08-18 |
 | **Confirmed box dimensions: 7" × 5" × 3"** | 2026-08-18 |
 | **The Sharks kit contains 7 flash cards** | 2026-08-18 |
+| **Every OTHER kit contains 5 flash cards** — 7 is a Sharks-only exception | 2026-08-18 |
 | **Flash cards were trial-printed at $0.71 each** (Office Depot, colour both sides, good cardstock) — ⚠️ **a TRIAL price, not a bulk/production cost** | 2026-08-18 |
 | 🔴 **The production cost of flash cards has never been established** | 2026-08-18 |
 | **The Sharks kit is the most expensive kit in the range** | 2026-08-18 |

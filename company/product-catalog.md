@@ -90,10 +90,12 @@ Kits are built in three bands: **AGE 4–6 · AGE 7–10 · AGE 10+**
 
 The base specification above is a **floor, not a fixed recipe.** Individual kits vary, and cost varies with them.
 
-| Kit | Variation from base | Cost impact |
-|---|---|---|
-| **Sharks** | **7 flash cards** (not 5) + a **shark tooth necklace** | **The most expensive kit in the range** |
-| All others | Not yet confirmed | Unknown |
+| Kit | Flash cards | Other variation | Cost impact |
+|---|---|---|---|
+| **Sharks** | **7** | **shark tooth necklace** | **The most expensive kit in the range** |
+| **All other kits** | **5** — CONFIRMED 2026-08-18 | Not yet confirmed | Baseline |
+
+**At the trial print price of $0.71/card:** a standard kit's cards cost **$3.55**; Sharks costs **$4.97** — a **$1.42** premium on cards alone, before the necklace. *(Trial pricing is a ceiling, not a production cost.)*
 
 This means **there is no single COGS figure for "a kit."** Each topic must be costed on its own. Full detail: `product-development/topics/sharks.md` and `finance/cogs/sharks.md`.
 

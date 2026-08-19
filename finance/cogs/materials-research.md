@@ -126,7 +126,16 @@ That gives you your **true cost per box** and your **true box weight** — two P
 
 > **This is a ceiling, not a cost.** A retail per-sheet copy-shop price is the most expensive way to print cards. Bulk should be lower — **how much lower is unknown and is not estimated here.**
 >
-> Across 24 topics at ~7 cards each, that is roughly **170 unique designs** — a substantial print run and a genuine reason for a printer to quote keenly. **Getting one quote is the highest-value phone call on the current list.**
+> **Print run sizing — CONFIRMED 2026-08-18:** Sharks uses **7** cards; **every other kit uses 5**.
+>
+> | If the range is... | Unique card designs |
+> |---|---|
+> | 24 topics in total | 7 + (23 × 5) = **122** |
+> | Sharks plus 24 others | 7 + (24 × 5) = **127** |
+>
+> So roughly **120–130 unique designs**, not the ~170 quoted in an earlier note — that figure wrongly applied the Sharks count to every kit.
+>
+> **Multiply by however many of each you print** and this becomes a serious commercial run. Getting one quote remains the highest-value phone call on the current list.
 
 ---
 

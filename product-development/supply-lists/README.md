@@ -30,6 +30,9 @@ For Sharks, all three columns are filled and the materials are **largely identic
 
 Now carried into the packing SOP.
 
+## Flash card counts — CONFIRMED 2026-08-18
+**Sharks: 7 cards. Every other kit: 5 cards.** The site promises "5 or more", so both hold.
+
 ## Files
 - `sharks.md` — the most complete, and the only one with prices started
 - `sea-turtles.md` — two versions appear in the source; needs clarification
