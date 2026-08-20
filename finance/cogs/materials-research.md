@@ -128,12 +128,15 @@ That gives you your **true cost per box** and your **true box weight** — two P
 >
 > **Print run sizing — CONFIRMED 2026-08-18:** Sharks uses **7** cards; **every other kit uses 5**.
 >
-> | If the range is... | Unique card designs |
-> |---|---|
-> | 24 topics in total | 7 + (23 × 5) = **122** |
-> | Sharks plus 24 others | 7 + (24 × 5) = **127** |
+> **CONFIRMED 2026-08-18: Sharks is one of the 24 topics.** So the print run is:
 >
-> So roughly **120–130 unique designs**, not the ~170 quoted in an earlier note — that figure wrongly applied the Sharks count to every kit.
+> | | |
+> |---|---|
+> | Sharks | 7 cards |
+> | The other 23 topics | 23 × 5 = 115 cards |
+> | **Total unique designs** | **122** |
+>
+> Not the ~170 quoted in an earlier note — that figure wrongly applied the Sharks count to every kit.
 >
 > **Multiply by however many of each you print** and this becomes a serious commercial run. Getting one quote remains the highest-value phone call on the current list.
 

@@ -32,6 +32,7 @@ Now carried into the packing SOP.
 
 ## Flash card counts — CONFIRMED 2026-08-18
 **Sharks: 7 cards. Every other kit: 5 cards.** The site promises "5 or more", so both hold.
+**Sharks is one of the 24 topics**, so the full range is 7 + (23 × 5) = **122 unique card designs**.
 
 ## Files
 - `sharks.md` — the most complete, and the only one with prices started

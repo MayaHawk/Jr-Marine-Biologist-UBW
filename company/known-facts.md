@@ -60,6 +60,7 @@
 | **Confirmed box dimensions: 7" × 5" × 3"** | 2026-08-18 |
 | **The Sharks kit contains 7 flash cards** | 2026-08-18 |
 | **Every OTHER kit contains 5 flash cards** — 7 is a Sharks-only exception | 2026-08-18 |
+| **Sharks is one of the 24 topics** — so the range is 24 total: 1 kit with 7 cards + 23 with 5 = **122 unique card designs** | 2026-08-18 |
 | **Flash cards were trial-printed at $0.71 each** (Office Depot, colour both sides, good cardstock) — ⚠️ **a TRIAL price, not a bulk/production cost** | 2026-08-18 |
 | 🔴 **The production cost of flash cards has never been established** | 2026-08-18 |
 | **The Sharks kit is the most expensive kit in the range** | 2026-08-18 |
