@@ -28,6 +28,7 @@
 | A-011 | 2026-08-18 | GoDaddy's store cannot natively support recurring subscription billing, which is why the membership lives on Under Blue Waters | Maya's description of why the two are linked | Chief of Staff | Medium — if GoDaddy can do subscriptions after all, the split may be unnecessary | 🟡 |
 | A-012 | 2026-08-18 | Order confirmation emails are sent automatically by the storefronts; the gap is the SHIPPED-with-tracking notification | Most storefronts send confirmations by default | Chief of Staff | Low — if confirmations are NOT automatic, the gap is larger and more urgent | 🟡 |
 | A-010 | 2026-08-18 | Primary market is the United States | Maya's background and audience are US-based | Setup | Medium — changes shipping, pricing, and competitor research | 🟡 |
+| A-019 | 2026-08-20 | The ten starting SEO keywords in `marketing/seo-keywords.md` reflect how our real buyers search | Reasoned from confirmed audience, confirmed top-selling kits and the confirmed STEAM structure; **no search-volume data was verified** | Marketing | Low — GoDaddy reports volume and rank per keyword, so a wrong pick is visible within weeks and costs nothing but a line in the list | 🟡 |
 
 ---
 

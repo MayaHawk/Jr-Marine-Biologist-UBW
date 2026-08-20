@@ -132,3 +132,12 @@
 | 41 | Is there a revenue target for the next 12 months? | ⬜ |
 | 42 | Product liability insurance and child-safety testing — in place, or to research? | ⬜ |
 | 43 | Long term, is the goal a lifestyle business, a large brand, or an eventual sale? | ⬜ |
+
+---
+
+## Added 2026-08-20 — Website / SEO
+
+| # | Question | Status |
+|---|---|---|
+| 44 | The GoDaddy SEO tool is attached to a site at `marinebiologistforkids.godaddy...`, but known-facts records the live storefront as `www.jrmarinebiologist.com` — which site is which, and which one takes real orders? | ⬜ |
+| 45 | Is there more than one Junior Marine Biologist website live right now? If so, do they compete with each other in Google? | ⬜ |
