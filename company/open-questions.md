@@ -24,6 +24,16 @@
 
 ---
 
+## 🚨 PRIORITY 00 — SAME DAY
+
+| # | Question | Who needs it | Status |
+|---|---|---|---|
+| S-1 | 🚨 **Call your web host about possible spam-page injection on underbluewaters.com.** Three foreign-language gambling pages appear on your domain. You take payments on this site. | Maya | ⬜ |
+| S-2 | 🔴 **Does your subscription page promise a plush toy, a magazine and an ocean ecosystem poster?** You confirmed none are in the kit. Second independent sighting. | Maya | ⬜ |
+| S-3 | **Send Joni Alexander an update today** — ordered 31 Jul, told 3 Aug it was coming, nothing since. | Maya | ⬜ |
+
+---
+
 ## 🔴 PRIORITY 0 — URGENT, orders are waiting to ship
 
 | # | Question | Who needs it | Status |

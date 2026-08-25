@@ -67,6 +67,76 @@ Most small kit businesses operate for years without incident. The point is not t
 
 ---
 
+## 🚨 R-07 — underbluewaters.com shows signs of being hacked
+
+**Status:** OPEN, URGENT · **Owner:** Maya · **Found:** 2026-08-18
+
+### What was observed
+A web search restricted to `underbluewaters.com` returned these pages **on your own domain**:
+
+| URL on your domain | Language | What it is |
+|---|---|---|
+| `/kak-poluchit-luchshii-opyt/` | Russian | "How to get the best experience" |
+| `/comparing-najnowsze-bonusy-w-mostbet-na-rok-2026-with-competitors/` | Polish | **Mostbet** — an online gambling brand |
+| `/pinco-sxsi-inkisaf-imkanlari-azrbaycanda/` | Azerbaijani | **Pinco** — an online casino brand |
+
+### What this normally means
+Foreign-language casino and betting pages appearing on a legitimate site is the **textbook signature of SEO spam injection** — an attacker gaining write access (usually through an out-of-date WordPress plugin or a weak password) and publishing hidden pages to borrow the site's search ranking.
+
+**This team cannot confirm a compromise** — the site is blocked from this environment and was never opened. But three such URLs on one small business domain is not a coincidence worth ignoring.
+
+### Why this matters more than usual here
+**Under Blue Waters is where the monthly membership is sold. Customers enter payment details on this site.** A site with unauthorised write access and a payment flow is a materially different situation from a brochure site with spam pages.
+
+Secondary damage: Google may flag or de-rank a site serving spam, which would quietly reduce every marketing effort's return.
+
+### Recommended — Maya's call, all of it
+| # | Action | Urgency |
+|---|---|---|
+| 1 | **Contact your web host today.** Say: "I think my site has spam pages injected — can you check for a compromise?" Hosts handle this constantly. | 🚨 Today |
+| 2 | **Change the site admin password**, and any password reused elsewhere | 🚨 Today |
+| 3 | **Update WordPress core, every plugin and the theme** | 🚨 Today |
+| 4 | Run a security scanner (Wordfence and Sucuri are the usual names) | This week |
+| 5 | Check Google Search Console for a security warning | This week |
+| 6 | Once clean, remove the spam pages and request re-indexing | After cleanup |
+| 7 | **Ask your host or payment provider to confirm the checkout flow was not touched** | 🚨 Today |
+
+> **This is a specialist job, not a DIY one.** Your host is the right first call and it usually costs nothing.
+
+### What this team will not do
+❌ Log into the site · ❌ Attempt to diagnose or fix a compromise · ❌ Confirm whether payment data was exposed — that is for your host and payment provider.
+
+---
+
+## 🔴 R-08 — the site advertises items the kits do not contain
+
+**Status:** OPEN · **Owner:** Maya · **Found:** 2026-08-18
+
+Maya confirmed on 2026-08-18 that kits contain **no plush toy and no printed magazine.** The team retracted those claims accordingly.
+
+**They have now appeared a second time, in a search restricted to `underbluewaters.com`,** describing the monthly kit as including:
+- an educational magazine with ocean stories and marine research highlights
+- **an ocean ecosystem poster** ← a third item, not previously mentioned
+- **a marine animal plush toy**
+- a personalized certificate ✅ *(this one is real)*
+
+Two independent searches, both pointing at underbluewaters.com pages, both naming the same items. **That is no longer plausibly a bad search result.**
+
+### Why this matters
+If a page on the site promises a plush toy, a magazine and a poster, then **customers are paying for three items that never arrive.** That produces refund requests, card chargebacks, poor reviews, and — most damaging for a brand built on trustworthiness — the feeling of having been misled.
+
+It is very likely just an old page that was never updated after the kit contents changed. **That makes it easy to fix and important to fix quickly.**
+
+### Recommended
+| # | Action |
+|---|---|
+| 1 | Open `underbluewaters.com/kids-marine-biology-subscription/` and read what it promises |
+| 2 | Correct anything not actually in the box |
+| 3 | Check the same on the Jr. Marine Biologist store listing |
+| 4 | If recent customers were promised these, decide what to do for them — **your call entirely** |
+
+---
+
 ## 🟠 R-02 — The best-selling kit is also the most expensive
 
 **Status:** OPEN · **Owner:** Finance

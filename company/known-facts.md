@@ -70,6 +70,9 @@
 | 🔴 **There is NO product liability insurance** | 2026-08-18 |
 | **Payments are accepted on BOTH stores** — GoDaddy and Under Blue Waters | 2026-08-18 |
 | Business email addresses: **JrMarinebiologist@gmail.com** and **info@underbluewaters.com** | 2026-08-18 |
+| GoDaddy order confirmations tell customers to email **MHawkBooth@Gmail.com** — a third address | 2026-08-18 |
+| Under Blue Waters has a homepage, a Jr. Marine Biologist subscription page, monthly and annual membership registration pages, a camps directory, and product pages (e.g. "Dolphin Researcher for the Day") | 2026-08-18 |
+| Store SKU example: **MKN-SNS-OF-SHR1** = "Making Sense of Sharks – Kids Marine Biology Adventure Kit" | 2026-08-18 |
 | **JrMarinebiologist@gmail.com forwards to info@underbluewaters.com** — so there is only ONE inbox to check | 2026-08-18 |
 | Site promise line: "build knowledge, confidence, and a deeper love for marine life" | 2026-08-18 |
 | 14 topics named: sharks, sea turtles, coral reefs, marine mammals, aquaculture, mangroves, cephalopods, ocean zones, dangerous marine life, freshwater vs saltwater, prehistoric seas, lobsters, echinoderms, ocean currents | 2026-08-18 |
