@@ -49,7 +49,15 @@
 
 ## Added 2026-09-19 — the species flash cards (`DAHRRYxWM2o`)
 
-### 🟡 SV-13 — Dwarf lanternshark length — DOWNGRADED 2026-09-19
+### ✅ SV-13 — Dwarf lanternshark length — **RESOLVED 2026-09-19, no printed error**
+
+**Read directly from the species cards in Canva:** *"Dwarf Lanternshark … They can fit in your hands! **About 6-8 inches long!** One of the smallest sharks ever!"* — **correct.**
+
+The "4–5 feet" that appeared in the earlier extraction belongs to the **Leopard Shark**, which sits beside it and genuinely is *"About 4-5 feet long!"* Canva returns text elements out of visual order, so the two ran together. **The card was always right; the extraction was wrong.** No correction is needed and nothing needs reprinting.
+
+---
+
+### (superseded) 🟡 SV-13 — Dwarf lanternshark length — DOWNGRADED 2026-09-19
 **Claim as extracted:** "Lengths up to 4–5 feet"
 **Concern:** the dwarf lanternshark is roughly **8 inches (20 cm)** — among the smallest sharks known. The card's own text calls it *"one of the smallest sharks in the world"*, so a 4–5 ft figure would contradict the same card by about six times.
 **Caveat:** Canva returned text elements out of visual order, so the figure may belong to the adjacent **leopard shark**, which genuinely is 4–5 ft.
