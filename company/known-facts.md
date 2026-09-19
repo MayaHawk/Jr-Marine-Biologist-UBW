@@ -53,6 +53,8 @@
 | **Kits are NOT uniform — contents and cost vary by topic** | 2026-08-18 |
 | **Every kit follows a STEAM structure: one Science, one Technology, one Engineering, one Art and one Math activity** | 2026-08-18 |
 | **Kits are age-tiered: AGE 4–6, AGE 7–10, AGE 10+** | 2026-08-18 |
+| 🛒 **THE STORE SELLS THREE AGE GROUPS: 4–6, 7–9, 10+.** Maya confirmed 2026-09-19 that the storefront age dropdown offers these three options. ⚠️ **Note the middle band reads 7–9 on the store, not 7–10 as recorded above on 2026-08-18.** Both are Maya's words on their own dates. **The store wording is what customers have actually been choosing**, so it is the one that should appear on card fronts — but the discrepancy is recorded, not silently resolved *(SH-31)*. | 2026-09-19 |
+| 🔴 **AGE 4–6 IS BUYABLE TODAY.** It is one of the three dropdown options *(confirmed 2026-09-19)*. **For Sharks, the 4–6 card set is NOT production-ready** — it is in the older design format, has no logo on the fronts, no `Card N of 5` numbering, and sits outside the ALL master file *(see `product-development/topics/sharks-age-4-6-readiness.md`)*. What has been shipped to any 4–6 buyer to date is **unknown** *(SH-32)*. | 2026-09-19 |
 | Standing packing instruction: **"pack in box not plastic bag"** | 2026-08-18 |
 | Supply lists exist for Sharks, Sea Turtles and Coral Reefs in Maya's Google Sheet | 2026-08-18 |
 | **Box: 3,000 custom printed mailers ordered from BoxUp, 7"×5"×3", $4,385.70 total** | 2026-08-18 |
@@ -67,6 +69,7 @@
 | ℹ️ **Scope limit:** Maya has confirmed the above **for Sharks only.** The activity-card count and tier structure for the other 23 topics have not been stated and must not be inferred from Sharks. | 2026-09-19 |
 | **Every OTHER kit contains 5 flash cards** — 7 is a Sharks-only exception | 2026-08-18 |
 | **Sharks is one of the 24 topics** — so the range is 24 total: 1 kit with 7 cards + 23 with 5 = **122 unique card designs** | 2026-08-18 |
+| ⚠️ **THE 122 FIGURE ABOVE ASSUMES ONE CARD SET PER TOPIC.** The store sells **three age groups**, and Sharks alone has **two** activity-card sets in the ALL master plus a **third** (4–6) outside it. **If every topic is sold in three age groups, the real design count is a multiple of 122, not 122.** ⛔ **This has NOT been confirmed** — Maya has spoken to the tier structure for **Sharks only**. No agent may extrapolate it to the other 23 topics. It is the single biggest open number in the business *(SH-33)*. | 2026-09-19 |
 | **Flash cards were trial-printed at $0.71 each** (Office Depot, colour both sides, good cardstock) — ⚠️ **a TRIAL price, not a bulk/production cost** | 2026-08-18 |
 | 🔴 **The production cost of flash cards has never been established** | 2026-08-18 |
 | **The Sharks kit is the most expensive kit in the range** | 2026-08-18 |
