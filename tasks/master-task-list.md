@@ -15,6 +15,24 @@ The Under Blue Waters project handover has been merged into these files. Prices,
 
 ---
 
+## 🎄 Q4 / CHRISTMAS — raised 2026-09-19, hard deadline
+
+**Christmas is the one direct-to-consumer volume spike of the year, and it lands inside the 90-day window.** The real deadline is **December 17** (last ship date), not December 25. Full detail: `sales/q4-christmas-window.md`.
+
+| # | Task | Owner | Deadline pressure |
+|---|---|---|---|
+| X-1 | 🔴 **Bulk flash card quote — THIS WEEK** | Maya | A 6-week print lead means ordering by ~Oct 15 |
+| X-2 | 🔴 **Time three kits** | Maya | Decides whether Q4 is a 100-kit or 500-kit opportunity |
+| X-3 | 🔴 **Decide how many kits to build for Q4** | Maya | Materials must be ordered within weeks |
+| X-4 | 🔴 **Fix the 17 digital packs (wrong PDF)** | Maya | Zero-fulfilment, ~100% margin, sells to Dec 24 — currently idle |
+| X-5 | Confirm USPS last-ship dates when published | Maya | The whole calendar hangs off it |
+| X-6 | Gift options — message, certificate, "gift a kit" | Sales | Standard for the season; none exists |
+| X-7 | Q4 campaign to the 781 warm list | Sales | After list verification (R-10) |
+
+> ⚠️ **Build before promoting.** A one-person operation taking Christmas orders it cannot fill is the worst outcome available — late gifts, no refunds (D-012), and the reviews that follow. Cap the offer and sell out; do not oversell.
+
+---
+
 ## 🎯 THE 2,000-KIT GOAL — set 2026-09-19
 
 **Three jobs make or break it. None is marketing.**
