@@ -108,7 +108,11 @@
 | U-19 | 🔴 **Will you get product liability quotes?** Researched range for an educational toy business is ~$300–$800/yr for $1M cover. | Maya | ⬜ |
 | U-20 | **Which components come from Temu, and can any supplier provide safety test certificates?** | Product, Operations | ⬜ |
 | U-21 | ~~Sea Turtle and Coral Reef contents?~~ **RECEIVED — supply lists transcribed.** | Product | ✅ |
-| U-28 | 🔴 **Is the packed "shark tooth necklace" a real fossil tooth, a replica, or the clay one the child makes?** Changes cost, sourcing and safety. | Product, Finance | ⬜ |
+| U-28 | ~~Is the packed shark tooth a real fossil, replica, or clay?~~ **ANSWERED 2026-09-19 from the Canva master set: BOTH, in different tiers.** Younger tier = the child makes one from clay. **Age 10+ = a supplied "Shark tooth (fossil or replica)".** | Product, Finance | ✅ |
+| N-18 | 🔴 **Fossil or replica?** The 10+ card says "fossil or replica" — they differ in cost, sourcing and safety. Which do you actually put in the box? | Product, Finance | ⬜ |
+| N-19 | 🔴 **The younger Sharks tier has TWO Science cards and no Technology card**, breaking the STEAM structure the catalog claims for every kit. Which card becomes Technology? | Product | ⬜ |
+| N-20 | 🔴 **The five Age 10+ Sharks cards have no photos placed** — all still say "Drop photo". That tier cannot print. | Product | ⬜ |
+| N-21 | **Cards read `No. 1 of 5`, you confirmed `Card 1 of 5`.** Change them, or keep "No."? The cards also carry the discipline name (Science, Math…) which the standard does not mention — keep it? It is a real asset for school buyers. | Product | ⬜ |
 | U-29 | ~~Flash cards per unit or pack?~~ **ANSWERED: $0.71 PER CARD.** | Finance | ✅ |
 | U-37 | 🔴 **Are the OTHER prices per unit or per pack?** Coffee filter $0.30 · rubber bands $0.10 · salt $0.50 · googly eyes $0.60 · notebook $0.71 · cellophane envelope $0.50. Googly eyes at $0.60 each seems unlikely — worth checking each. | Finance | ⬜ |
 | U-39 | ~~24 total or Sharks plus 24?~~ **ANSWERED: 24 total, Sharks included → 122 designs.** | Product | ✅ |
