@@ -4,6 +4,15 @@
 **Goal this serves:** D-010 — *sell 2,000 kits as quickly as possible for as much as possible.*
 **Metric it moves:** #3 **Kits committed in bulk orders** (and through it, #1 Kits sold).
 
+> ## 📍 READ `sales/partnerships/geographic-rings.md` FIRST
+> Maya's steer of 2026-09-19 sets **geography above channel** in the priority order: start closest to Delray Beach and work outward, because free shipping is absorbed by Maya and local delivery removes it entirely.
+>
+> **The short version:** postage runs ~$8.85–$12.00 per box, which is **more than the deepest discount currently offered ($6.41 on the 24-kit bundle).** A locally delivered order can therefore be *cheaper for the buyer and better for Maya at the same time.*
+>
+> **The delivery promise is ONE WEEK for local orders. Never same day. Never "immediately."** Assembly time has never been measured, and this business has already failed a customer once on an optimistic date (open question N-1).
+>
+> Every channel below is therefore read through the rings: **Ring 1** = local delivery within a week (Palm Beach · Broward · Miami-Dade) · **Ring 2** = extended local on a scheduled run, two-week window · **Ring 3** = shipped.
+
 > **Nothing in this file has been sent to anyone. No person, school, camp, museum or shop has been contacted. No relationship named here exists unless Maya says it does — no organisation is named anywhere in this file, deliberately.**
 
 ---
@@ -70,24 +79,33 @@ If that assumption holds, then **several of the channels below are closed until 
 Ranked on four things: **realistic order size · speed to close · how well Maya's credentials land · whether real budget exists.**
 Scores are the Sales Manager's judgement, not data. They are reasoning aids, not measurements.
 
-| Rank | Channel | Typical order | Speed to close | Credential fit | Budget exists? | Verdict |
-|---|---|---|---|---|---|---|
-| **1** | **Camps** — day camps, summer camps, marine/ocean camps, YMCA & parks-dept programs | **50–300** | 🟡 Fast conversation, **slow season** | 🟢🟢 **Best in the business** | 🟢 Yes — per-camper supply budget | The right channel. Wrong month. Build now, lands Q1–Q2 2027. |
-| **2** | **Homeschool co-ops & micro-schools** | **15–60** | 🟢 **Fastest of any bulk channel** | 🟢🟢 Homeschool mom + marine scientist | 🟡 Parent-funded, class fees | **The nearest real window: Oct–Dec buying for a January semester.** |
-| **3** | **Museums · aquariums · science & nature centers** | **50–150** | 🟡 2–4 months | 🟢🟢 An education director will take her seriously | 🟢 Program budget *and* gift-shop budget | Two doors in one building. Underrated. |
-| **4** | **Individual teachers & private / charter schools** | **24** (one class) | 🟡 Weeks for a teacher, months for a school | 🟢 Strong | 🟡 Small classroom budgets, PTA/PTO, grants | Reliable but low volume per unit of effort. 83 classrooms = the whole goal. |
-| **5** | **Corporate / sponsor / donor buys** | **200–1,000** | 🔴 Unpredictable | 🟢 Good — marine story sells | 🟢🟢 **Marketing budget, not education budget — least price-sensitive money in the list** | Highest upside, lowest predictability. One yes could be 25% of the goal. |
-| **6** | **Scout troops · 4-H · after-school clubs** | **10–30** | 🟢 Fast (a volunteer leader decides) | 🟢 Strong | 🔴 Small, often parent-collected | Fast and friendly. Not volume. |
-| **7** | **Libraries** — youth services, summer reading, STEAM circulation kits | **10–30** | 🔴 Slow (system purchasing, fiscal year) | 🟢 Strong | 🟡 Real but small and committed early | Worth seeding, not worth leading with. |
-| **8** | **Dive shops · water sports · charter & marina businesses** | **6–24** | 🟢 Very fast (owner decides) | 🟢🟢 Literally her world | 🔴 Small retail buy | **Best referral partner, weakest volume.** |
-| **9** | **Gift & toy retail wholesale** | **12–48 per store** | 🔴 Slow to build, needs a line sheet + terms | 🟡 Neutral — retail buyers buy product, not founders | 🟡 | ⛔ **Recommend NOT opening until COGS is known.** See §4. |
-| **10** | **School districts (district-level purchase)** | 200–1,000 | 🔴🔴 **3–12 months.** Vendor registration, W-9, COI, purchase orders, possible bid thresholds | 🟢 Strong | 🟢 Large | **Honest answer: this is not an "as quickly as possible" channel.** Do not build the plan on it. |
+**Ranked assuming Ring 1 first.** A channel that scores well nationally but poorly locally has been marked down, because postage eats the difference.
+
+| Rank | Channel | Best ring | Typical order | Speed to close | Credential fit | Budget exists? | Verdict |
+|---|---|---|---|---|---|---|---|
+| **1** | **Camps** — day camps, summer/ocean camps, county & municipal parks-and-recreation programs | 🟢 **Ring 1** | **50–300** | 🟡 Fast conversation, **slow season** | 🟢🟢 **Best in the business — and it is her own back yard** | 🟢 Yes — per-camper supply budget | The right channel. Wrong month. Build now, lands Q1–Q2 2027. |
+| **2** | **Homeschool co-ops & micro-schools** | 🟢 **Ring 1** | **15–60** | 🟢 **Fastest of any bulk channel** | 🟢🟢 Homeschool mom + marine scientist | 🟡 Parent-funded, class fees | **The nearest real window: Oct–Dec buying for a January semester.** Local delivery in a week is a decisive advantage here. |
+| **3** | **Museums · aquariums · science & nature centers · sea-turtle and marine conservation centers** | 🟢 **Ring 1** | **50–150** | 🟡 2–4 months | 🟢🟢 An education director will take her seriously | 🟢 Program budget *and* gift-shop budget | Two doors in one building. Underrated. |
+| **4** | **Individual teachers · private, charter and marine/environmental magnet schools** | 🟢 **Ring 1** | **24** (one class) | 🟡 Weeks for a teacher, months for a school | 🟢 Strong | 🟡 Small classroom budgets, PTA/PTO, grants | Reliable, low volume per unit of effort. 83 classrooms = the whole goal. **"On your desk within a week" is the closing line here.** |
+| **5** | **Corporate / sponsor / donor buys** | 🔵 Any ring | **200–1,000** | 🔴 Unpredictable | 🟢 Good — the marine story sells | 🟢🟢 **Marketing budget, not education budget — the least price-sensitive money in the list** | Highest upside, lowest predictability. One yes could be 25% of the goal. Worth chasing at any distance: the order absorbs freight. |
+| **6** | **Scout troops · 4-H · after-school clubs** | 🟢 Ring 1 | **10–30** | 🟢 Fast (a volunteer leader decides) | 🟢 Strong | 🔴 Small, often parent-collected | Fast and friendly. Not volume. **Ring 1 only — not worth a Ring 2 drive alone.** |
+| **7** | **Libraries** — county youth services, summer reading, STEAM circulation kits | 🟢 Ring 1 | **10–30** | 🔴 Slow (system purchasing, fiscal year) | 🟢 Strong | 🟡 Real but small and committed early | Worth seeding, not worth leading with. |
+| **8** | **Dive shops · water sports · charter & marina businesses** | 🟢 Ring 1 | **6–24** | 🟢 Very fast (the owner decides) | 🟢🟢 Literally her world | 🔴 Small retail buy | **Best referral partner, weakest volume.** Treat as introductions, not orders. |
+| **9** | **Gift & toy retail wholesale** | 🔵 Ring 3 | **12–48 per store** | 🔴 Slow to build; needs a line sheet and terms | 🟡 Neutral — retail buyers buy product, not founders | 🟡 | ⛔ **Recommend NOT opening until COGS is known.** See §4. |
+| **10** | **School districts (district-level purchase)** | 🔵 any | 200–1,000 | 🔴🔴 **3–12 months.** Vendor registration, W-9, COI, purchase orders, possible bid thresholds | 🟢 Strong | 🟢 Large | **Honest answer: this is not an "as quickly as possible" channel.** Do not build the plan on it. |
 
 ### The honest headline from this table
 
 > **The channel Maya is best suited to (camps) is seasonally four to seven months away. The channel that can move fastest (homeschool co-ops) has its buying window opening in the next 6–10 weeks. The channel with the biggest single cheque (corporate) cannot be forecast at all.**
 >
 > That combination means 2,000 is a **9-month job, not a 9-week job.** The full arithmetic is in `sales/path-to-2000-kits.md`.
+
+### 🟢 What the geographic steer changes about this ranking
+
+1. **Ranks 1–4 and 6–8 are all Ring 1 channels.** The seven best channels in the list are all reachable by car from Delray Beach. That is unusually convenient and it means the ring strategy costs almost nothing in channel quality.
+2. **Dive shops, scouts and libraries move up in usefulness and stay down in volume.** They are cheap to serve locally and they are the best source of *introductions* to camps and schools. Treat them as a referral network, not a revenue line.
+3. **Corporate is the one channel where distance genuinely does not matter** — a 500-kit order absorbs freight without noticing.
+4. **Wholesale (rank 9) gets worse, not better, under this steer.** It is a shipped channel *and* a half-price channel. Both of the things the geographic strategy is designed to avoid.
 
 ---
 
@@ -114,7 +132,7 @@ These are not objections to the strategy. They are the things that will bite in 
 | # | The issue | Why it matters at volume | Owner |
 |---|---|---|---|
 | 1 | **The personalized Certificate of Completion** (CONFIRMED to be in every kit) | A class set of 24 cannot be personalized without a **name roster** — and a child's name in a file is a privacy matter (CLAUDE.md §6). **ASSUMPTION A-025: bulk orders will need either a blank/self-fill certificate or a roster supplied by the buyer.** Nobody has decided which. | Product + Operations |
-| 2 | **Free shipping** | Free US shipping is CONFIRMED and absorbed by margin (R-03). **ASSUMPTION A-024: 100 kits to ONE address costs far less per kit than 100 separate parcels.** If true, this is *the* structural argument for why bulk pricing is less dilutive than it looks — the discount is partly funded by shipping Maya no longer pays. **Finance must verify before it is used in a quote.** | Finance |
+| 2 | **Free shipping** | Free US shipping is CONFIRMED and absorbed by margin (R-03), at a stated ~$8.85–$12.00 per box. **Local delivery removes it entirely — a bigger lever than any discount tier.** For shipped orders, **ASSUMPTION A-024: 100 kits to ONE address costs far less per kit than 100 separate parcels.** **Finance must verify before either is used in a quote.** See `sales/partnerships/geographic-rings.md`. | Finance |
 | 3 | **The Complete Digital Library ($99, CONFIRMED price, effectively zero cost to deliver)** | This is the best margin lever in any bulk offer — "a class set, plus the full digital library for the teacher" costs nothing to add and raises the value of the deal enormously. 🔴 **It is currently unusable: 17 of the digital packs contain the WRONG PDF** (`product-catalog.md` §A0). Selling or bundling it today would deliver customers the wrong file. | Product |
 
 > 🟢 **Fixing those 17 PDFs is the cheapest revenue unlock in the business.** It costs no money, it takes no vendor, and it turns on a $99 zero-fulfilment product *and* the single strongest sweetener in every bulk offer described in this folder.
@@ -125,13 +143,15 @@ These are not objections to the strategy. They are the things that will bite in 
 
 | # | Action | Why it is in this position | Approval needed? |
 |---|---|---|---|
-| 1 | **Get product liability insurance quotes** | May be the gate on channels 1, 3, 4, 7, 9, 10. One call. | Maya — spend |
-| 2 | **Add one bulk question to the warm-list email** ("do you run or teach a group of kids?") | Free. Turns 781 retail contacts into a bulk prospecting list. Do this *before* the send. | Maya — approve wording |
-| 3 | **Fix the 17 digital PDFs** | Unlocks the best bundle sweetener and a zero-cost product | Product |
-| 4 | **Open the homeschool co-op / micro-school conversations** | Their buying window is Oct–Dec. It is 19 September. | Maya — approve script |
-| 5 | **Open camp conversations now, for a spring decision** | Camp directors are reachable in autumn and buying in Jan–April. Build the relationship in the quiet season. | Maya — approve script |
-| 6 | **Cost the Sharks kit** (necklace + assembly minutes) | Decides the Sharks question and unlocks every price below the 24-kit tier | Finance + Maya |
-| 7 | Museums / nature centers | 2–4 month cycle — start now, lands winter/spring | Maya — approve script |
+| 1 | **Time three kits with a stopwatch** | 30 minutes. Sets the real ceiling on the one-week local delivery promise. Until this exists, "within a week" is a guess — and an optimistic date has already cost this business a customer (N-1). | Maya — 30 min |
+| 2 | **Export the Click-N-Ship history (U-8)** | 10 minutes. Turns the $8.85–$12.00 postage range into a real number, which is the foundation of the entire local-delivery argument. | Maya — 10 min |
+| 3 | **Get product liability insurance quotes** | May be the gate on channels 1, 3, 4, 7, 9, 10. One call. | Maya — spend |
+| 4 | **Add one bulk question to the warm-list email** ("do you run or teach a group of kids?") **and a local line** ("if you're in Palm Beach, Broward or Miami-Dade I'll deliver them myself within a week") | Free. Turns 781 retail contacts into a bulk prospecting list, and the camp list is heavily South Florida. Do this *before* the send. | Maya — approve wording |
+| 5 | **Fix the 17 digital PDFs** | Unlocks the best bundle sweetener and a zero-postage product — which is how Ring 3 is made worth serving | Product |
+| 6 | **Open the Ring 1 homeschool co-op / micro-school conversations** | Their buying window is Oct–Dec. It is 19 September. | Maya — approve script |
+| 7 | **Open Ring 1 camp and parks-department conversations now, for a spring decision** | Camp directors are reachable in autumn and buying in Jan–April. Build the relationship in the quiet season. | Maya — approve script |
+| 8 | **Cost the Sharks kit** (necklace + assembly minutes) | Decides the Sharks question and unlocks every price below the 24-kit tier | Finance + Maya |
+| 9 | Ring 1 museums / nature centers | 2–4 month cycle — start now, lands winter/spring | Maya — approve script |
 
 ---
 
@@ -139,6 +159,7 @@ These are not objections to the strategy. They are the things that will bite in 
 
 | Channel | File |
 |---|---|
+| **Geographic rings (read first)** | **`sales/partnerships/geographic-rings.md`** |
 | Camps | `sales/partnerships/camps.md` |
 | Homeschool co-ops & micro-schools | `sales/partnerships/homeschool-co-ops-and-micro-schools.md` |
 | Museums, aquariums & nature centers | `sales/partnerships/museums-aquariums-nature-centers.md` |

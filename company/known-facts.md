@@ -92,7 +92,8 @@
 | **Local delivery promise: within ONE WEEK. No same-day delivery.** | 2026-09-19 |
 | 🔴 **THE BUSINESS DOES NOT OFFER REFUNDS** — standing policy, not case-by-case | 2026-09-19 |
 | Order R916215991 receives the **$99 Digital Library**, not a refund | 2026-09-19 |
-| ⏱️ **Kit assembly time: 50 minutes** *(needs confirming: per kit, or for three kits?)* | 2026-09-19 |
+| **Minimum order for free local delivery: 50 kits** | 2026-09-19 |
+| ⏱️ Kit assembly time: **still never measured** | — |
 
 ## 💲 PRICES — CONFIRMED September 2026
 

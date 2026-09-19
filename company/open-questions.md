@@ -35,6 +35,7 @@
 | N-5 | 🚨 **Are the gambling spam pages still on underbluewaters.com?** Not mentioned in September's work. | Maya | ⬜ |
 | N-6 | 🔴 **Were the 781 camp contacts given permission to be emailed about products**, or only about camps? | Sales, Legal | ⬜ |
 | N-7 | **Has the Terms of Service refund line been fixed?** It contradicts the new no-refund policy. | Maya | ⬜ |
+| N-9 | ⏱️ 🔴 **Time yourself packing three kits.** Still the cheapest unanswered question in the business. It decides whether a 50-kit order fits inside the one-week delivery promise (8 hours at 10 min/kit, 42 hours at 50 min/kit) and whether 2,000 kits is 14 weeks of work or 42. | Ops, Sales, Finance | ⬜ |
 | N-8 | **Order R749306095 — ship it or not?** Label never purchased. | Ops | ⬜ |
 
 ---

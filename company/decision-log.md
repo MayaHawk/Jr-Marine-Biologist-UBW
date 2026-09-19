@@ -143,4 +143,16 @@ Each entry uses this shape:
 
 ---
 
+### D-013 — Free local delivery starts at 50 kits
+- **Date:** 2026-09-19
+- **Decision:** The minimum order qualifying for **free local hand delivery is 50 kits.** Below that, an order ships.
+- **Made by:** Maya Hawk
+- **The economics:** 50 kits is a **$2,299.50** order at full price, and delivering rather than shipping recovers roughly **$440–$600** of postage that would otherwise come straight out of margin. A couple of hours of driving for ~$500 is a good trade. **40 buyers at 50 kits reaches the 2,000-kit goal.**
+- **The consequence to be aware of:** a typical classroom is about 24 students, so **one teacher acting alone cannot reach 50.** They need a second class, a colleague, a grade level, or a co-op. This is a deliberate push toward larger orders — it suits the goal, but it changes who outreach targets: grade-level leads, curriculum coordinators, principals, co-op organisers, camp and after-school directors. Individual teachers are pointed at the $45.99 single kit or the $9.99 digital pack.
+- **⚠️ Unresolved dependency:** the one-week local delivery promise (D-011) **cannot be safely quoted on a 50-kit order until assembly time is measured.** At 10 minutes a kit, 50 kits is 8 hours. At 50 minutes, it is 42 hours — more than a working week, before anything else gets done.
+- **Affects:** `sales/partnerships/`, all bulk pricing tiers, outreach targeting
+- **Revisit when:** assembly time is known, or demand shows the floor is set wrong.
+
+---
+
 *(New decisions are appended below, newest last.)*

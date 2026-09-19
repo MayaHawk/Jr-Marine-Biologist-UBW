@@ -22,7 +22,7 @@ The Under Blue Waters project handover has been merged into these files. Prices,
 | # | Task | Owner | Why it is on this list |
 |---|---|---|---|
 | G-1 | 🔴 **Get the bulk flash card quote** | Maya | 2,000 kits = 14,000 cards. At the trial price that is $9,940. This is now the highest-value phone call in the business. |
-| G-2 | 🔴 **Time yourself packing three kits** | Maya | At 2,000 kits, 5 vs 15 minutes each is the difference between 4 weeks and 12 weeks of your life |
+| G-2 | 🔴 **Time yourself packing three kits** | Maya | Now blocks the delivery promise too: a 50-kit order is 8 hours at 10 min/kit but 42 hours at 50 min/kit. One fits inside a week; the other does not. |
 | G-3 | 🔴 **Build the bulk-buyer strategy** — schools, districts, camps, co-ops, wholesale | Sales Manager | The warm list tops out near 52% of goal. Bulk is the only route that reaches 2,000. |
 | G-4 | **Cost one full kit** so margin per kit is real | Finance | "For as much as possible" cannot be measured without it |
 | G-5 | **Fix GA4 purchase tracking** | Maya | 0 purchases currently recorded — the goal cannot be tracked at all |
