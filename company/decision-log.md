@@ -117,4 +117,15 @@ Each entry uses this shape:
 
 ---
 
+### D-011 — Sell outward from Delray Beach, delivering locally within one week
+- **Date:** 2026-09-19
+- **Decision:** Bulk outreach starts with buyers nearest Delray Beach and works outward. Local orders are **hand-delivered within one week — never same day.**
+- **Made by:** Maya Hawk
+- **Why this option:** Shipping is free to the customer, so Maya absorbs roughly $8.85–$12 per box. Delivering locally instead of shipping recovers that in full — about **$1,000 on a 100-kit order**, and up to **$20,000** across the 2,000-kit goal. It is also the one place where "as quickly as possible" and "for as much as possible" stop conflicting: a local buyer can be offered a better deal while Maya keeps more, because the postage never leaves her pocket. Maya's credibility is also strongest locally, having run ocean adventure camps out of Delray Beach since 2009.
+- **Why one week and not same day:** Maya packs every kit herself and assembly time has never been measured. A same-day promise on a bulk order is capacity nobody has confirmed, and this business has already had one customer wait 50 days after being told a kit was coming. A week is honest, defensible, and still faster than any national competitor.
+- **Affects:** `sales/partnerships/`, all outreach copy, `operations/sops/getting-orders-out-the-door.md`, delivery pricing
+- **Revisit when:** assembly time is measured, or demand outgrows one person delivering.
+
+---
+
 *(New decisions are appended below, newest last.)*

@@ -87,6 +87,9 @@
 | Site published with all fixes | 2026-09-17 |
 | **New policy: no refund, credit or discount is offered to any customer without Maya's explicit permission** | 2026-09-17 |
 | Stated goal: **"need 10K in a week"** | 2026-09-16 |
+| 🎯 **GOAL: sell 2,000 kits as quickly as possible for as much as possible** | 2026-09-19 |
+| **Bulk strategy is geographic — start nearest Delray Beach and work outward**, to avoid postage | 2026-09-19 |
+| **Local delivery promise: within ONE WEEK. No same-day delivery.** | 2026-09-19 |
 
 ## 💲 PRICES — CONFIRMED September 2026
 

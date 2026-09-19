@@ -32,6 +32,19 @@ You have orders waiting. Do this once, in this order:
 
 ---
 
+## A2. LOCAL BULK ORDERS — hand delivery, from 2026-09-19
+
+**Promise: delivered within ONE WEEK. Never same day.** *(Decision D-011.)*
+
+| | |
+|---|---|
+| Why | Shipping is free to the customer, so Maya absorbs ~$8.85–$12 per box. Delivering recovers all of it — roughly **$1,000 on a 100-kit order.** |
+| Rhythm | One pack day, then one delivery run. Batch deliveries; do not drive per order. |
+| Advantage | Meeting the decision maker converts better and opens repeat orders. National competitors cannot match a seven-day local promise. |
+| ⚠️ Before promising a week | **Assembly time has never been measured.** A 100-kit order at an unknown minutes-per-kit is an unknown number of days. Time three kits before quoting any delivery window on a bulk order. |
+
+**Never promise a delivery date that depends on capacity nobody has measured.**
+
 ## B. The ongoing weekly routine
 
 | When | Do |
