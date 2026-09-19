@@ -106,6 +106,8 @@
 | 🔴 Three printed sheets for Navigating 10+ **do not exist yet** — tide table, Moon calendar, chart grid | 2026-09-16 |
 | **CARD DESIGN STANDARD set** — front: photo, no title on photo, topic + card number only. Back: bold activity title, steps, kit materials, then NOT INCLUDED items at the bottom in italics | 2026-09-19 |
 | **Card design DONE: Fresh vs Salt Water, Navigating Our Oceans** | 2026-09-19 |
+| **Marine Mammals card design is 90% done** | 2026-09-19 |
+| 🔴 **Front photo must be a REAL MARINE PHOTOGRAPH** — not illustration, not clip art | 2026-09-19 |
 | **Navigating Our Oceans is complete on BOTH cards and materials list** — the reference build | 2026-09-19 |
 
 ## 💲 PRICES — CONFIRMED September 2026

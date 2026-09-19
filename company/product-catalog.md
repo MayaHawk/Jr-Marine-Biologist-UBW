@@ -135,7 +135,7 @@ This means **there is no single COGS figure for "a kit."** Each topic must be co
 |---|---|---|---|---|---|---|
 | 1 | **Navigating our Oceans / Boaters Safety** | `DAHUeBrqERY` | 27 | 2026-09-16 | ✅ **DONE** | ✅ **DONE** |
 | 2 | **Fresh VS Salt Water** | `DAHUd_P8ro8` | 22 | 2026-09-09 | ✅ **DONE** | ❌ |
-| 3 | **Marine Mammals** | `DAHUeHZVZVU` | 24 | **2026-09-19** | ⬜ confirm | ✅ **DONE** |
+| 3 | **Marine Mammals** | `DAHUeHZVZVU` | 24 | **2026-09-19** | 🟡 **90% done** | ✅ **DONE** |
 | 4 | Coral Reefs | `DAHUeOl6uuE` | 22 | 2026-09-10 | ⬜ | 🟡 rough |
 | 5 | Making Sense of Sharks | `DAHUeEVgafM` | 20 | 2026-09-07 | ⬜ | 🟡 rough |
 | 6 | A Sea Turtle's Journey | `DAHUeN4OWDw` | 20 | 2026-09-07 | ⬜ | 🟡 rough, 2 versions |
@@ -170,7 +170,7 @@ This means **there is no single COGS figure for "a kit."** Each topic must be co
 | | Count |
 |---|---|
 | Topics with a design set | **24 of 24** ✅ |
-| Cards finished to standard | **2** *(possibly 3)* |
+| Cards finished to standard | **2 done + 1 at 90%** |
 | Master materials lists built | **2** |
 | **Complete on both** | **1 — Navigating our Oceans** |
 

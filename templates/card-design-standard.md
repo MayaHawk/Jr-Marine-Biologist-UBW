@@ -10,9 +10,13 @@
 
 ## FRONT OF CARD
 
+> 🔴 **The photo must be a real marine photograph.** This is not a style preference — it is the brand. `company/brand-voice-guide.md` says the brand must read as *"created by real marine educators"* and must never look like a generic craft box. An illustrated or stock-cartoon front undoes that in the half-second before anyone reads a word. A real photograph of a real animal is the fastest possible signal that a marine scientist made this.
+>
+> **Sourcing is an open question:** Maya's own photography, licensed stock, or public-domain science imagery (NOAA and similar)? Every image needs usage rights confirmed before print. Logged as N-16.
+
 | Rule | Detail |
 |---|---|
-| **Photo** | A front photo. Full-bleed image. |
+| **Photo** | 🔴 **A REAL MARINE PHOTOGRAPH.** Confirmed 2026-09-19 — not an illustration, not clip art, not AI-generated imagery. Full-bleed. |
 | ❌ **No title on the photo** | The activity title does **not** appear on the front |
 | **Only two pieces of text** | The **topic name** and the **card number** |
 | Card number format | `Card 3 of 5` *(see confirmation below)* |
@@ -76,7 +80,7 @@ This is what lets the materials list be built automatically and trusted. A card 
 |---|---|---|
 | **Fresh vs Salt Water** | ✅ **DONE** | ❌ not built |
 | **Navigating Our Oceans** | ✅ **DONE** | ✅ **DONE** |
-| **Marine Mammals** | ⬜ needs confirming | ✅ **DONE** |
+| **Marine Mammals** | 🟡 **90% done** | ✅ **DONE** |
 | Sharks | ⬜ | 🟡 rough only |
 | Sea Turtles | ⬜ | 🟡 rough, two versions |
 | Coral Reefs | ⬜ | 🟡 rough only |
@@ -91,9 +95,9 @@ This is what lets the materials list be built automatically and trusted. A card 
 | # | Question |
 |---|---|
 | 1 | **Card number format** — is it `Card 3 of 5`? I read "our it 5" as "out of 5". Confirm the exact wording and where it sits on the card. |
-| 2 | **Is Marine Mammals card-design done?** It has a finished materials list, but you named only Fresh vs Salt and Navigating as done. |
+
 | 3 | **Does the NOT INCLUDED block carry a heading**, or are the italics alone the signal? |
-| 4 | **Front photo — any rule on subject?** Real marine photography only, or illustration allowed? |
+
 | 5 | **Does the topic name sit in a fixed position** — corner, top, bottom? |
 
 ## ⚠️ Needs Maya's Approval
