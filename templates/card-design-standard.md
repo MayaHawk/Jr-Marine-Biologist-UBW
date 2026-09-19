@@ -81,7 +81,7 @@ This is what lets the materials list be built automatically and trusted. A card 
 | **Fresh vs Salt Water** | ✅ **DONE** | ❌ not built |
 | **Navigating Our Oceans** | ✅ **DONE** | ✅ **DONE** |
 | **Marine Mammals** | 🟡 **90% done** | ✅ **DONE** |
-| Sharks | ⬜ | 🟡 rough only |
+| **Sharks** | ❌ **0 of 10 cards meet the standard** — audited 2026-09-19, see `product-development/topics/sharks-card-checklist.md` | ✅ **DONE** — rebuilt to the Marine Mammals format |
 | Sea Turtles | ⬜ | 🟡 rough, two versions |
 | Coral Reefs | ⬜ | 🟡 rough only |
 | *The other 18* | ⬜ | ❌ |
@@ -101,6 +101,7 @@ Front and back are fully specified. The three remaining items below are refineme
 
 
 | 3 | **Does the NOT INCLUDED block carry a heading**, or are the italics alone the signal? |
+| 4 | 🔴 **Should the STEAM discipline name stay on the card front?** Cards currently read `Sharks · Science · No. 1 of 5`. The standard does not mention the discipline. **Recommendation: keep it** — "Science" printed on a card is exactly what a curriculum coordinator looks for, and it makes the STEAM structure visible rather than claimed. This is a proposed amendment affecting all 122 cards. *(SH-13)* |
 
 | 5 | **Does the topic name sit in a fixed position** — corner, top, bottom? |
 
