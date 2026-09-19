@@ -18,7 +18,7 @@ Fix these four and most of the set is done.
 | **1. No photo placed** | 🔴 **All five 10+ cards** | Each carries placeholder text — *"Drop photo…"*, *"Drop background photo"*. D-015 requires a **real marine photograph**, full bleed. **The 10+ tier cannot print.** Usage rights must be confirmed first (N-16). |
 | **2. "(not included)" written inline** | Tier A cards 1 and 2 | The standard requires a **separate italicised NOT INCLUDED block at the bottom**, not a bracket inside the main materials line. |
 | **3. Missing NOT INCLUDED items entirely** | 🔴 10+ cards 1, 2, 3, 4, 5 | Scissors, cups, blindfold, timer, hair dryer, hairspray, calculator and a helper are listed in the **main** materials block as if they were packed. Every one of them is a phantom item that would otherwise get costed, ordered and packed. |
-| **4. Number worded "No. N of 5"** | **All ten cards** | Maya confirmed the wording **`Card [N] of 5`**, and confirmed 2026-09-19 that **each tier numbers its own five cards 1–5 independently**. Every card currently reads `No. 1 of 5`. ✅ Safe to renumber now. *(But see the new duplicate-number flag and the still-open discipline-name question, below.)* |
+| **4. Number worded "No. N of 5"** | **All ten cards** | Maya confirmed the wording **`Card [N] of 5`**, and confirmed 2026-09-19 that **each tier numbers its own five cards 1–5 independently**. Every card currently reads `No. 1 of 5`. ✅ Safe to renumber now. *(See also the still-open discipline-name question and the age-band recommendation, below.)* |
 | **5. Editor artifacts** | 🔴 The 10+ pages | The words **"Replace"** and **"Edit"** appear in the file. Canva leftovers. **Must not reach print.** |
 
 ### Card numbering — SETTLED. Discipline name — still open.
@@ -53,16 +53,20 @@ So every `Renumber` line below is now safe to action: Tier A becomes `Card 1 of 
 
 🟡 **Small band-naming point, not resolved here:** Maya's statement names the younger tier **7–9**, while `known-facts.md` records the kit age bands as **4–6 / 7–10 / 10+** and assumption A-045 reads Tier A as 7–10. Whichever wording is printed must be picked deliberately, because it will appear on every card front.
 
-#### 🔴 WHAT THIS REVEALS — Sharks is an age-variant product, and nothing has been designed for that
+#### 🔴 WHAT THIS REVEALS — Sharks is an age-selected product, and the selling and packing side of that is not designed yet
 
-If only one tier ships per kit, then **"a Sharks kit" is really two different products sharing one name** — possibly three, if Age 4–6 becomes a tier (N-24). Nothing in the catalog, the store listings, the pack list or the packing SOP currently accounts for that. **These are raised, not answered** — open questions **SH-21** to **SH-24**:
+**"A Sharks kit" is really two different products sharing one name** — possibly three, if Age 4–6 becomes a selectable group (N-24). ✅ **Maya has confirmed the buyer picks the age group at purchase.** What has *not* been designed is everything that follows from that. **These are raised, not answered** — open questions **SH-22** to **SH-27**:
 
-- **How does a buyer choose their tier** — at checkout, or does someone have to email them after the order?
-- **Is each tier a separate product listing / SKU**, or one listing with an option?
-- **What happens on a bulk order of 50–100 kits** to a school or camp — mixed tiers, or all one?
-- **Does Age 4–6 become a third shipping tier**, or is it a digital/bonus set?
+- 🔴 **Does the store actually offer the age choice today?** Neither the GoDaddy store nor Under Blue Waters has been verified as presenting an age selector. **If it does not, orders are arriving with no tier recorded and nobody knows which five cards to pack** — including orders already in hand. *(SH-26.)*
+- 🔴 **What gets packed if a buyer does not state an age group?** There is no default on record. *(SH-27.)*
+- **Is each tier a separate product listing / SKU**, or one listing with an age option? *(SH-22.)*
+- **On a bulk order of 50–100 kits** to a school or camp: is the age group chosen **once for the whole order, or per kit?** *(SH-23 — this one bears on the 2,000-kit goal, because it decides whether a bulk buyer is buying one pick list or many.)*
+- **Does Age 4–6 become a third selectable group**, or is it a digital/bonus set? *(SH-24.)*
 
-⚙️ **For `operations-fulfillment-manager` and `finance-manager` — this multiplies card inventory.** Each topic's tiers must now be **stocked, stored and picked separately**, and **a picker can put the wrong tier in a box** — an error the customer only discovers after opening. That is a real fulfilment risk with a real cost, not a hypothetical. It should be costed and designed against before any volume run.
+⚙️ **Flagged for `operations-fulfillment-manager` and `finance-manager`** *(stated here for them to act on — I have not edited their files):*
+- **Card inventory multiplies.** Each topic's tiers must be **stocked, stored, counted and picked separately.**
+- **A picker can put the wrong tier in a box.** Against the confirmed 10-minute pack, that is a real error mode, not a hypothetical — and one the customer only discovers after opening. It needs a check step in the packing SOP.
+- **Finance: the printed card cost per kit is 5 activity cards** — not 7, not 10. That sharpens the figure but **does not resolve** the unreconciled "7 flash cards" entry below, and **no cost figure has been adjusted here.** The reconciliation is Maya's to give *(SH-25)*.
 
 #### ❓ NOT RECONCILED — 7 flash cards versus 5 activities per kit
 
@@ -310,8 +314,9 @@ They may be counting **different things** — collectible **species** flash card
 ## ⚠️ Needs Maya's Approval
 
 - [x] ~~**Confirm `Card N of 5` is still correct**~~ ✅ **ANSWERED 2026-09-19 — "5 activities per age group" and "No only 5 activites ship per kit."** Each tier numbers its own five cards 1–5 independently; 10 designs exist, **5 ship per kit.**
-- [ ] 🔴 **NEW — approve printing the age band on the card front** (`Sharks · Ages 7–9 · Card 1 of 5`). A judgement call, not a forced fix: it closes the missing-age-label gap in flag F-12 and tells the parent and the packer which variant they are holding. **Blocks typesetting on sequence** — adding it later means re-typesetting all ten fronts twice. *(SH-20.)*
-- [ ] 🔴 **NEW — decide how the age variants are sold and packed.** Only one tier ships per kit, so Sharks is two products (maybe three) under one name. Checkout choice, SKU structure, bulk-order handling, and whether Age 4–6 becomes a third shipping tier. *(SH-21 to SH-24. Ops and Finance need this — separate stock, separate picking, and a real risk of the wrong tier going in the box.)*
+- [ ] 🔴 **NEW — approve printing the age band on the card front** (`Sharks · Ages 7–9 · Card 1 of 5`). The buyer picks an age group, so the band is how the **parent verifies they got the set they paid for** and how the **packer verifies they picked the right one**. It also closes flag F-12. **Blocks typesetting on sequence** — adding it later means re-typesetting all ten fronts twice. *(SH-20.)*
+- [ ] 🔴 **NEW — does your store actually offer the age choice today?** If not, orders are arriving with **no tier recorded**, including ones already waiting. *(SH-26, SH-27.)*
+- [ ] 🔴 **NEW — decide how the age variants are sold and packed.** SKU structure, what happens with no age stated, bulk-order handling (one tier for all 50, or per kit), and whether Age 4–6 becomes a third group. *(SH-22 to SH-24, SH-27. Ops and Finance need this — separate stock, separate picking, and a real risk of the wrong tier going in the box.)*
 - [ ] ❓ **NEW — reconcile "7 flash cards" with "5 activities ship per kit."** Both are your words, on different dates. They may be counting species cards versus activity cards. **Nothing will be adjusted to make them agree until you say which.** *(SH-25.)*
 - [ ] **Rule on the discipline name on the front** — keep it and amend D-015, or remove it. Affects all 122 cards. **Interacts with the age band above: together they make four pieces of text on a front that D-015 limits to two.** *(SH-13; team is working on the ASSUMPTION it stays — A-048.)*
 - [ ] **Source five real marine photographs for the 10+ tier**, with usage rights *(N-16)*
