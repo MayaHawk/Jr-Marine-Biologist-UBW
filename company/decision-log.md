@@ -155,4 +155,22 @@ Each entry uses this shape:
 
 ---
 
+### D-014 — Packing rate confirmed at 10 minutes per box, conditionally
+- **Date:** 2026-09-19
+- **Confirmed by:** Maya Hawk
+- **The figure:** **10 minutes to pack one box** — *once everything is organised for shipping, and once a master material list exists.*
+- **Why it matters:** this was the most-blocking unknown in the business. It unblocks five things at once:
+  - **The one-week local delivery promise (D-011) is now honest.** A 50-kit order is 8.3 hours; a 100-kit order is ~2 working days.
+  - **The 2,000-kit goal drops from a possible 42 weeks of packing to ~8.3 weeks** for one person.
+  - **Christmas is comfortably feasible** — even 500 kits is about 2 weeks of packing inside a 12-week window.
+  - **Labour becomes countable in margin for the first time:** ~$3.33/kit at $20/hr, about 7% of the $45.99 price.
+  - **The hire-or-not question softens.** One person can do this; help would speed it, not rescue it.
+- **⚠️ The two conditions are not decoration:**
+  1. The **organising/staging step sits outside the 10 minutes** and is unmeasured. True cost per kit is 10 minutes plus an amortised share of staging.
+  2. **The master material list does not exist.** Maya named it herself as the precondition. Until it does, the 10-minute rate is not reproducible at volume.
+- **Affects:** `company/goals-and-metrics.md`, `sales/q4-christmas-window.md`, `sales/path-to-2000-kits.md`, `finance/cogs/`, every delivery promise
+- **Revisit when:** staging time is measured, or the rate changes at volume.
+
+---
+
 *(New decisions are appended below, newest last.)*

@@ -93,7 +93,9 @@
 | 🔴 **THE BUSINESS DOES NOT OFFER REFUNDS** — standing policy, not case-by-case | 2026-09-19 |
 | Order R916215991 receives the **$99 Digital Library**, not a refund | 2026-09-19 |
 | **Minimum order for free local delivery: 50 kits** | 2026-09-19 |
-| ⏱️ Kit assembly time: **still never measured** | — |
+| ⏱️ **Kit packing time: 10 minutes per box** — *conditional: once everything is organised for shipping, and once a master material list exists* | 2026-09-19 |
+| ⏱️ The **organising/staging step is NOT inside those 10 minutes** and has never been measured | 2026-09-19 |
+| 🔴 **A master material list does not yet exist** — Maya named it as the precondition for the 10-minute pack rate | 2026-09-19 |
 
 ## 💲 PRICES — CONFIRMED September 2026
 
