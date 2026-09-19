@@ -5,47 +5,91 @@
 
 ---
 
-## 🔴 THE STATED GOAL IS NOW OBSOLETE — needs replacing
+## 🎯 THE GOAL — set by Maya, 2026-09-19
 
-**The original goal, set 2026-08-18:**
-> Build a reliable system for attracting qualified customers and increasing paid Junior Marine Biologist kit **subscriptions**, while maintaining healthy profit margins and delivering an excellent educational experience.
+> # Sell 2,000 kits, as quickly as possible, for as much as possible.
 
-**On 2026-09-17 the subscription was discontinued** (decision D-005). There is no subscription to increase. **The single most important sentence in this whole system now points at a product that no longer exists.**
+**CONFIRMED.** This replaces the original subscription goal, which was voided when the subscription was discontinued (D-005). Recorded as decision **D-010**.
 
-Maya stated a new goal on 2026-09-16: **"need 10K in a week."** That is a revenue target, not a system goal, and it has no date, no definition of whether it means revenue or profit, and no stated baseline.
+### Why this is a good goal
+It is a **number**, it has a **direction**, and it points at something real: Maya already owns **3,000 printed boxes**, bought for $4,385.70. This goal converts two-thirds of an existing asset into cash. That is far more concrete than "increase subscriptions."
 
-### 🔴 NEEDS FOUNDER INPUT — the most important open question in the business
-The goal needs restating in the new model. A version that keeps the original intent might be:
+### The tension inside it — Maya should know this
+"**As quickly as possible**" and "**for as much as possible**" pull in opposite directions.
 
-> *Build a reliable system for attracting qualified customers and increasing repeat kit and bundle purchases, while maintaining healthy profit margins and delivering an excellent educational experience.*
-
-**Maya must confirm or replace this.** Every agent checks recommendations against this sentence, so while it is wrong, the whole team is aiming at the wrong target.
-
-### What replaces "active paid subscribers" as the headline metric?
-Candidates, for Maya to choose:
-| Candidate | Why it might be right |
+| Pulls toward speed | Pulls toward price |
 |---|---|
-| **Kits sold per month** | Simple, direct, replaces subscriber count |
-| **Repeat purchase rate** | Closest to the old retention logic without a subscription |
-| **Bundle share of revenue** | Bundles are the prepaid substitute for subscriptions — up-front cash |
-| **Revenue per month** | Matches the "$10K" framing, but says nothing about profit |
+| Bulk buyers, wholesale, discounts, schools | Full-price direct-to-consumer |
+| One buyer takes 100+ kits | One buyer takes 1 kit |
+| Lower per-kit revenue | Higher per-kit revenue |
 
-Read carefully, that goal has **four** parts, and all four must hold at once:
+**They cannot both be maximised.** Where they conflict, the Chief of Staff will present the trade-off and ask Maya to decide, rather than quietly picking one.
 
-| Part | Means |
+### What 2,000 kits is worth
+| Route | Per kit | Total |
+|---|---|---|
+| Full price direct | $45.99 | **$91,980** |
+| 12-kit bundle rate | $42.00 | $84,000 |
+| 24-kit bundle rate | $39.58 | $79,160 |
+| School / bulk (illustrative $35) | $35.00 | $70,000 |
+| Wholesale (illustrative 50% off) | $23.00 | $46,000 |
+
+*Only the first three are confirmed prices. The bulk and wholesale figures are illustrations, not a recommendation.*
+
+### 🔴 The arithmetic that decides the strategy
+
+| | |
 |---|---|
-| **Reliable system** | Repeatable and documented, not one-off bursts of effort |
-| **Qualified customers** | People who will actually stay subscribed — not just traffic |
-| **Increasing paid subscriptions** | Paid, recurring. The headline number. |
-| **Healthy margins + excellent education** | Growth that loses money or lowers quality does not count as progress |
+| Site traffic, 28 days | **107 users** |
+| Purchases recorded | **0** |
+| Tier 1 warm list | 781 |
+| If **10%** of the warm list buys a kit | **78 kits — 3.9% of goal** |
+| If **every** mailable contact buys one | 1,041 kits — **52% of goal** |
+
+> **Even a flawless warm-list campaign cannot reach 2,000.** The warm list is the right first move — it is the fastest cash available and those people already trust Maya — but 2,000 requires **bulk buyers**.
+
+| Bulk order size | Buyers needed for 2,000 |
+|---|---|
+| 24 kits (a classroom) | 83 |
+| 50 kits | 40 |
+| 100 kits | 20 |
+| 200 kits | 10 |
+| 500 kits | 4 |
+
+**Twenty buyers at 100 kits each hits the goal.** That is a completely different job from selling 2,000 boxes one at a time — and it is a job Maya is unusually well suited to, given she has run camps and knows this world.
+
+### ⚠️ 2,000 kits is a production problem before it is a sales problem
+
+| What | At 2,000 kits |
+|---|---|
+| **Boxes** | ✅ Already owned — 3,000 in stock |
+| **Flash cards** | **14,000 cards.** At the $0.71 trial price that is **$9,940.** 🔴 |
+| **Activity materials** | Unknown × 2,000 — **the largest unknown cost in the plan** |
+| **Postage** *(free to customer, absorbed)* | $17,700–$24,000 depending on rate |
+| **Assembly, one person** | 5 min/kit → 4.2 weeks · 10 min → 8.3 weeks · 15 min → 12.5 weeks |
+
+**Two consequences follow, and they are not optional:**
+
+1. 🔴 **The bulk flash card quote is now the single highest-value action in the business.** It was worth doing at 122 designs. At 14,000 cards it is worth thousands of dollars.
+2. 🔴 **Assembly has never been timed.** At 2,000 kits the difference between 5 and 15 minutes per kit is **two months of Maya's life.** Timing three kits is the cheapest thing on this list.
+
+### Cash warning
+Materials for 2,000 kits are bought **before** most of the revenue arrives. Boxes are already paid for, which helps enormously — but cards and activity materials are not. **Finance must model the cash requirement before any large material order.**
 
 ---
 
-## The one number that matters most
+## Headline metrics under this goal
 
-**⚠️ Was "active paid subscribers." That product no longer exists.** See above — Maya must choose the replacement.
+| # | Metric | Why |
+|---|---|---|
+| 1 | **Kits sold (cumulative toward 2,000)** | The goal itself |
+| 2 | **Average revenue per kit** | Guards the "for as much as possible" half |
+| 3 | **Kits committed in bulk orders** | The only route that reaches 2,000 |
+| 4 | **Gross margin per kit** | Volume at a loss is not progress |
+| 5 | **Kits packed per week** | The real constraint |
+| 6 | Cash tied up in unsold materials | The way physical businesses fail |
 
-**Known as of 2026-09-16:** GA4 recorded **0 key events and $0 revenue** over 28 days. That is almost certainly a tracking gap rather than zero sales — a purchase event was never configured — but it means **there is currently no reliable measurement of sales at all.**
+**All six currently read NEEDS FOUNDER INPUT.** GA4 records 0 purchases, so there is no reliable sales measurement at all — fixing that is a prerequisite for tracking this goal.
 
 ---
 

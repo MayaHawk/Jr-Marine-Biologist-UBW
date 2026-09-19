@@ -104,4 +104,17 @@ Each entry uses this shape:
 
 ---
 
+### D-010 — New business goal: sell 2,000 kits
+- **Date:** 2026-09-19
+- **Decision:** The goal is to **sell 2,000 kits as quickly as possible for as much as possible.** This replaces the original subscription goal.
+- **Made by:** Maya Hawk
+- **Context:** The subscription was discontinued (D-005), voiding the previous goal. 3,000 printed boxes are already owned and paid for; 2,000 kits converts two-thirds of that asset into cash.
+- **Options considered:** Maya set this directly.
+- **Why this option:** It is a concrete number tied to an asset already on the shelf, rather than an abstraction.
+- **Affects:** `company/goals-and-metrics.md`, every agent's definition of success, and the task list. Sales and Operations become the lead functions.
+- **Team note for Maya:** "as quickly as possible" and "for as much as possible" conflict. The team will surface the trade-off each time rather than silently choosing. The arithmetic also shows the warm list alone reaches at most ~52% of the goal, so bulk buyers are required.
+- **Revisit when:** 2,000 kits are sold, or Maya changes the target.
+
+---
+
 *(New decisions are appended below, newest last.)*

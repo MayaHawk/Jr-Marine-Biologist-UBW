@@ -15,6 +15,21 @@ The Under Blue Waters project handover has been merged into these files. Prices,
 
 ---
 
+## 🎯 THE 2,000-KIT GOAL — set 2026-09-19
+
+**Three jobs make or break it. None is marketing.**
+
+| # | Task | Owner | Why it is on this list |
+|---|---|---|---|
+| G-1 | 🔴 **Get the bulk flash card quote** | Maya | 2,000 kits = 14,000 cards. At the trial price that is $9,940. This is now the highest-value phone call in the business. |
+| G-2 | 🔴 **Time yourself packing three kits** | Maya | At 2,000 kits, 5 vs 15 minutes each is the difference between 4 weeks and 12 weeks of your life |
+| G-3 | 🔴 **Build the bulk-buyer strategy** — schools, districts, camps, co-ops, wholesale | Sales Manager | The warm list tops out near 52% of goal. Bulk is the only route that reaches 2,000. |
+| G-4 | **Cost one full kit** so margin per kit is real | Finance | "For as much as possible" cannot be measured without it |
+| G-5 | **Fix GA4 purchase tracking** | Maya | 0 purchases currently recorded — the goal cannot be tracked at all |
+| G-6 | **Send the warm-list campaign** (after list verification) | Maya | Fastest cash available, and warms the audience before any bulk push |
+
+---
+
 ## 🚨 THIS WEEK — rebuilt 2026-09-19
 
 | # | Task | Owner | Why |

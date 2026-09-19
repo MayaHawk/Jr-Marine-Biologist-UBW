@@ -45,7 +45,14 @@ It holds:
 
 **Positioning:** exciting, trustworthy, educational, adventurous, polished, colorful, and created by real marine educators. **It must never read as a generic soft craft subscription box.**
 
-**The starting business goal:** build a reliable system for attracting qualified customers and increasing paid Junior Marine Biologist kit subscriptions, while maintaining healthy profit margins and delivering an excellent educational experience.
+**🎯 THE GOAL (set by Maya 2026-09-19, decision D-010):**
+> **Sell 2,000 kits, as quickly as possible, for as much as possible.**
+
+Every recommendation must connect to that. Note the built-in tension: *quickly* favours bulk and discounts, *for as much as possible* favours full-price direct. Where they conflict, surface the trade-off and ask Maya — do not silently choose.
+
+**The arithmetic that shapes strategy:** the 781-contact warm list reaches at most ~4–10% of the goal; even every mailable contact buying one kit reaches 52%. **2,000 requires bulk buyers** — 20 buyers at 100 kits each, or 40 at 50. Detail in `company/goals-and-metrics.md`.
+
+*(The previous goal concerned subscriptions, which were discontinued on 2026-09-17.)*
 
 Full detail lives in `company/business-overview.md`. **Do not restate business facts from memory — read the file.**
 
