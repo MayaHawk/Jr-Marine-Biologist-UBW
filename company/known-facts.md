@@ -75,6 +75,9 @@
 | Store SKU example: **MKN-SNS-OF-SHR1** = "Making Sense of Sharks – Kids Marine Biology Adventure Kit" | 2026-08-18 |
 | **JrMarinebiologist@gmail.com forwards to info@underbluewaters.com** — so there is only ONE inbox to check | 2026-08-18 |
 | Site promise line: "build knowledge, confidence, and a deeper love for marine life" | 2026-08-18 |
+| ✅ **ALL 24 TOPICS EXIST and are named** — every one has a Canva "ALL" master design set | 2026-09-19 |
+| **`ALL` is the Canva naming convention for the main set** — files not prefixed ALL are not the master | 2026-09-19 |
+| The older `Entire Marine Biology Course Age 7-9 — NN` Canva files are **superseded** | 2026-09-19 |
 | 14 topics named: sharks, sea turtles, coral reefs, marine mammals, aquaculture, mangroves, cephalopods, ocean zones, dangerous marine life, freshwater vs saltwater, prehistoric seas, lobsters, echinoderms, ocean currents | 2026-08-18 |
 
 ## 🔄 BUSINESS MODEL — CHANGED September 2026

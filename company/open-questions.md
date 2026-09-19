@@ -135,7 +135,7 @@
 | # | Question | Status |
 |---|---|---|
 | 9 | Please confirm the topic list. Are "echinoderms" and "ocean currents" the correct terms? | ⬜ |
-| 10 | What are the ~10 remaining topics? | ⬜ |
+| 10 | ~~What are the ~10 remaining topics?~~ **ANSWERED 2026-09-19: all 24 are named and have Canva ALL sets. See `company/product-catalog.md`.** | ✅ |
 | 11 | For each named topic: idea, outlined, designed, prototyped, or shipped? | ⬜ |
 | 12 | ~~Separate age tiers?~~ **ANSWERED: yes — 4–6, 7–10, 10+.** Whether they ship separately is now U-30. | ✅ |
 | 13 | ~~Is the personalized certificate in every kit?~~ **ANSWERED: yes, every kit.** | ✅ |

@@ -125,29 +125,56 @@ This means **there is no single COGS figure for "a kit."** Each topic must be co
 
 **Still NEEDS FOUNDER INPUT:** box dimensions · box weight · packaging format · which other topics carry extra components · whether any other kit contains a wearable or keepsake item.
 
-## C. The ~24 marine science topics
+## C. THE 24 TOPICS — CONFIRMED 2026-09-19
 
-**CONFIRMED** — Approximately 24 topics are planned. **14 are named below. About 10 slots remain open.**
+**Source:** Canva. **Every one of the 24 topics has an "ALL" master design set.** `ALL` is Maya's naming convention for the main set — confirmed by Maya 2026-09-19, and matching her 2026-09-16 decision to work only from files beginning `ALL`.
 
-| # | Topic | Notes | Status |
-|---|---|---|---|
-| 1 | Sharks | **SHIPPING.** 7 flash cards + shark tooth necklace. **Most expensive kit.** Spec: `product-development/topics/sharks.md` | **CONFIRMED live** |
-| 2 | Sea Turtles | Named by Maya. Strong emotional draw. | **NEEDS FOUNDER INPUT** |
-| 3 | Coral Reefs | Named by Maya. | **NEEDS FOUNDER INPUT** |
-| 4 | Marine Mammals | Named by Maya. | **NEEDS FOUNDER INPUT** |
-| 5 | Aquaculture | Named by Maya. | **NEEDS FOUNDER INPUT** |
-| 6 | Mangroves | Named by Maya. | **NEEDS FOUNDER INPUT** |
-| 7 | Cephalopods | Named by Maya. Octopus/squid/cuttlefish. | **NEEDS FOUNDER INPUT** |
-| 8 | Ocean Zones | Named by Maya. | **NEEDS FOUNDER INPUT** |
-| 9 | Dangerous Marine Life | Named by Maya. Needs careful age-appropriate framing. | **NEEDS FOUNDER INPUT** |
-| 10 | Freshwater vs. Saltwater | Named by Maya. | **NEEDS FOUNDER INPUT** |
-| 11 | Prehistoric Seas | Named by Maya. | **NEEDS FOUNDER INPUT** |
-| 12 | Lobsters | Named by Maya. Crustaceans. | **NEEDS FOUNDER INPUT** |
-| 13 | Echinoderms | Named by Maya. Sea stars, urchins, sand dollars. | **NEEDS FOUNDER INPUT** |
-| 14 | Ocean Currents | Named by Maya. | **NEEDS FOUNDER INPUT** |
-| 15–24 | *(open)* | ~10 topics not yet named | **NEEDS FOUNDER INPUT** |
+> 🟢 **This closes a question open since August.** The team recorded 14 named topics and ~10 unknown. **All 24 exist, are named, and have a design file.** The remaining work is finishing sets to the card standard — not inventing topics.
 
-> **Transcription note:** items 13 and 14 were recorded from dictation as "econoderbs" and "ocean couriers." The team has written them as **echinoderms** and **ocean currents**. Maya to confirm or correct.
+| # | Topic | Canva ALL set | pp | Last edited | Cards to standard | Materials list |
+|---|---|---|---|---|---|---|
+| 1 | **Navigating our Oceans / Boaters Safety** | `DAHUeBrqERY` | 27 | 2026-09-16 | ✅ **DONE** | ✅ **DONE** |
+| 2 | **Fresh VS Salt Water** | `DAHUd_P8ro8` | 22 | 2026-09-09 | ✅ **DONE** | ❌ |
+| 3 | **Marine Mammals** | `DAHUeHZVZVU` | 24 | **2026-09-19** | ⬜ confirm | ✅ **DONE** |
+| 4 | Coral Reefs | `DAHUeOl6uuE` | 22 | 2026-09-10 | ⬜ | 🟡 rough |
+| 5 | Making Sense of Sharks | `DAHUeEVgafM` | 20 | 2026-09-07 | ⬜ | 🟡 rough |
+| 6 | A Sea Turtle's Journey | `DAHUeN4OWDw` | 20 | 2026-09-07 | ⬜ | 🟡 rough, 2 versions |
+| 7 | Camouflaging Cephalopods | `DAHUeJhtPXM` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 8 | Will it Sting? | `DAHUeM0d8No` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 9 | The Sea Before Time | `DAHUeJuWI0M` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 10 | Under Pressure: Ocean Zones | `DAHUeBzmtoQ` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 11 | Fun Jobs Protecting our Oceans | `DAHUeNWI8hQ` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 12 | Dangerous Marine Life | `DAHUeLCtiBQ` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 13 | Aquaculture & Fish Farms | `DAHUeBmCh_M` | 20 | 2026-09-07 | ⬜ | ❌ |
+| 14 | Echinoderms | `DAHUeA2JYZM` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 15 | Ocean Chatter: Communicating Under Water | `DAHUeKYFJ_M` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 16 | Fish ID, Rules and Regulations | `DAHUeHfZFts` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 17 | Importance of Mangroves | `DAHUeLCNqwM` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 18 | Seashells: Creation to Collection | `DAHUeE3-WvE` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 19 | Creatures of the Deep | `DAHUeEDpxOo` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 20 | Life of a Lobster | `DAHUeHpIn5k` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 21 | Impacts on the Ocean | `DAHUeKlCjnE` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 22 | Invert Vs Verts | `DAHUeO22c6U` | 20 | 2026-09-07 | ⬜ | ❌ |
+| 23 | Mother Nature's Recipe of Life | `DAHUeEhk3fA` | 20 | 2026-09-16 | ⬜ | ❌ |
+| 24 | Invasion Under Sea | `DAHUeKxFgT4` | 20 | 2026-09-16 | ⬜ | ❌ |
+
+### What the page counts suggest — ASSUMPTION, not fact
+**20 pages is the baseline.** The four sets above it are the ones worked on most: Navigating (27), Marine Mammals (24), Coral Reefs (22), Fresh vs Salt (22). Two of those are the confirmed-done topics.
+
+**But page count is not a reliable completion signal** — Coral Reefs is also 22pp and is not done. Each set needs checking against `templates/card-design-standard.md` before any claim of "finished".
+
+### Naming convention — CONFIRMED
+> **`ALL` is the main set.** Anything in Canva not prefixed `ALL` is not the master. The older `Entire Marine Biology Course Age 7-9 — NN Topic` files are superseded and must not be used as a source.
+
+### The real state of the range
+| | Count |
+|---|---|
+| Topics with a design set | **24 of 24** ✅ |
+| Cards finished to standard | **2** *(possibly 3)* |
+| Master materials lists built | **2** |
+| **Complete on both** | **1 — Navigating our Oceans** |
+
+**The work is finishing, not creating.** That is a very different job from what the team assumed in August.
 
 ### Status meanings (to be filled in per topic)
 `Idea` → `Outlined` → `Designed` → `Sourced` → `Prototyped` → `Ready to ship` → `Shipped`
