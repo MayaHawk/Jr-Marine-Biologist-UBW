@@ -25,12 +25,13 @@ Fix these four and most of the set is done.
 
 #### ✅ CONFIRMED 2026-09-19 — `Card N of 5` is simply correct
 
-Maya's words, 2026-09-19: **"5 activities per age group."** and **"No only 5 activites ship per kit."** Read with her earlier confirmed statement — **"We need 10 activities total. First 5 are age 7-9, second set of 5 are for age 10+"** — the numbering question is closed, with no caveat.
+Maya's words, 2026-09-19: **"5 activities per age group."** · **"No only 5 activites ship per kit."** · **"Each age group has 5 activites. Each box is only 5 activites. You pick your age group."** Read with her earlier confirmed statement — **"We need 10 activities total. First 5 are age 7-9, second set of 5 are for age 10+"** — the numbering question is closed, with no caveat.
 
 **What that means for typesetting (CONFIRMED):**
 - Each age tier carries **its own independent set of 5 activity cards**, numbered `Card 1 of 5` through `Card 5 of 5`. The 10+ tier does **not** continue from 6; it restarts at 1.
 - **Ten activity cards exist as designs** — five for ages 7–9, five for ages 10+.
-- **Only ONE tier's five cards ship in any given kit.** A Sharks kit contains **5 activity cards**, not 10.
+- **Only ONE tier's five cards ship in any given kit.** A Sharks kit contains **5 activity cards**, never both tiers.
+- **The buyer picks their age group at purchase.** Sharks is an age-selected product.
 
 So every `Renumber` line below is now safe to action: Tier A becomes `Card 1 of 5`…`Card 5 of 5`, and Tier B becomes `Card 1 of 5`…`Card 5 of 5` as well. *(This closes supply-list flag F-1 on the numbering point.)*
 
@@ -38,14 +39,15 @@ So every `Renumber` line below is now safe to action: Tier A becomes `Card 1 of 
 
 **Suggested wording:** `Sharks · Ages 7–9 · Card 1 of 5` and `Sharks · Ages 10+ · Card 1 of 5`.
 
-**Being honest about the strength of this case:** because only one tier ships per kit, there is no jumbled pile of ten cards to untangle. This is now a **judgement call, not a forced fix.** The two reasons that remain:
+**The case, argued on what is now confirmed.** A box never holds two tiers, so this is not about untangling a pile of cards. It is about **a product the customer actively chooses a version of:**
 
-1. **Flag F-12 already stands on its own.** The supply list records that **no age band is printed on the Tier A cards at all**, and calls it safety-relevant rather than merely cosmetic: the hazards on those cards (toothpicks, a magnet, small googly eyes) cannot be matched to the right child by anyone holding the card. Printing the band closes that gap directly.
-2. **Sharks now ships in age variants, so both the parent and the packer need to see which variant they are holding.** A card front is the most visible surface in the box. Without a band, the only way to tell a 7–9 card from a 10+ card is to read the activity and infer.
+1. **The parent paid for a specific age group. The band is how they check they got it.** *"You pick your age group"* means every Sharks sale carries a promise about which five cards are inside. With no age printed anywhere on the cards, a parent has **no way to verify the promise was kept** short of reading all five activities and judging for themselves. That is a weak place for a brand whose whole claim is expert, polished and trustworthy.
+2. **The packer needs it too.** With two (possibly three) card sets per topic on the packing table, the band is the fastest check that the right set went in the box — the difference between a glance and a guess, inside a confirmed 10-minute pack.
+3. **It closes supply-list flag F-12 regardless.** No age band is printed on the younger tier's cards at all, and F-12 calls that safety-relevant rather than cosmetic: the hazards on those cards (toothpicks, a magnet, small googly eyes) cannot be matched to the right child by anyone holding the card.
 
 ⚠️ **This is a recommendation needing Maya's approval, not a decision made.** No card front will be changed until she rules. *(Open question **SH-20**.)*
 
-**Is it still blocking?** I judge **yes, 🔴** — not because of numbering, but because of sequence: if the band is added after the ten fronts are typeset, all ten are re-typeset a second time, and the same decision then repeats across all 122 cards in the range. It is cheap to decide now and expensive to decide later.
+**Is it blocking?** I judge **yes, 🔴** — on sequence. If the band is added after the ten fronts are typeset, all ten are re-typeset a second time, and the same decision then repeats across all 122 cards in the range. Cheap to decide now, expensive to decide later.
 
 📐 **Note for Maya:** the age band would be a **third** piece of text on the card front, alongside the topic name and the card number. D-015 as written permits only two. That interacts directly with the still-open question of whether the STEAM discipline word stays — **three pieces of text, or four?** *This file does not resolve that. It is still with Maya as SH-13.*
 

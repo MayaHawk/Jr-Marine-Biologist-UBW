@@ -4,8 +4,8 @@
 
 **How to use this file:** answer the questions in the **Priority 1** block first — they unblock the most work. Answers get moved into `company/known-facts.md`.
 
-**Last updated:** 2026-08-18
-**Status key:** ⬜ open · ✅ answered
+**Last updated:** 2026-09-19
+**Status key:** ⬜ open · 🟨 partly answered · ✅ answered
 
 ---
 
@@ -81,7 +81,7 @@
 
 | # | Question | Who needs it | Status |
 |---|---|---|---|
-| **SH-1** | 🔴 **How many flash cards actually ship, and does ONE tier ship per kit or both?** `known-facts.md` confirms **7 flash cards**; the Canva set holds **10 activity cards** (5 per tier). At 20 pages ÷ 2 sides, the set is exactly 10 cards and nothing else. **This decides the print run, the pack list, the SKU count, and whether `Card N of 5` is the right wording on all 122 cards.** *(Duplicates U-30 from the card side.)* | Product, Finance, Ops | ⬜ |
+| **SH-1** | 🟨 **PARTLY ANSWERED 2026-09-19 — *"No only 5 activites ship per kit."*** ONE tier ships per kit: 10 activity card designs exist (5 for ages 7–9, 5 for ages 10+), **5 ship in any given box**, each tier numbered `Card 1 of 5`–`Card 5 of 5` independently. ✅ `Card N of 5` is confirmed correct wording. **Still open:** how this squares with the confirmed **7 flash cards** in a Sharks kit — now carried as **SH-25**. And the consequence that Sharks is an **age-variant product** — now **SH-21 to SH-24**. | Product, Finance, Ops | 🟨 |
 | **SH-2** | 🔴 **Add quantities to the Sharks cards.** Only **two** counts are printed on the entire 10-card set — "6 cups" and "two pens." Roughly fifty other items have none. **This is the single highest-value half-hour available on this kit** — it removes more guesswork than any other action, and unblocks Finance completely. | Product, Finance | ⬜ |
 | **SH-3** | 🔴 **Verify the 10 science claims** in `product-development/science-verification-log.md`. **Nobody but you can do these.** Start with SV-7 (the population data table printed on a card) and SV-9 (whether pectoral fins really work like wings — the tidy version may be a myth). | Product, Maya | ⬜ |
 | **SH-4** | 🔴 **The younger Sharks tier is not STEAM** — two Science cards, no Technology. **The catalog tells buyers every kit has one of each, and uses Sharks as the worked example.** Recommendation in `supply-lists/sharks.md` §E: relabel card 1 as Technology with a tools-and-tracking frame — **no new supplies, no cost change.** Approve, reject, or amend. | Product, Sales, Maya | ⬜ |
@@ -100,6 +100,12 @@
 | **SH-17** | **Should the 10+ tier get a field notebook?** Tier A gets one, every other topic packs one, and no 10+ Sharks card lists one. An investigation kit with nowhere to record results is odd. | Product | ⬜ |
 | **SH-18** | 🔴 **Age 4–6 merge is blocked in Canva.** Four attempts to merge the Age 4–6 set into the ALL Sharks master failed with `Failed to commit session` — including into a clean copy, so it is not a lock on your file. Likely cause: the master now holds **two page sizes** (672×480 on pages 1–2, 1056×816 on page 33). **Recommendation: rebuild the Age 4–6 cards to the current design standard first** — the readiness check already found them in the old format. Detail: `product-development/topics/sharks-canva-file-inventory.md` §I. | Product | ⬜ |
 | **SH-19** | **Keep or delete the safety copy** `DAHVqiFksD8` ("ALL Making Sense of Sharks Kids Marine Biology Course", 33 pages, exact duplicate of the master, nothing merged into it). Nothing will be deleted without your yes. | Product | ⬜ |
+| **SH-20** | 🔴 **Print the age band on the front of every card?** Suggested: `Sharks · Ages 7–9 · Card 1 of 5`. **Why it matters:** flag F-12 records that **no age band is printed on the younger tier's cards at all** — a labelling and age-appropriateness gap the supply list already calls safety-relevant. And now that **only one tier ships per kit**, both the parent and the packer need to see at a glance which variant they are holding. **Honest caveat: this is a judgement call, not a forced fix.** **Marked 🔴 because it blocks typesetting** — decided after the ten fronts are set, all ten are re-set a second time, and the same choice then repeats across all 122 cards. **Interacts with SH-13:** topic + discipline + age band + number is four pieces of text on a front D-015 limits to two. | Product, Maya | ⬜ |
+| **SH-21** | 🔴 **How does a buyer choose their age tier?** Only one tier's 5 cards ship per kit (CONFIRMED 2026-09-19), so the buyer must specify 7–9 or 10+. Is that chosen **at checkout**, or does someone have to email the customer after every order? Today neither store appears to ask. | Product, Sales, CX | ⬜ |
+| **SH-22** | 🔴 **Is each age tier a separate product listing / SKU, or one listing with an option?** This decides the store structure, the SKU count and how orders arrive at the packing table. *(Related to U-30, which asked the same thing before the one-tier-per-kit answer existed.)* | Product, Sales, Ops | ⬜ |
+| **SH-23** | 🔴 **What happens on a bulk order of 50–100 kits to a school or camp — mixed tiers, or all one tier?** A single classroom is usually one age; a camp or co-op usually is not. **This needs an answer before the first bulk quote goes out**, because it changes what is being quoted. | Sales, Ops, Product | ⬜ |
+| **SH-24** | **Does Age 4–6 become a THIRD shipping tier, or a digital/bonus set?** A complete Age 4–6 Sharks set exists in Canva but sits outside the ALL master *(N-24, SH-18)*. If it ships, Sharks is three products under one name, not two. | Product, Maya | ⬜ |
+| **SH-25** | ❓ **Reconcile "7 flash cards" with "5 activities ship per kit."** Both are your confirmed words — 7 flash cards on 2026-08-18, *"No only 5 activites ship per kit"* on 2026-09-19. They may be counting **different things** (collectible species cards vs activity cards), or the 7 may include something else. **No agent has adjusted, averaged or reinterpreted either number, and none will.** One sentence from you closes the print run, the pack list and the card cost. *(Supersedes the card-count half of SH-1.)* | Product, Finance, Ops | ⬜ |
 
 ---
 
