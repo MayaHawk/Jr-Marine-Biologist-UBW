@@ -77,6 +77,52 @@
 | Site promise line: "build knowledge, confidence, and a deeper love for marine life" | 2026-08-18 |
 | 14 topics named: sharks, sea turtles, coral reefs, marine mammals, aquaculture, mangroves, cephalopods, ocean zones, dangerous marine life, freshwater vs saltwater, prehistoric seas, lobsters, echinoderms, ocean currents | 2026-08-18 |
 
+## 🔄 BUSINESS MODEL — CHANGED September 2026
+
+| Fact | Date confirmed |
+|---|---|
+| 🔴 **THE SUBSCRIPTION MODEL HAS BEEN DISCONTINUED.** The business now sells **one-off kits and prepaid bundles only.** Nothing auto-renews. | 2026-09-17 |
+| Subscription language removed site-wide (Shipping, Terms, FAQ); the "Marine Biology Subscription" store category was deleted | 2026-09-17 |
+| Site-wide support email is now **jrmarinebiology@gmail.com**; Info@underbluewaters.com no longer appears on any page | 2026-09-17 |
+| Site published with all fixes | 2026-09-17 |
+| **New policy: no refund, credit or discount is offered to any customer without Maya's explicit permission** | 2026-09-17 |
+| Stated goal: **"need 10K in a week"** | 2026-09-16 |
+
+## 💲 PRICES — CONFIRMED September 2026
+
+| Product | Price | Date |
+|---|---|---|
+| **Adventure Kit** (single topic, 24 available) | **$45.99**, free US shipping | 2026-09 |
+| **Starter Kit** (Sharks, Sea Turtles, Coral Reefs or Marine Mammals) | **$45.99** | 2026-09 |
+| **12-kit prepaid bundle** | **$503.99** ($42.00/kit) | 2026-09 |
+| **24-kit prepaid bundle** | **$949.99** ($39.58/kit) | 2026-09 |
+| **Digital Lesson Pack** (single topic) | **$9.99** | 2026-09 |
+| **Complete Digital Library** (all 24 topics, all age levels) | **$99.00** | 2026-09 |
+
+## 📧 CONTACT BASE — CONFIRMED September 2026
+
+| Fact | Date |
+|---|---|
+| **2,144 unique emails** recovered and merged (was 78 known) | 2026-09-18 |
+| **1,041 immediately mailable** | 2026-09-18 |
+| **Tier 1 send list: 781** (729 past camp customers + 30 homeschool + 22 kit customers) | 2026-09-18 |
+| 780 flagged "review — mailbox-derived"; 312 flagged B2B (schools/orgs/scouts) | 2026-09-18 |
+| 3 unsubscribed, 2 bounced, 6 internal/test | 2026-09-18 |
+| GoDaddy CRM: 78 unique, 69 mailable — 22 customers, 12 subscribers, 35 leads | 2026-09-18 |
+| Camp contacts date from **2017–2020**; an older ~7,963-contact list was NOT recovered | 2026-09-18 |
+
+## 📊 ANALYTICS — 28 days to 2026-09-16
+
+| Metric | Value |
+|---|---|
+| GA4 users / sessions / page views | 107 / 204 / 630 |
+| **Key events / revenue recorded in GA4** | **0 / $0** |
+| Traffic: direct · google organic · facebook paid · chatgpt.com · social · bing | 63 · 39 · 23 · 20 · 6 · 2 |
+| Search Console: clicks / impressions / CTR / avg position | 58 / ~2,090 / 2.8% / 73.6 |
+| "marine biology for kids" | position ~7.5, 118 impressions |
+| Indexed pages | fell 48 → 41; 25 URLs discovered-not-indexed |
+| Facebook ad lands on | the **$503.99 bundle page** |
+
 ## Offers
 
 | Fact | Date confirmed |

@@ -5,9 +5,30 @@
 
 ---
 
-## The starting business goal (CONFIRMED)
+## 🔴 THE STATED GOAL IS NOW OBSOLETE — needs replacing
 
-> Build a reliable system for attracting qualified customers and increasing paid Junior Marine Biologist kit subscriptions, while maintaining healthy profit margins and delivering an excellent educational experience.
+**The original goal, set 2026-08-18:**
+> Build a reliable system for attracting qualified customers and increasing paid Junior Marine Biologist kit **subscriptions**, while maintaining healthy profit margins and delivering an excellent educational experience.
+
+**On 2026-09-17 the subscription was discontinued** (decision D-005). There is no subscription to increase. **The single most important sentence in this whole system now points at a product that no longer exists.**
+
+Maya stated a new goal on 2026-09-16: **"need 10K in a week."** That is a revenue target, not a system goal, and it has no date, no definition of whether it means revenue or profit, and no stated baseline.
+
+### 🔴 NEEDS FOUNDER INPUT — the most important open question in the business
+The goal needs restating in the new model. A version that keeps the original intent might be:
+
+> *Build a reliable system for attracting qualified customers and increasing repeat kit and bundle purchases, while maintaining healthy profit margins and delivering an excellent educational experience.*
+
+**Maya must confirm or replace this.** Every agent checks recommendations against this sentence, so while it is wrong, the whole team is aiming at the wrong target.
+
+### What replaces "active paid subscribers" as the headline metric?
+Candidates, for Maya to choose:
+| Candidate | Why it might be right |
+|---|---|
+| **Kits sold per month** | Simple, direct, replaces subscriber count |
+| **Repeat purchase rate** | Closest to the old retention logic without a subscription |
+| **Bundle share of revenue** | Bundles are the prepaid substitute for subscriptions — up-front cash |
+| **Revenue per month** | Matches the "$10K" framing, but says nothing about profit |
 
 Read carefully, that goal has **four** parts, and all four must hold at once:
 
@@ -22,11 +43,9 @@ Read carefully, that goal has **four** parts, and all four must hold at once:
 
 ## The one number that matters most
 
-**Active paid subscribers.**
+**⚠️ Was "active paid subscribers." That product no longer exists.** See above — Maya must choose the replacement.
 
-Everything else on this page is either a driver of that number or a guardrail protecting it.
-
-**NEEDS FOUNDER INPUT** — current count, and the 12-month target.
+**Known as of 2026-09-16:** GA4 recorded **0 key events and $0 revenue** over 28 days. That is almost certainly a tracking gap rather than zero sales — a purchase event was never configured — but it means **there is currently no reliable measurement of sales at all.**
 
 ---
 

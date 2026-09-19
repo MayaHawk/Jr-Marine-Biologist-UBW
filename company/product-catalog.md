@@ -6,6 +6,30 @@
 
 ---
 
+## 🔄 A0. MODEL CHANGE — September 2026
+
+**The subscription is gone.** The business sells one-off kits, prepaid bundles, and digital products. Nothing auto-renews. *(Decision D-005, 2026-09-17.)*
+
+### Live prices — CONFIRMED
+| Product | Price | Notes |
+|---|---|---|
+| Adventure Kit (any of 24 topics) | **$45.99** | free US shipping |
+| Starter Kit | **$45.99** | Sharks · Sea Turtles · Coral Reefs · Marine Mammals |
+| 12-kit prepaid bundle | **$503.99** | $42.00/kit — 8.7% below single |
+| 24-kit prepaid bundle | **$949.99** | $39.58/kit — 13.9% below single |
+| Digital Lesson Pack (single topic) | **$9.99** | |
+| Complete Digital Library (all 24) | **$99.00** | |
+
+### Digital product status — September 2026
+- **Navigating Our Oceans** — live and visible
+- **Marine Mammals** — created, description written
+- **15 further topics** — created but **hidden**, each carrying the *Navigating Our Oceans* PDF as a placeholder
+- 6 older digital products pre-date this work
+
+> 🔴 **The 17 hidden products contain the wrong PDF.** They must not be made visible until the real files are uploaded, or customers will pay $9.99 and receive the wrong lesson.
+
+**NEEDS FOUNDER INPUT:** is the KIT10 coupon still live and working?
+
 ## A. Product lines
 
 | # | Product line | What it is | Status |

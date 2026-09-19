@@ -1,6 +1,6 @@
 # Handover — bringing the Under Blue Waters project into this repository
 
-**Created:** 2026-09-19 · **Status:** ⬜ WAITING ON MAYA
+**Created:** 2026-09-19 · **Status:** ✅ **RECEIVED AND MERGED 2026-09-19**
 **Why:** Maya worked in a separate Claude Project from roughly 2026-08-25 to 2026-09-19. Claude Projects are isolated, so none of that work is visible here. Per decision **D-004**, it comes across into these files.
 
 ---

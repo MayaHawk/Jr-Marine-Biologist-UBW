@@ -70,4 +70,38 @@ Each entry uses this shape:
 
 ---
 
+### D-005 — Discontinue the subscription model
+- **Date:** 2026-09-17
+- **Decision:** Stop selling a recurring subscription. Sell one-off Adventure Kits and prepaid 12/24-kit bundles only. Nothing auto-renews. Subscription language removed site-wide.
+- **Made by:** Maya Hawk
+- **Why this option:** GoDaddy could not support recurring billing, forcing a workaround through a second brand. Prepaid bundles capture the same up-front cash without the billing machinery or the brand handoff at checkout.
+- **Affects:** 🔴 **`company/goals-and-metrics.md` — the stated business goal was "increasing paid subscriptions," which no longer exists as a product.** Also all sales, social, and customer-experience work built around retention of subscribers.
+- **Revisit when:** a platform that supports recurring billing under the Jr. Marine Biologist brand is chosen.
+
+### D-006 — Prices set
+- **Date:** 2026-09
+- **Decision:** Adventure Kit $45.99 with free US shipping · 12-kit bundle $503.99 · 24-kit bundle $949.99 · Digital Lesson Pack $9.99 · Complete Digital Library $99.
+- **Made by:** Maya Hawk
+- **Affects:** all finance, sales and marketing work. **Note: set before COGS was known.**
+- **Revisit when:** real cost per kit lands.
+
+### D-007 — No refunds, credits or discounts without explicit permission
+- **Date:** 2026-09-17
+- **Decision:** No agent, and no email, may offer a customer a refund, credit or discount without Maya's explicit permission each time.
+- **Context:** A customer email offered a full refund that Maya had not authorised; the customer accepted it in writing.
+- **Affects:** every customer-facing template. ⚠️ **The live Terms of Service still says "we will refund any kits not yet sent" — this contradicts the new policy and is unresolved.**
+
+### D-008 — Consolidate to jrmarinebiology@gmail.com
+- **Date:** 2026-09-17
+- **Decision:** Site-wide support email is jrmarinebiology@gmail.com. Info@underbluewaters.com removed from every page.
+- **Made by:** Maya Hawk
+
+### D-009 — Under Blue Waters is the heritage brand used to reach the warm list
+- **Date:** 2026-09-18
+- **Decision:** The campaign to past camp families introduces Jr. Marine Biologist as "the newest thing from Under Blue Waters," in a friendly founder voice, keeping the original subject line.
+- **Made by:** Maya Hawk
+- **Note:** This supersedes assumption A-007 in a third direction — Under Blue Waters is neither the product brand nor a separate experiences brand, but the **trust anchor** that gives Jr. Marine Biologist a warm audience.
+
+---
+
 *(New decisions are appended below, newest last.)*

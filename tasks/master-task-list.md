@@ -10,7 +10,27 @@
 
 ---
 
-## 🔄 CONSOLIDATION — in progress, 2026-09-19
+## ✅ CONSOLIDATION — COMPLETE 2026-09-19
+The Under Blue Waters project handover has been merged into these files. Prices, the model change, contacts, analytics, decisions D-005 to D-009 and risks R-09 to R-11 are all recorded.
+
+---
+
+## 🚨 THIS WEEK — rebuilt 2026-09-19
+
+| # | Task | Owner | Why |
+|---|---|---|---|
+| W-1 | **Deliver the $99 Digital Library on order R916215991 and close it** | Maya | Written refund promise accepted; chargeback risk every day it sits |
+| W-2 | **Find out what happened to the four July/August orders** | Maya | Two customers at 50 days |
+| W-3 | **Verify the 781-contact list before sending the campaign** | Maya | A 5–9 year old list can get the sending domain filtered — including order emails |
+| W-4 | **Restate the business goal** — the current one names a discontinued product | Maya | Every agent checks work against that sentence |
+| W-5 | **Point the Facebook ad at the $45.99 kit or $9.99 pack, not the $503.99 bundle** | Maya | Cold traffic meeting a $504 decision |
+| W-6 | **Check whether the spam pages are still on underbluewaters.com** | Maya | Unaddressed since 25 Aug |
+| W-7 | **Fix the Terms of Service refund line** | Maya | Publicly promising what policy forbids |
+| W-8 | **Upload real PDFs before any hidden digital product goes visible** | Maya | All 17 currently carry the wrong file |
+
+---
+
+## 🔄 SUPERSEDED — 2026-09-19
 
 | # | Task | Owner | Status |
 |---|---|---|---|
@@ -18,7 +38,7 @@
 | C-02 | Merge that handover into known-facts, decision log, open questions, catalog, finance and risks | Chief of Staff | ⏸️ needs C-01 |
 | C-03 | Rebuild this task list around what is actually true today | Chief of Staff | ⏸️ needs C-02 |
 
-> ⚠️ **Everything below this line is as of 2026-08-25 and may be out of date.** A month of work happened in a separate project. Treat these as unverified until the handover lands.
+> ⚠️ **Everything below predates the September work.** Much is superseded — pricing is now known, and the subscription no longer exists. Kept for the costing items, which are still open.
 
 ---
 

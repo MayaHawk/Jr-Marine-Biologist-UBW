@@ -67,6 +67,65 @@ Most small kit businesses operate for years without incident. The point is not t
 
 ---
 
+## 🚨 R-09 — A refund was promised in writing, then withdrawn
+
+**Status:** OPEN, URGENT · **Owner:** Maya · **Opened:** 2026-09-19
+
+An email sent 2026-09-17 on order **R916215991** offered the customer a choice that included a **full refund**. The customer **accepted that option in writing the same day.** Maya then decided not to refund, and to supply the $99 Digital Library instead.
+
+**The exposure:** the customer holds a written offer of a refund and a written acceptance. If she disputes the charge with her card issuer, a written refund promise is close to decisive evidence, and a chargeback costs the sale, a fee, and a mark against the merchant account.
+
+**This is not an argument for refunding.** It is a note that the position is weaker than it looks, so the substitution has to be handled generously and fast.
+
+**Recommended — Maya's call:**
+| # | Action |
+|---|---|
+| 1 | **Deliver the Digital Library today.** Every day of delay raises the chance she disputes rather than waits. |
+| 2 | Write the correction warmly and take the blame plainly — the drafted reply already does this |
+| 3 | Consider making her whole beyond the Library — she has waited since 3 September and was told something that was not true |
+| 4 | Close the order in GoDaddy so it stops ageing |
+
+**Root cause is already fixed** by policy D-007: no refund, credit or discount without Maya's explicit permission.
+
+---
+
+## 🚨 R-10 — Mailing 781 contacts aged 5–9 years could damage the sending domain
+
+**Status:** OPEN · **Owner:** Maya · **Opened:** 2026-09-19
+
+The Tier 1 list is **781 contacts, 729 of them past camp customers from 2017–2020.** The campaign is drafted and ready to send.
+
+**Why this is a real risk, not a technicality.** Email providers judge a sender on bounces and complaints. A list untouched for five to nine years typically carries a high share of dead addresses, and dead addresses now often behave as **spam traps**. A single send to a very old list can get a sending domain filtered — which would affect **order confirmations and shipping notifications**, not just marketing.
+
+That the 2020 exports already show **17 bounced addresses** confirms the list has decayed.
+
+**Recommended before sending — Maya's call:**
+| # | Action | Why |
+|---|---|---|
+| 1 | **Run the list through a verification service first** | Removes dead addresses before they bounce. Usually a few dollars per thousand. |
+| 2 | **Warm up: send to the newest 100 first**, check bounce and complaint rates, then widen | Contains the damage if the list is worse than expected |
+| 3 | **Lead with the reconnection, not the sale** — the drafted email already does this well | Reduces complaints from people who forgot they signed up |
+| 4 | Make the unsubscribe link obvious | A dissatisfied unsubscribe is far cheaper than a spam complaint |
+
+**The campaign itself is good.** It opens with a real memory of Anchor Park, it is warm, and it earns the ask. The concern is purely list hygiene.
+
+> **NEEDS FOUNDER INPUT:** were these contacts given permission to be emailed about products, or only about camps? Consent matters for both deliverability and law.
+
+---
+
+## 🔴 R-11 — The Terms of Service contradict the new refund policy
+
+**Status:** OPEN · **Owner:** Maya · **Opened:** 2026-09-19
+
+The live Terms of Service say: *"there is no cancellation fee and we will refund any kits not yet sent."*
+Policy D-007, set the same day, says no refund is offered without Maya's explicit permission.
+
+**A published Terms of Service is the stronger document in a dispute.** Either the terms change, or the policy has an exception for unsent bundle kits. Right now the business is publicly promising something its internal policy forbids.
+
+**This is a question for whoever reviews your terms, not for this team.**
+
+---
+
 ## 🚨 R-07 — underbluewaters.com shows signs of being hacked
 
 **Status:** OPEN, URGENT · **Owner:** Maya · **Found:** 2026-08-18

@@ -24,7 +24,22 @@
 
 ---
 
-## 🚨 PRIORITY 00 — SAME DAY
+## 🚨 PRIORITY 00 — SAME DAY (rebuilt 2026-09-19 from the handover)
+
+| # | Question | Who needs it | Status |
+|---|---|---|---|
+| N-1 | 🔴 **What happened to the four orders from 31 Jul and 16 Aug?** Two customers have been waiting 50 days, two 34 days. The September handover does not mention them at all. | Everyone | ⬜ |
+| N-2 | 🚨 **Has order R916215991 been delivered the Digital Library yet?** She holds a written refund promise she accepted. Chargeback risk until closed. | CX, Finance | ⬜ |
+| N-3 | 🔴 **What does "$10K in a week" mean — revenue, or profit?** | Finance, Sales | ⬜ |
+| N-4 | 🔴 **The business goal now points at a product that no longer exists.** What replaces "increasing paid subscriptions"? | Everyone | ⬜ |
+| N-5 | 🚨 **Are the gambling spam pages still on underbluewaters.com?** Not mentioned in September's work. | Maya | ⬜ |
+| N-6 | 🔴 **Were the 781 camp contacts given permission to be emailed about products**, or only about camps? | Sales, Legal | ⬜ |
+| N-7 | **Has the Terms of Service refund line been fixed?** It contradicts the new no-refund policy. | Maya | ⬜ |
+| N-8 | **Order R749306095 — ship it or not?** Label never purchased. | Ops | ⬜ |
+
+---
+
+## 🚨 PRIORITY 00 — from 2026-08-25 (still open unless you say otherwise)
 
 | # | Question | Who needs it | Status |
 |---|---|---|---|
