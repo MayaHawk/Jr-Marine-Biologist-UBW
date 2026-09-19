@@ -109,6 +109,8 @@
 | U-20 | **Which components come from Temu, and can any supplier provide safety test certificates?** | Product, Operations | ⬜ |
 | U-21 | ~~Sea Turtle and Coral Reef contents?~~ **RECEIVED — supply lists transcribed.** | Product | ✅ |
 | U-28 | ~~Is the packed shark tooth a real fossil, replica, or clay?~~ **ANSWERED 2026-09-19 from the Canva master set: BOTH, in different tiers.** Younger tier = the child makes one from clay. **Age 10+ = a supplied "Shark tooth (fossil or replica)".** | Product, Finance | ✅ |
+| N-22 | 🔴 **Where are the COLLECTIBLE SPECIES flash cards?** Two activity cards depend on them — the Art card says *"use the shark flashcards to choose the tooth"* and the Math card says *"place your shark flashcards along the yarn, smallest to largest"*. The file named "Shark flash cards" turned out to be activity cards in print layout, not species cards. **Do the species cards exist?** | Product | ⬜ |
+| N-23 | **Pages 21–30 duplicate the Age 7–9 cards** (content pages 1–10, print layout 21–30). Keep both, or remove the duplicate? | Product, Maya | ⬜ |
 | N-18 | 🔴 **Fossil or replica?** The 10+ card says "fossil or replica" — they differ in cost, sourcing and safety. Which do you actually put in the box? | Product, Finance | ⬜ |
 | N-19 | 🔴 **The younger Sharks tier has TWO Science cards and no Technology card**, breaking the STEAM structure the catalog claims for every kit. Which card becomes Technology? | Product | ⬜ |
 | N-20 | 🔴 **The five Age 10+ Sharks cards have no photos placed** — all still say "Drop photo". That tier cannot print. | Product | ⬜ |
