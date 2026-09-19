@@ -4,7 +4,15 @@
 
 Founder and final decision maker: **Maya Hawk**
 Brands covered: **Junior Marine Biologist** (primary) and **Under Blue Waters** (sister brand)
-Last updated: 2026-08-18
+Last updated: 2026-09-19
+
+> ## 📍 THIS REPOSITORY IS THE SINGLE SOURCE OF TRUTH
+> Decided by Maya on 2026-09-19 (`company/decision-log.md`, D-004).
+> Business facts, decisions, costs and open questions live **here** — not in a Claude Project chat,
+> not in a separate document. If work happens elsewhere, it gets brought back into these files.
+> Anything in this repository dated before **2026-09-19** may be stale: a month of work happened
+> in a separate project that this repository could not see. Check `company/known-facts.md`
+> against reality before relying on it.
 
 ---
 

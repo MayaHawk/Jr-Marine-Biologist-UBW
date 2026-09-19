@@ -10,6 +10,18 @@
 
 ---
 
+## 🔄 CONSOLIDATION — in progress, 2026-09-19
+
+| # | Task | Owner | Status |
+|---|---|---|---|
+| C-01 | **Paste the handover summary from the Under Blue Waters project** — see `company/HANDOVER-FROM-UBW-PROJECT.md` | Maya | ⬜ |
+| C-02 | Merge that handover into known-facts, decision log, open questions, catalog, finance and risks | Chief of Staff | ⏸️ needs C-01 |
+| C-03 | Rebuild this task list around what is actually true today | Chief of Staff | ⏸️ needs C-02 |
+
+> ⚠️ **Everything below this line is as of 2026-08-25 and may be out of date.** A month of work happened in a separate project. Treat these as unverified until the handover lands.
+
+---
+
 ## ⏸️ BLOCKED — waiting on Maya
 
 *The largest category, and that is normal at this stage. Most of the team's real work cannot start until basic business facts are confirmed. **Answering the Priority 1 questions in `company/open-questions.md` unblocks most of this list.***

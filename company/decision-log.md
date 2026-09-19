@@ -58,4 +58,16 @@ Each entry uses this shape:
 
 ---
 
+### D-004 — This repository is the single source of truth
+- **Date:** 2026-09-19
+- **Decision:** The `Jr-Marine-Biologist-UBW` repository is the one place business truth lives. Work done in the separate "Under Blue Waters" Claude Project will be brought across into these files, and the project will stop being a parallel record.
+- **Made by:** Maya Hawk
+- **Context:** Between 2026-08-25 and 2026-09-19 Maya worked in a separate Claude Project. That project cannot be seen from here — Claude Projects are isolated — so this repository fell a month behind while real work continued elsewhere. Two parallel systems had formed.
+- **Options considered:** (a) consolidate into this repository; (b) make the Under Blue Waters project primary and copy the agents there; (c) keep both for different purposes.
+- **Why this option:** This repository holds the eight agents, the risk register, the confirmed cost data, the templates, and a dated commit history. A chat project keeps conversation, not a structured, searchable, version-controlled record. Option (c) is what had accidentally happened, and it is precisely the "multiple conflicting versions" failure the operating rules exist to prevent.
+- **Affects:** every file; how Maya works day to day
+- **Revisit when:** never, unless Maya deliberately moves the system somewhere else.
+
+---
+
 *(New decisions are appended below, newest last.)*
