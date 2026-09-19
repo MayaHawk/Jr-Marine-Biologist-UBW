@@ -101,6 +101,9 @@
 | 🟢 **Many activity materials are household items the parent supplies** — they are NOT purchased or packed, which reduces cost per kit | 2026-09-16 |
 | 🔴 **SAFETY RULE: no face-in-water, no breath-holding.** The Diving Body and Sperm Whale cards were rewritten on 2026-09-16 to use a cold washcloth instead | 2026-09-16 |
 | 🔴 Three printed sheets for Navigating 10+ **do not exist yet** — tide table, Moon calendar, chart grid | 2026-09-16 |
+| **CARD DESIGN STANDARD set** — front: photo, no title on photo, topic + card number only. Back: bold activity title, steps, kit materials, then NOT INCLUDED items at the bottom in italics | 2026-09-19 |
+| **Card design DONE: Fresh vs Salt Water, Navigating Our Oceans** | 2026-09-19 |
+| **Navigating Our Oceans is complete on BOTH cards and materials list** — the reference build | 2026-09-19 |
 
 ## 💲 PRICES — CONFIRMED September 2026
 

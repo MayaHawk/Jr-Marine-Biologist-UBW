@@ -173,4 +173,17 @@ Each entry uses this shape:
 
 ---
 
+### D-015 — Card design standard
+- **Date:** 2026-09-19
+- **Decision:** Every activity card, in all 24 topics, follows one standard.
+  - **Front:** a photo, **no title on the photo**, only the **topic name and card number** (`X of 5`).
+  - **Back:** activity title **in bold**, then the steps, then materials — **kit materials in the main block, and everything the parent supplies at the bottom, italicised, under NOT INCLUDED.**
+- **Made by:** Maya Hawk
+- **Why this is more than a style rule:** it is the mechanism that makes the master materials list trustworthy. Maya's own flags sheet already records scissors marked "not included" on some cards but not others, and cotton balls listed both ways. **An inconsistently marked card creates a phantom item that gets costed, ordered and packed — or a parent who expects scissors in the box and finds none.** One marking rule ends that class of error.
+- **Affects:** all 24 topics, `templates/card-design-standard.md`, every future materials list
+- **Status of the range:** Fresh vs Salt Water and Navigating Our Oceans are card-complete. **Navigating Our Oceans is complete on both cards and materials, making it the reference build.**
+- **Revisit when:** Maya changes the format.
+
+---
+
 *(New decisions are appended below, newest last.)*

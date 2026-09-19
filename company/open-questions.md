@@ -35,6 +35,10 @@
 | N-5 | 🚨 **Are the gambling spam pages still on underbluewaters.com?** Not mentioned in September's work. | Maya | ⬜ |
 | N-6 | 🔴 **Were the 781 camp contacts given permission to be emailed about products**, or only about camps? | Sales, Legal | ⬜ |
 | N-7 | **Has the Terms of Service refund line been fixed?** It contradicts the new no-refund policy. | Maya | ⬜ |
+| N-12 | **Card number format** — is it `Card 3 of 5`? Read from "our it 5". | Product | ⬜ |
+| N-13 | **Is Marine Mammals card-design done?** It has a finished materials list but was not named as done. | Product | ⬜ |
+| N-14 | **Does the NOT INCLUDED block carry a heading**, or do the italics alone signal it? | Product | ⬜ |
+| N-15 | **Front photo rules** — real marine photography only, or illustration allowed? Fixed position for the topic name? | Product | ⬜ |
 | N-10 | 🎄 🔴 **Do we run a Christmas push, and for how many kits?** Materials must be ordered within weeks; the last ship date is ~Dec 17. | Everyone | ⬜ |
 | N-11 | 🎄 **Do you want gift options** — gift message, printable gift certificate, "gift a kit"? None exists today. | Sales, Product | ⬜ |
 | N-9 | ⏱️ 🔴 **Time yourself packing three kits.** Still the cheapest unanswered question in the business. It decides whether a 50-kit order fits inside the one-week delivery promise (8 hours at 10 min/kit, 42 hours at 50 min/kit) and whether 2,000 kits is 14 weeks of work or 42. | Ops, Sales, Finance | ⬜ |
