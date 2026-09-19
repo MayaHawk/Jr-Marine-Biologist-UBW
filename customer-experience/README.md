@@ -17,6 +17,6 @@ customer-experience/
 
 ## The rules for this folder
 1. **Nothing here has been sent to anyone.** Every template is a draft.
-2. **Refunds, credits, and replacements are left blank** — `[MAYA: your call]`. The agent never decides what to offer.
+2. 🔴 **NO REFUNDS.** Policy D-012 (2026-09-19): the business does not offer refunds. No template may offer, imply, or leave a blank for one. Replacements and digital upgrades are the alternatives. A refund request goes to Maya.
 3. **No customer names, emails, addresses, or child details** in any file. The feedback log holds categories and counts only.
 4. **No dark patterns** in the cancellation flow. Leaving must be easy.

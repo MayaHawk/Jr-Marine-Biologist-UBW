@@ -118,7 +118,11 @@
 > [MAYA: choose one and delete the rest —
 >  · "I'm sending a replacement [ITEM/KIT] today, no charge."
 >  · "I'm shipping the missing piece today."
->  · "I'd like to refund you for this kit."]
+>  · "I'd like to send you the complete Digital Library — all 24 topics — while we sort this out."]
+>
+> ⚠️ **REFUND IS NOT AN OPTION.** Policy D-012, 2026-09-19: the business does not offer refunds.
+> No agent may offer, imply or leave a blank for one. A customer who asks for a refund is
+> escalated to Maya and answered by Maya.
 >
 > [If a photo would help: "If it's easy, a quick photo helps me figure out whether it happened in packing or in transit — but don't worry about it if not."]
 >
@@ -138,7 +142,7 @@
 > [CHOOSE ONE —
 >  · "It shipped on [DATE]. Tracking: [NUMBER] — [LINK]. Latest scan shows [STATUS], estimated [DATE]."
 >  · "It hasn't shipped yet — it goes out [DATE], and you'll get tracking that day."
->  · "Tracking has stalled. I'm opening a case with [CARRIER] today. If it hasn't moved by [DATE], I'll [MAYA: reship / refund — your call] — you won't be left without it either way."]
+>  · "Tracking has stalled. I'm opening a case with [CARRIER] today. If it hasn't moved by [DATE], I'll send a replacement — you won't be left without it either way."]
 >
 > Maya
 
@@ -174,7 +178,7 @@
 
 - [ ] Approve the wording of each template above
 - [ ] Confirm the credential line in #7 is how you want it stated publicly
-- [ ] **Decide the replacement/refund policy** — templates #3 and #5 leave that blank on purpose
+- [x] ~~Decide the replacement/refund policy~~ **DECIDED 2026-09-19 (D-012): no refunds. Replacement or digital upgrade only.**
 - [ ] Confirm your standard ship window ("within X business days")
 - [ ] Confirm whether your store already sends #1 automatically
 

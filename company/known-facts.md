@@ -90,6 +90,9 @@
 | 🎯 **GOAL: sell 2,000 kits as quickly as possible for as much as possible** | 2026-09-19 |
 | **Bulk strategy is geographic — start nearest Delray Beach and work outward**, to avoid postage | 2026-09-19 |
 | **Local delivery promise: within ONE WEEK. No same-day delivery.** | 2026-09-19 |
+| 🔴 **THE BUSINESS DOES NOT OFFER REFUNDS** — standing policy, not case-by-case | 2026-09-19 |
+| Order R916215991 receives the **$99 Digital Library**, not a refund | 2026-09-19 |
+| ⏱️ **Kit assembly time: 50 minutes** *(needs confirming: per kit, or for three kits?)* | 2026-09-19 |
 
 ## 💲 PRICES — CONFIRMED September 2026
 

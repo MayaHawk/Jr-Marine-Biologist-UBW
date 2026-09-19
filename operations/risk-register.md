@@ -75,7 +75,12 @@ An email sent 2026-09-17 on order **R916215991** offered the customer a choice t
 
 **The exposure:** the customer holds a written offer of a refund and a written acceptance. If she disputes the charge with her card issuer, a written refund promise is close to decisive evidence, and a chargeback costs the sale, a fee, and a mark against the merchant account.
 
-**This is not an argument for refunding.** It is a note that the position is weaker than it looks, so the substitution has to be handled generously and fast.
+**DECIDED 2026-09-19 (D-012): no refund. The customer receives the $99 Digital Library.** Maya was shown the chargeback exposure and reaffirmed the decision. **This risk is now closed as a decision and will not be raised again.**
+
+What remains is execution, not debate:
+- **Deliver the Library today.** Speed is the whole mitigation. A customer who receives something valuable quickly rarely disputes; one who waits does.
+- **The $99 Library is worth more than the $45.99 she paid.** Say that plainly and warmly — it is a genuine upgrade, not a fob-off.
+- **The real remaining exposure is the Terms of Service**, which still publicly promises refunds. See R-11. That is fixable in five minutes and is entirely within Maya's control.
 
 **Recommended — Maya's call:**
 | # | Action |
@@ -113,16 +118,18 @@ That the 2020 exports already show **17 bounced addresses** confirms the list ha
 
 ---
 
-## 🔴 R-11 — The Terms of Service contradict the new refund policy
+## 🚨 R-11 — The Terms of Service publicly promise refunds the business does not give
 
-**Status:** OPEN · **Owner:** Maya · **Opened:** 2026-09-19
+**Status:** OPEN, NOW THE PRIORITY REFUND ISSUE · **Owner:** Maya · **Opened:** 2026-09-19
 
 The live Terms of Service say: *"there is no cancellation fee and we will refund any kits not yet sent."*
 Policy D-007, set the same day, says no refund is offered without Maya's explicit permission.
 
 **A published Terms of Service is the stronger document in a dispute.** Either the terms change, or the policy has an exception for unsent bundle kits. Right now the business is publicly promising something its internal policy forbids.
 
-**This is a question for whoever reviews your terms, not for this team.**
+**Why this is now the top refund-related item:** policy D-012 (2026-09-19) confirms the business does not offer refunds at all. The live Terms of Service still say it does. In any dispute — with a customer, a card issuer, or a regulator — **the published document carries more weight than an internal policy nobody outside the business has seen.**
+
+**This is a five-minute edit that closes the last piece of refund exposure Maya can actually control.** The wording itself is a question for whoever reviews your terms, not for this team.
 
 ---
 

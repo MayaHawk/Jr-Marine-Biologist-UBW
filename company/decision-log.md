@@ -128,4 +128,19 @@ Each entry uses this shape:
 
 ---
 
+### D-012 — The business does not offer refunds
+- **Date:** 2026-09-19
+- **Decision:** **Junior Marine Biologist does not offer refunds.** This is reaffirmed as standing policy, not a case-by-case judgement. On order **R916215991** specifically: no refund. The customer receives the **complete $99 Digital Library** instead.
+- **Made by:** Maya Hawk
+- **Context:** An email sent 2026-09-17 offered that customer a refund without authorisation, and she accepted it in writing. The Chief of Staff raised the resulting chargeback exposure on 2026-09-19; Maya reaffirmed the decision. It is recorded as made and is not to be reopened.
+- **Affects:** every customer-facing template, all agent behaviour, the Terms of Service
+- **What every agent must now do:**
+  - Never offer, imply, hint at, or leave a blank that could be filled with a refund
+  - Where a service template previously read `[MAYA: refund / replacement / credit — your call]`, refunds are removed from the options
+  - A customer asking for a refund is escalated to Maya, never answered by an agent
+- **⚠️ The one thing still outstanding:** the live Terms of Service say *"we will refund any kits not yet sent."* **A published Terms of Service is the stronger document in a dispute than an internal policy.** Fixing that line is now the only remaining exposure that is fully within Maya's control, and it is a five-minute edit. Tracked as risk R-11.
+- **Revisit when:** Maya says otherwise.
+
+---
+
 *(New decisions are appended below, newest last.)*
