@@ -44,3 +44,20 @@
 - [ ] **Verify or reword all 10 items above.** They are the gate on printing the Sharks set — the mechanical card fixes can be done without her, these cannot.
 - [ ] **SV-7 first** — the data table. It is the only one where a printed number could be flatly wrong in a way a teacher would catch.
 - [ ] **SV-9 second** — the lift explanation, where the risk is teaching a tidy myth.
+
+---
+
+## Added 2026-09-19 — the species flash cards (`DAHRRYxWM2o`)
+
+### 🔴 SV-13 — Dwarf lanternshark length
+**Claim as extracted:** "Lengths up to 4–5 feet"
+**Concern:** the dwarf lanternshark is roughly **8 inches (20 cm)** — among the smallest sharks known. The card's own text calls it *"one of the smallest sharks in the world"*, so a 4–5 ft figure would contradict the same card by about six times.
+**Caveat:** Canva returned text elements out of visual order, so the figure may belong to the adjacent **leopard shark**, which genuinely is 4–5 ft.
+**Why it matters:** the Math activity orders these cards smallest to largest against a measured line. A wrong length teaches wrong ordering, and a number printed on a card is read as fact by a teacher.
+**Verifier:** Maya. **Status:** ⬜ VERIFY
+
+### 🟡 SV-14 — Giant sawfish classified as a shark
+**Claim:** Giant Sawfish appears in a set of shark flash cards.
+**Concern:** sawfish are **batoids (rays)**, not sharks — both are cartilaginous fish, but they are different groups. A card presenting one plainly as a shark would be inaccurate.
+**Note:** this could become a strength rather than a correction — *"looks like a shark, actually a ray, here's how you tell"* is exactly the kind of real distinction this brand is built on.
+**Verifier:** Maya. **Status:** ⬜ VERIFY
