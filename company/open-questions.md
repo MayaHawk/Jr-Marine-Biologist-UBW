@@ -135,6 +135,9 @@
 | U-20 | **Which components come from Temu, and can any supplier provide safety test certificates?** | Product, Operations | ⬜ |
 | U-21 | ~~Sea Turtle and Coral Reef contents?~~ **RECEIVED — supply lists transcribed.** | Product | ✅ |
 | U-28 | ~~Is the packed shark tooth a real fossil, replica, or clay?~~ **ANSWERED 2026-09-19 from the Canva master set: BOTH, in different tiers.** Younger tier = the child makes one from clay. **Age 10+ = a supplied "Shark tooth (fossil or replica)".** | Product, Finance | ✅ |
+| N-24 | 🔴 **Is Age 4–6 part of the Sharks kit?** A complete Age 4–6 tier exists in Canva but is not in the ALL set, which holds only 7–9 and 10+. Your audience is stated as ages 4–12. | Product, Sales | ⬜ |
+| N-25 | 🟢 **Are the Canva "(Digital)" shark files the missing store PDFs?** 17 digital products carry the wrong PDF. These may already be the real content. | Product | ⬜ |
+| N-26 | **`Age 7-9` and `Age 7-10` both exist** as separate Sharks designs. Which is stale? | Product | ⬜ |
 | N-22 | 🔴 **Where are the COLLECTIBLE SPECIES flash cards?** Two activity cards depend on them — the Art card says *"use the shark flashcards to choose the tooth"* and the Math card says *"place your shark flashcards along the yarn, smallest to largest"*. The file named "Shark flash cards" turned out to be activity cards in print layout, not species cards. **Do the species cards exist?** | Product | ⬜ |
 | N-23 | **Pages 21–30 duplicate the Age 7–9 cards** (content pages 1–10, print layout 21–30). Keep both, or remove the duplicate? | Product, Maya | ⬜ |
 | N-18 | 🔴 **Fossil or replica?** The 10+ card says "fossil or replica" — they differ in cost, sourcing and safety. Which do you actually put in the box? | Product, Finance | ⬜ |

@@ -16,9 +16,10 @@
 
 | Rule | Detail |
 |---|---|
+| 🔴 **LOGO** | **The Jr. Marine Biologist logo must appear on the front of every card.** Confirmed by Maya 2026-09-19. |
 | **Photo** | 🔴 **A REAL MARINE PHOTOGRAPH.** Confirmed 2026-09-19 — not an illustration, not clip art, not AI-generated imagery. Full-bleed. |
 | ❌ **No title on the photo** | The activity title does **not** appear on the front |
-| **Only two pieces of text** | The **topic name** and the **card number** |
+| **Text on the front** | The **topic name**, the **discipline** (Science/Technology/Engineering/Art/Math), and the **card number**. Current cards read `Sharks · Science · No. 1 of 5`. |
 | **Card number format** | ✅ **`Card [N] of 5`** — CONFIRMED 2026-09-19. So: `Card 1 of 5` · `Card 2 of 5` · `Card 3 of 5` · `Card 4 of 5` · `Card 5 of 5` |
 
 **That is everything on the front.** Photo, topic, card number. Nothing else.
@@ -57,7 +58,8 @@ This is what lets the materials list be built automatically and trusted. A card 
 - [ ] **No activity title on the photo**
 - [ ] Topic name present
 - [ ] Card number present, worded exactly **`Card [N] of 5`**
-- [ ] Nothing else on the front
+- [ ] 🔴 **Logo present on the front**
+- [ ] Nothing else beyond photo, logo, topic and card number
 
 **Back**
 - [ ] Activity title present and **bold**
