@@ -6,7 +6,7 @@
 
 **Status key:** 🟡 unconfirmed · ✅ confirmed by Maya · ❌ rejected by Maya
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-09-19
 
 | # | Date | Assumption | Why we assumed it | Who made it | Risk if wrong | Status |
 |---|---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | A-045 | 2026-09-19 | The unmarked younger Sharks tier is the **7–10** band, not 4–6 | Its materials — toothpicks, a magnet, small googly eyes — read 7–10. No age appears on any of those five cards | Product | **High, and it is a safety assumption, not a labelling one** — the flagged hazards cannot be assessed against the right age until Maya confirms *(safety flag S-11)* | 🟡 |
 | A-046 | 2026-09-19 | The "flashcards" used by Tier A card 4 (*Line Up the Sharks*) means **shark species cards carrying lengths**, not the kit's collectible cards | It is a measuring activity, and the 10-species list on card A5's back points the same way | Product | Medium — if right, a printed sheet the kit needs **does not exist** and the Math activity has no data *(flag F-2)* | 🟡 |
 | A-047 | 2026-09-19 | **No finished shark tooth necklace is packed in the Sharks kit.** The younger tier makes one from clay; the 10+ tier gets a loose tooth for a science investigation | **No card in the current Canva set uses a supplied finished necklace.** The item appears only on the older pack-in list | Product | Medium, and mostly good news — **if right, a cost line and the entire cord/strangulation risk category both disappear** *(flags F-15, S-9)*. Maya may still pack one as a keepsake | 🟡 |
+| A-048 | 2026-09-19 | **The STEAM discipline name (Science, Technology, Engineering, Art, Math) STAYS on the card front.** Cards currently read `Sharks · Science · No. 1 of 5`. D-015 permits only two pieces of text on the front — topic name and card number — so strictly the discipline word should come off. The team recommends **keeping it and amending the standard instead.** | It is what school, co-op and camp buyers scan for when judging whether a kit is real curriculum, and it is the **visible proof of the STEAM claim** the catalog makes for every kit. Deleting it removes the evidence for a claim we are already making. **Maya has been asked (open question SH-13) and has not yet answered.** Work proceeds on this basis and **must be flagged as unconfirmed in any output that shows a card front.** | Product | **Medium–high — it affects all 122 card designs, not just the ten Sharks cards.** If Maya rules the other way after typesetting begins, every front is reworked. It also compounds with the proposed age band (SH-20): topic + discipline + age band + card number is **four** pieces of text on a front the standard limits to two. | 🟡 |
 | A-040 | 2026-09-19 | Maya ran ocean adventure camps "since 2009" | **Stated in a Chief of Staff steer, 2026-09-19. It is NOT in `known-facts.md`, which records the camp operation in the past tense with no year.** `founder-profile.md` forbids stating years without written confirmation. | Sales | Medium — **no year appears in any outreach draft until Maya confirms it.** A wrong credential claim damages the brand's core trust asset. | 🟡 |
 
 ---

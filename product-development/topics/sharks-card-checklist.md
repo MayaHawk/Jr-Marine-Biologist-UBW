@@ -18,18 +18,64 @@ Fix these four and most of the set is done.
 | **1. No photo placed** | 🔴 **All five 10+ cards** | Each carries placeholder text — *"Drop photo…"*, *"Drop background photo"*. D-015 requires a **real marine photograph**, full bleed. **The 10+ tier cannot print.** Usage rights must be confirmed first (N-16). |
 | **2. "(not included)" written inline** | Tier A cards 1 and 2 | The standard requires a **separate italicised NOT INCLUDED block at the bottom**, not a bracket inside the main materials line. |
 | **3. Missing NOT INCLUDED items entirely** | 🔴 10+ cards 1, 2, 3, 4, 5 | Scissors, cups, blindfold, timer, hair dryer, hairspray, calculator and a helper are listed in the **main** materials block as if they were packed. Every one of them is a phantom item that would otherwise get costed, ordered and packed. |
-| **4. Number worded "No. N of 5"** | **All ten cards** | Maya confirmed the wording **`Card [N] of 5`**. Every card currently reads `No. 1 of 5`. *(And see the open question on the discipline name, below.)* |
+| **4. Number worded "No. N of 5"** | **All ten cards** | Maya confirmed the wording **`Card [N] of 5`**, and confirmed 2026-09-19 that **each tier numbers its own five cards 1–5 independently**. Every card currently reads `No. 1 of 5`. ✅ Safe to renumber now. *(But see the new duplicate-number flag and the still-open discipline-name question, below.)* |
 | **5. Editor artifacts** | 🔴 The 10+ pages | The words **"Replace"** and **"Edit"** appear in the file. Canva leftovers. **Must not reach print.** |
 
-### Two decisions needed before anyone edits a card
+### Card numbering — SETTLED. Discipline name — still open.
 
-- **⬜ `Card N of 5` — but Sharks has more than 5.** The confirmed wording is `Card [N] of 5`, and `known-facts.md` confirms **Sharks carries 7 flash cards** while the Canva set holds **10 activity cards** (5 per tier). **"of 5" is only correct if one tier's five cards ship per kit.** This must be settled before the numbers are re-typeset, or the whole set gets re-typeset twice. *(Flag F-1 in the supply list.)*
-- **⬜ Does the discipline name stay on the front?** Cards currently read `Sharks · Science · No. 1 of 5`. D-015 permits **only two pieces of text** on the front: topic name and card number — so strictly, the discipline word must come off. **But it is a genuine asset for school and co-op buyers**, and it is the visible proof of the STEAM claim. My recommendation: **keep it, and amend the standard to allow it** rather than delete it. Maya's call, and it affects all 122 cards, not just these ten.
+#### ✅ CONFIRMED 2026-09-19 — `Card N of 5` is simply correct
+
+Maya's words, 2026-09-19: **"5 activities per age group."** and **"No only 5 activites ship per kit."** Read with her earlier confirmed statement — **"We need 10 activities total. First 5 are age 7-9, second set of 5 are for age 10+"** — the numbering question is closed, with no caveat.
+
+**What that means for typesetting (CONFIRMED):**
+- Each age tier carries **its own independent set of 5 activity cards**, numbered `Card 1 of 5` through `Card 5 of 5`. The 10+ tier does **not** continue from 6; it restarts at 1.
+- **Ten activity cards exist as designs** — five for ages 7–9, five for ages 10+.
+- **Only ONE tier's five cards ship in any given kit.** A Sharks kit contains **5 activity cards**, not 10.
+
+So every `Renumber` line below is now safe to action: Tier A becomes `Card 1 of 5`…`Card 5 of 5`, and Tier B becomes `Card 1 of 5`…`Card 5 of 5` as well. *(This closes supply-list flag F-1 on the numbering point.)*
+
+#### ⬜ RECOMMENDATION — print the age band on the card front
+
+**Suggested wording:** `Sharks · Ages 7–9 · Card 1 of 5` and `Sharks · Ages 10+ · Card 1 of 5`.
+
+**Being honest about the strength of this case:** because only one tier ships per kit, there is no jumbled pile of ten cards to untangle. This is now a **judgement call, not a forced fix.** The two reasons that remain:
+
+1. **Flag F-12 already stands on its own.** The supply list records that **no age band is printed on the Tier A cards at all**, and calls it safety-relevant rather than merely cosmetic: the hazards on those cards (toothpicks, a magnet, small googly eyes) cannot be matched to the right child by anyone holding the card. Printing the band closes that gap directly.
+2. **Sharks now ships in age variants, so both the parent and the packer need to see which variant they are holding.** A card front is the most visible surface in the box. Without a band, the only way to tell a 7–9 card from a 10+ card is to read the activity and infer.
+
+⚠️ **This is a recommendation needing Maya's approval, not a decision made.** No card front will be changed until she rules. *(Open question **SH-20**.)*
+
+**Is it still blocking?** I judge **yes, 🔴** — not because of numbering, but because of sequence: if the band is added after the ten fronts are typeset, all ten are re-typeset a second time, and the same decision then repeats across all 122 cards in the range. It is cheap to decide now and expensive to decide later.
+
+📐 **Note for Maya:** the age band would be a **third** piece of text on the card front, alongside the topic name and the card number. D-015 as written permits only two. That interacts directly with the still-open question of whether the STEAM discipline word stays — **three pieces of text, or four?** *This file does not resolve that. It is still with Maya as SH-13.*
+
+🟡 **Small band-naming point, not resolved here:** Maya's statement names the younger tier **7–9**, while `known-facts.md` records the kit age bands as **4–6 / 7–10 / 10+** and assumption A-045 reads Tier A as 7–10. Whichever wording is printed must be picked deliberately, because it will appear on every card front.
+
+#### 🔴 WHAT THIS REVEALS — Sharks is an age-variant product, and nothing has been designed for that
+
+If only one tier ships per kit, then **"a Sharks kit" is really two different products sharing one name** — possibly three, if Age 4–6 becomes a tier (N-24). Nothing in the catalog, the store listings, the pack list or the packing SOP currently accounts for that. **These are raised, not answered** — open questions **SH-21** to **SH-24**:
+
+- **How does a buyer choose their tier** — at checkout, or does someone have to email them after the order?
+- **Is each tier a separate product listing / SKU**, or one listing with an option?
+- **What happens on a bulk order of 50–100 kits** to a school or camp — mixed tiers, or all one?
+- **Does Age 4–6 become a third shipping tier**, or is it a digital/bonus set?
+
+⚙️ **For `operations-fulfillment-manager` and `finance-manager` — this multiplies card inventory.** Each topic's tiers must now be **stocked, stored and picked separately**, and **a picker can put the wrong tier in a box** — an error the customer only discovers after opening. That is a real fulfilment risk with a real cost, not a hypothetical. It should be costed and designed against before any volume run.
+
+#### ❓ NOT RECONCILED — 7 flash cards versus 5 activities per kit
+
+Two statements from Maya are on record and **have not been reconciled**:
+- **CONFIRMED 2026-08-18:** *the Sharks kit contains **7 flash cards**; every other kit contains 5.*
+- **CONFIRMED 2026-09-19:** *"No only 5 activites ship per kit."*
+
+They may be counting **different things** — collectible **species** flash cards versus **activity** cards — or the 7 may include something else again. **No agent will guess which, and neither number will be adjusted, averaged or reinterpreted to make them agree.** Put to Maya as open question **SH-25**.
+
+- **⬜ Does the discipline name stay on the front?** Cards currently read `Sharks · Science · No. 1 of 5`. D-015 permits **only two pieces of text** on the front: topic name and card number — so strictly, the discipline word must come off. **But it is a genuine asset for school and co-op buyers**, and it is the visible proof of the STEAM claim. My recommendation: **keep it, and amend the standard to allow it** rather than delete it. Maya's call, and it affects all 122 cards, not just these ten. *(Logged as ASSUMPTION A-048 — the team is proceeding on the basis that it stays, and flagging that in every output. Open question SH-13.)*
 
 ---
 
 ## TIER A — younger tier
-*(⬜ **No age band is printed on these cards.** Known-facts confirms bands of 4–6, 7–10 and 10+. Which one is this? The materials — toothpicks, a magnet, googly eyes — read 7–10. This is a safety question as much as a labelling one. Supply-list flag F-12.)*
+*(⬜ **No age band is printed on these cards.** Known-facts confirms bands of 4–6, 7–10 and 10+; Maya's 2026-09-19 statement names this tier **7–9**. The materials — toothpicks, a magnet, googly eyes — read 7–10. This is a safety question as much as a labelling one. Supply-list flag F-12. **The recommended fix — printing the band on the card front — is above and awaits Maya's approval (SH-20).**)*
 
 ### Card A1 — Sharks' Magnetic Sense · *Magnetic Fridge Shark* · term: Ampullae of Lorenzini
 
@@ -261,8 +307,11 @@ Fix these four and most of the set is done.
 
 ## ⚠️ Needs Maya's Approval
 
-- [ ] **Confirm `Card N of 5` is still correct**, given Sharks holds 10 activity cards and 7 confirmed flash cards *(supply-list flag F-1)*
-- [ ] **Rule on the discipline name on the front** — keep it and amend D-015, or remove it. Affects all 122 cards.
+- [x] ~~**Confirm `Card N of 5` is still correct**~~ ✅ **ANSWERED 2026-09-19 — "5 activities per age group" and "No only 5 activites ship per kit."** Each tier numbers its own five cards 1–5 independently; 10 designs exist, **5 ship per kit.**
+- [ ] 🔴 **NEW — approve printing the age band on the card front** (`Sharks · Ages 7–9 · Card 1 of 5`). A judgement call, not a forced fix: it closes the missing-age-label gap in flag F-12 and tells the parent and the packer which variant they are holding. **Blocks typesetting on sequence** — adding it later means re-typesetting all ten fronts twice. *(SH-20.)*
+- [ ] 🔴 **NEW — decide how the age variants are sold and packed.** Only one tier ships per kit, so Sharks is two products (maybe three) under one name. Checkout choice, SKU structure, bulk-order handling, and whether Age 4–6 becomes a third shipping tier. *(SH-21 to SH-24. Ops and Finance need this — separate stock, separate picking, and a real risk of the wrong tier going in the box.)*
+- [ ] ❓ **NEW — reconcile "7 flash cards" with "5 activities ship per kit."** Both are your words, on different dates. They may be counting species cards versus activity cards. **Nothing will be adjusted to make them agree until you say which.** *(SH-25.)*
+- [ ] **Rule on the discipline name on the front** — keep it and amend D-015, or remove it. Affects all 122 cards. **Interacts with the age band above: together they make four pieces of text on a front that D-015 limits to two.** *(SH-13; team is working on the ASSUMPTION it stays — A-048.)*
 - [ ] **Source five real marine photographs for the 10+ tier**, with usage rights *(N-16)*
 - [ ] **Verify the science flagged in `product-development/science-verification-log.md`** — 10 items, and she is the only one who can
 - [ ] **Decide the tone and image for B5**, the one card touching a difficult subject

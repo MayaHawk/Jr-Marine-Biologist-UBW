@@ -4,7 +4,7 @@
 
 **Editing rule:** an agent may add to this file only when Maya has explicitly stated or approved the fact. Every entry is dated. If you are not certain it came from Maya, it goes in `assumptions-log.md` instead.
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-09-19
 
 ---
 
@@ -59,6 +59,8 @@
 | **TRUE LANDED COST PER BOX = $1.46** (incl. tax and freight; sticker price was $1.26) | 2026-08-18 |
 | **Confirmed box dimensions: 7" × 5" × 3"** | 2026-08-18 |
 | **The Sharks kit contains 7 flash cards** | 2026-08-18 |
+| 🃏 **Sharks carries 5 ACTIVITY cards per age tier — 10 activity cards in total** across the two tiers (**ages 7–9** and **ages 10+**). Maya's words: *"5 activities per age group"* and *"We need 10 activities total. First 5 are age 7-9, second set of 5 are for age 10+."* Each tier numbers its own set `Card 1 of 5`–`Card 5 of 5` independently. | 2026-09-19 |
+| ⚠️ **Clarification — activity cards and species flash cards are DIFFERENT things.** The 7 flash cards above are collectible **species** cards. The 10 above are **activity** cards (the STEAM projects). Both entries stand; they do not contradict each other. **Maya has confirmed this for Sharks only** — the activity-card count for the other 23 topics has not been stated. | 2026-09-19 |
 | **Every OTHER kit contains 5 flash cards** — 7 is a Sharks-only exception | 2026-08-18 |
 | **Sharks is one of the 24 topics** — so the range is 24 total: 1 kit with 7 cards + 23 with 5 = **122 unique card designs** | 2026-08-18 |
 | **Flash cards were trial-printed at $0.71 each** (Office Depot, colour both sides, good cardstock) — ⚠️ **a TRIAL price, not a bulk/production cost** | 2026-08-18 |
