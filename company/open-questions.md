@@ -98,6 +98,8 @@
 | **SH-15** | **Tier B card 2 cannot be done by a child alone** — it needs a helper. The only such activity in the kit; a homeschooled only child is locked out of one fifth of it. Approve adding a solo variant? | Product | ⬜ |
 | **SH-16** | **Five cellophane envelopes per kit — what goes in them?** Carried from the old sheet with no purpose recorded. *(They may be the answer to sleeving the shark tooth.)* | Ops, Product | ⬜ |
 | **SH-17** | **Should the 10+ tier get a field notebook?** Tier A gets one, every other topic packs one, and no 10+ Sharks card lists one. An investigation kit with nowhere to record results is odd. | Product | ⬜ |
+| **SH-18** | 🔴 **Age 4–6 merge is blocked in Canva.** Four attempts to merge the Age 4–6 set into the ALL Sharks master failed with `Failed to commit session` — including into a clean copy, so it is not a lock on your file. Likely cause: the master now holds **two page sizes** (672×480 on pages 1–2, 1056×816 on page 33). **Recommendation: rebuild the Age 4–6 cards to the current design standard first** — the readiness check already found them in the old format. Detail: `product-development/topics/sharks-canva-file-inventory.md` §I. | Product | ⬜ |
+| **SH-19** | **Keep or delete the safety copy** `DAHVqiFksD8` ("ALL Making Sense of Sharks Kids Marine Biology Course", 33 pages, exact duplicate of the master, nothing merged into it). Nothing will be deleted without your yes. | Product | ⬜ |
 
 ---
 

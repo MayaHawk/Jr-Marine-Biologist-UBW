@@ -90,3 +90,57 @@ Per the naming rule, only `ALL` is the master.
 
 ## ⚠️ Needs Maya's Approval
 Nothing has been merged, renamed, archived or deleted. This is an inventory only.
+
+---
+
+## I. Age 4–6 merge — attempted 2026-09-19, blocked by Canva
+
+**CONFIRMED (observed directly):** the merge of `Sharks Age 4-6` (`DAHTy3KXpiU`, 15 pages) into
+`ALL Making Sense of Sharks` (`DAHUeEVgafM`, 33 pages) failed **four times** with the same Canva
+error: `Failed to commit session`.
+
+What was ruled out, in order:
+
+| Theory | Test | Result |
+|---|---|---|
+| Maya had the file open in Canva | Maya closed it, retried | Still failed |
+| The master was left half-merged | Re-read page count after every attempt | **33 pages every time — nothing was partially applied** |
+| The master itself was locked or corrupted | Made a clean copy (`DAHVqiFksD8`) and merged into the copy | **Still failed** — so it is not the master's state |
+
+**ASSUMPTION (reasoned, not proven):** the likely cause is **mixed page dimensions inside the ALL
+Sharks master**. Measured:
+
+- ALL Sharks pages 1–2: **672 × 480**
+- ALL Sharks page 33: **1056 × 816** ← different
+- Age 4–6 source pages: **672 × 480** (matches the master's *original* size)
+
+Page 33 is almost certainly from the certification pages merged earlier. A design holding two page
+sizes appears to be what Canva's merge cannot commit. This is an assumption because Canva's error
+message says nothing about dimensions — it is inference from the evidence above.
+
+**A safety copy now exists:** `ALL Making Sense of Sharks Kids Marine Biology Course` (`DAHVqiFksD8`,
+33 pages, identical to the master). It is an exact duplicate with nothing merged into it. It can be
+deleted at any time without touching the master.
+
+### Options for Maya
+1. **Merge by hand in Canva** — open both files, copy the 15 Age 4–6 pages across. Slower, but it
+   works regardless of page size, and Maya sees each page land.
+2. **Rebuild the Age 4–6 cards at 672 × 480 in the current design standard** (`templates/card-design-standard.md`)
+   — the readiness check already found the Age 4–6 set is in the **older** design format, so it needs
+   this work anyway before it ships. Merging it as-is would import out-of-standard cards.
+3. **Resize page 33 of the master to 672 × 480 first**, then retry the merge. Untested, and it edits
+   the master.
+
+**Recommendation: option 2.** The readiness check (`sharks-age-4-6-readiness.md`) concluded the
+Age 4–6 set is **not ready** — wrong card format, no logo on fronts, no `Card N of 5` numbering.
+Merging a broken-format set into the master to fix it later mixes good cards with bad ones in the
+one file that is supposed to be the production truth. Fixing the format first and merging clean
+costs the same work and leaves the master trustworthy.
+
+**Metric this moves:** kits sellable per topic. Sharks cannot go to print until the master set is
+final, and Sharks is the topic Maya wants to push toward the 2,000-kit goal.
+
+## ⚠️ Needs Maya's Approval
+- Which of the three options above to take.
+- Whether the safety copy `DAHVqiFksD8` should be kept or deleted. Nothing will be deleted without
+  a yes.
