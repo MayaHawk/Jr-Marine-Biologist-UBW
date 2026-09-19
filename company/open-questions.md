@@ -35,7 +35,7 @@
 | N-5 | 🚨 **Are the gambling spam pages still on underbluewaters.com?** Not mentioned in September's work. | Maya | ⬜ |
 | N-6 | 🔴 **Were the 781 camp contacts given permission to be emailed about products**, or only about camps? | Sales, Legal | ⬜ |
 | N-7 | **Has the Terms of Service refund line been fixed?** It contradicts the new no-refund policy. | Maya | ⬜ |
-| N-12 | **Card number format** — is it `Card 3 of 5`? Read from "our it 5". | Product | ⬜ |
+| N-12 | ~~Card number format?~~ **ANSWERED: `Card [N] of 5`.** | Product | ✅ |
 | N-13 | ~~Is Marine Mammals done?~~ **ANSWERED: 90% done.** | Product | ✅ |
 | N-14 | **Does the NOT INCLUDED block carry a heading**, or do the italics alone signal it? | Product | ⬜ |
 | N-15 | ~~Front photo rules?~~ **ANSWERED: real marine photograph only.** Still open: fixed position for topic name and card number? | Product | 🟨 |

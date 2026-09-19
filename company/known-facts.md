@@ -108,6 +108,7 @@
 | **Card design DONE: Fresh vs Salt Water, Navigating Our Oceans** | 2026-09-19 |
 | **Marine Mammals card design is 90% done** | 2026-09-19 |
 | 🔴 **Front photo must be a REAL MARINE PHOTOGRAPH** — not illustration, not clip art | 2026-09-19 |
+| **Card number wording: `Card [N] of 5`** | 2026-09-19 |
 | **Navigating Our Oceans is complete on BOTH cards and materials list** — the reference build | 2026-09-19 |
 
 ## 💲 PRICES — CONFIRMED September 2026

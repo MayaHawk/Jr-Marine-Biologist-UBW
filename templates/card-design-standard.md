@@ -19,7 +19,7 @@
 | **Photo** | 🔴 **A REAL MARINE PHOTOGRAPH.** Confirmed 2026-09-19 — not an illustration, not clip art, not AI-generated imagery. Full-bleed. |
 | ❌ **No title on the photo** | The activity title does **not** appear on the front |
 | **Only two pieces of text** | The **topic name** and the **card number** |
-| Card number format | `Card 3 of 5` *(see confirmation below)* |
+| **Card number format** | ✅ **`Card [N] of 5`** — CONFIRMED 2026-09-19. So: `Card 1 of 5` · `Card 2 of 5` · `Card 3 of 5` · `Card 4 of 5` · `Card 5 of 5` |
 
 **That is everything on the front.** Photo, topic, card number. Nothing else.
 
@@ -56,7 +56,7 @@ This is what lets the materials list be built automatically and trusted. A card 
 - [ ] Photo present, full-bleed
 - [ ] **No activity title on the photo**
 - [ ] Topic name present
-- [ ] Card number present, in the `X of 5` format
+- [ ] Card number present, worded exactly **`Card [N] of 5`**
 - [ ] Nothing else on the front
 
 **Back**
@@ -90,11 +90,15 @@ This is what lets the materials list be built automatically and trusted. A card 
 
 ---
 
-## ⬜ Needs Maya to confirm
+## ✅ The standard is now complete enough to build from
+
+Front and back are fully specified. The three remaining items below are refinements, not blockers — a designer could start on the next topic today.
+
+## ⬜ Still to confirm (refinements)
 
 | # | Question |
 |---|---|
-| 1 | **Card number format** — is it `Card 3 of 5`? I read "our it 5" as "out of 5". Confirm the exact wording and where it sits on the card. |
+
 
 | 3 | **Does the NOT INCLUDED block carry a heading**, or are the italics alone the signal? |
 
