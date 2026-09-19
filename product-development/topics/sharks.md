@@ -1,6 +1,19 @@
 # Kit Specification — SHARKS
 
-**Owner:** Product & Curriculum Manager | **Last updated:** 2026-08-18
+> ## 📍 UPDATED 2026-09-19 — read the three newer files first
+> The verbatim Canva card content was extracted on 2026-09-19 and **supersedes several conclusions in this file.**
+>
+> | File | What it now holds |
+> |---|---|
+> | `product-development/supply-lists/sharks.md` | The rebuilt master materials list, by-card tables, household note, 18 flags, the STEAM recommendation (§E) and the full shark-tooth assessment (§F) |
+> | `product-development/topics/sharks-card-checklist.md` | All 10 cards audited against the D-015 design standard, card by card |
+> | `product-development/safety-notes.md` · `science-verification-log.md` | 12 safety flags · 10 science claims marked `[VERIFY]` |
+>
+> **The two corrections that matter most on this page:**
+> 1. **Section C's necklace safety framing assumed a finished necklace is packed. No card in the current set uses one** — the younger tier **makes** a tooth from clay, and the 10+ tier gets a **loose tooth** for a science investigation. If nothing finished is packed, the cord/strangulation category falls away entirely *(open question SH-6)*.
+> 2. **Section F scores this kit as if it were one kit.** It is two tiers, and **the younger tier is not STEAM** — two Science cards, no Technology *(open question SH-4)*. The "whoa" moment is also better than section F says, and it lives on the **10+** tier only.
+
+**Owner:** Product & Curriculum Manager | **Last updated:** 2026-09-19
 **Status:** SHIPPING — this kit is live and selling
 **Significance:** **the most expensive kit in the range** (CONFIRMED by Maya, 2026-08-18)
 

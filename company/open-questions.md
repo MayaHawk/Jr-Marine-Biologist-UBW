@@ -75,6 +75,32 @@
 
 ---
 
+## 🦈 SHARKS — TAKING THE BEST SELLER TO ORDER (added 2026-09-19)
+
+**Context:** the Sharks materials list has been rebuilt to the Marine Mammals standard from the verbatim Canva card content (`product-development/supply-lists/sharks.md`), and all ten cards audited against D-015 (`product-development/topics/sharks-card-checklist.md`). These are what stand between Sharks and a costed, orderable kit. **SH-1, SH-2 and SH-3 block everything else.**
+
+| # | Question | Who needs it | Status |
+|---|---|---|---|
+| **SH-1** | 🔴 **How many flash cards actually ship, and does ONE tier ship per kit or both?** `known-facts.md` confirms **7 flash cards**; the Canva set holds **10 activity cards** (5 per tier). At 20 pages ÷ 2 sides, the set is exactly 10 cards and nothing else. **This decides the print run, the pack list, the SKU count, and whether `Card N of 5` is the right wording on all 122 cards.** *(Duplicates U-30 from the card side.)* | Product, Finance, Ops | ⬜ |
+| **SH-2** | 🔴 **Add quantities to the Sharks cards.** Only **two** counts are printed on the entire 10-card set — "6 cups" and "two pens." Roughly fifty other items have none. **This is the single highest-value half-hour available on this kit** — it removes more guesswork than any other action, and unblocks Finance completely. | Product, Finance | ⬜ |
+| **SH-3** | 🔴 **Verify the 10 science claims** in `product-development/science-verification-log.md`. **Nobody but you can do these.** Start with SV-7 (the population data table printed on a card) and SV-9 (whether pectoral fins really work like wings — the tidy version may be a myth). | Product, Maya | ⬜ |
+| **SH-4** | 🔴 **The younger Sharks tier is not STEAM** — two Science cards, no Technology. **The catalog tells buyers every kit has one of each, and uses Sharks as the worked example.** Recommendation in `supply-lists/sharks.md` §E: relabel card 1 as Technology with a tools-and-tracking frame — **no new supplies, no cost change.** Approve, reject, or amend. | Product, Sales, Maya | ⬜ |
+| **SH-5** | 🔴 **Shark tooth: fossil or replica?** *(Half-answers U-28 — the extract confirms the younger tier makes a clay tooth and only the 10+ tier gets a supplied one.)* Cost, sourcing, safety **and the honesty of the marketing copy** all turn on it. A resin replica must never be described as a real fossil. | Product, Finance, Maya | ⬜ |
+| **SH-6** | 🔴 **Is a finished shark tooth necklace still packed at all?** No card in the current set uses one. **If not, a cost line and the whole cord/strangulation concern disappear together.** | Product, Finance | ⬜ |
+| **SH-7** | 🔴 **What type of magnet is in card A1?** Not specified on the card, the supply list, or any order record. **Magnet type is the entire safety question.** Recommendation: one large ceramic or flexible magnet glued into the clothespin, never a small loose button magnet. **Settle before the next order — it cannot be fixed after kits ship.** *(Safety flag S-1.)* | Product, Ops, Maya | ⬜ |
+| **SH-8** | 🔴 **Confirm the younger tier's age band.** No age appears on those five cards. Materials read **7–10**, not 4–6. **This is a safety question** — hazards cannot be assessed against the right age until it is answered. | Product, Maya | ⬜ |
+| **SH-9** | 🔴 **Five real marine photographs for the 10+ tier, with usage rights.** All five 10+ cards still carry `"Drop photo…"` placeholders. **That tier cannot print.** *(Depends on N-16.)* | Product, Maya | ⬜ |
+| **SH-10** | 🔴 **Approve designing three missing printed sheets:** graph paper (used by two 10+ cards), the fin template, and shark species length cards. Same gap as Navigating's three missing sheets. | Product | ⬜ |
+| **SH-11** | **Approve the household-versus-kit calls**, especially **scissors** (marked not-included on one card and not on two others) and **salt** (a purchased jar in Sharks, household in both finished topics). | Product, Finance | ⬜ |
+| **SH-12** | **Confirm hairspray/fixative is never packed.** Aerosol shipping restriction, inhalation question, and leak risk in a small box. Recommend household, adult-applied, and ideally optional. *(Safety flag S-5.)* | Product, Ops | ⬜ |
+| **SH-13** | **Does the discipline name (Science, Math, Art…) stay on the card front?** D-015 allows only topic name and card number — but the discipline word is **visible proof of the STEAM claim** and a real asset for school buyers. Recommendation: keep it and amend the standard. **Affects all 122 cards.** | Product, Sales | ⬜ |
+| **SH-14** | **Pre-marking 60 feet of yarn is staging labour, not packing labour.** Card A4 needs the yarn tape-marked every ~5 ft before it goes in the box. Measuring and marking 60 ft per kit is not part of the 10-minute pack. *(Feeds B-0 / N-9.)* | Ops | ⬜ |
+| **SH-15** | **Tier B card 2 cannot be done by a child alone** — it needs a helper. The only such activity in the kit; a homeschooled only child is locked out of one fifth of it. Approve adding a solo variant? | Product | ⬜ |
+| **SH-16** | **Five cellophane envelopes per kit — what goes in them?** Carried from the old sheet with no purpose recorded. *(They may be the answer to sleeving the shark tooth.)* | Ops, Product | ⬜ |
+| **SH-17** | **Should the 10+ tier get a field notebook?** Tier A gets one, every other topic packs one, and no 10+ Sharks card lists one. An investigation kit with nowhere to record results is odd. | Product | ⬜ |
+
+---
+
 ## 🚨 PRIORITY 00 — from 2026-08-25 (still open unless you say otherwise)
 
 | # | Question | Who needs it | Status |

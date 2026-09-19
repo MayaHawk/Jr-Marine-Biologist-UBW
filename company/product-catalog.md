@@ -76,6 +76,13 @@ The 5 hands-on activities are not five generic activities. **Each maps to one le
 
 > 🟢 **This is a significant, under-used brand asset.** "5 hands-on activities" is a weaker claim than "one Science, one Technology, one Engineering, one Art and one Math activity in every single kit" — which is the exact language homeschool parents, co-ops, micro-schools and teachers search for. Flagged to Sales and Social. **No claim of alignment to any formal educational standard is made or implied.**
 
+> ### 🔴 CORRECTION 2026-09-19 — the Sharks example above is not currently true of the younger tier
+> The Canva `ALL Making Sense of Sharks` cards label **Sharks' Magnetic Sense as *Science*, not Technology.** That gives the **younger Sharks tier two Science cards and no Technology card.** The 10+ tier is properly STEAM; the younger tier is not.
+>
+> **Until this is fixed, Sales and Social must not use "one of each STEAM letter" for the younger Sharks tier.** The 10+ tier and the other topics are unaffected pending their own audits.
+>
+> **Recommended fix** (Product & Curriculum Manager, 2026-09-19): relabel that card **Technology** and rewrite its back around *tools that extend human senses* — sharks sense electric fields we cannot, so scientists build tags and receivers to sense sharks we cannot see. **No new supplies, no cost change, and it mirrors the 10+ Technology card.** Full reasoning and two alternatives in `product-development/supply-lists/sharks.md` §E. **Maya's decision — open question SH-4.**
+
 ### Age tiers — CONFIRMED 2026-08-18
 
 Kits are built in three bands: **AGE 4–6 · AGE 7–10 · AGE 10+**
@@ -116,7 +123,11 @@ The base specification above is a **floor, not a fixed recipe.** Individual kits
 
 | Kit | Flash cards | Other variation | Cost impact |
 |---|---|---|---|
-| **Sharks** | **7** | **shark tooth necklace** | **The most expensive kit in the range** |
+| **Sharks** | **7** ⚠️ | **shark tooth necklace** ⚠️ | **The most expensive kit in the range** |
+
+> **⚠️ Two corrections to the row above, 2026-09-19** — from the verbatim Canva card content.
+> 1. **"7 flash cards" does not reconcile with the card set.** The `ALL` Sharks set holds **10 activity cards** — 5 per age tier — and at 20 pages ÷ 2 sides it holds nothing else. 7 is only consistent if **one tier ships per kit (5 cards) plus 2 extra collectible cards.** Open question **SH-1**; assumption **A-041**.
+> 2. **No card in the current set uses a supplied finished necklace.** The younger tier **makes** a tooth from clay; the 10+ tier receives a **loose shark tooth (fossil or replica)** for a science investigation. **Whether a finished necklace is still packed at all is unconfirmed** — open question **SH-6**, assumption **A-047**. *(This half-answers the long-open U-28.)*
 | **All other kits** | **5** — CONFIRMED 2026-08-18 | Not yet confirmed | Baseline |
 
 **At the trial print price of $0.71/card:** a standard kit's cards cost **$3.55**; Sharks costs **$4.97** — a **$1.42** premium on cards alone, before the necklace. *(Trial pricing is a ceiling, not a production cost.)*
@@ -137,7 +148,7 @@ This means **there is no single COGS figure for "a kit."** Each topic must be co
 | 2 | **Fresh VS Salt Water** | `DAHUd_P8ro8` | 22 | 2026-09-09 | ✅ **DONE** | ❌ |
 | 3 | **Marine Mammals** | `DAHUeHZVZVU` | 24 | **2026-09-19** | 🟡 **90% done** | ✅ **DONE** |
 | 4 | Coral Reefs | `DAHUeOl6uuE` | 22 | 2026-09-10 | ⬜ | 🟡 rough |
-| 5 | Making Sense of Sharks | `DAHUeEVgafM` | 20 | 2026-09-07 | ⬜ | 🟡 rough |
+| 5 | **Making Sense of Sharks** | `DAHUeEVgafM` | 20 | 2026-09-07 | 🟡 **audited — 0 of 10 to standard, checklist built** | ✅ **REBUILT to the Marine Mammals format 2026-09-19** ⚠️ quantities are ASSUMPTIONS |
 | 6 | A Sea Turtle's Journey | `DAHUeN4OWDw` | 20 | 2026-09-07 | ⬜ | 🟡 rough, 2 versions |
 | 7 | Camouflaging Cephalopods | `DAHUeJhtPXM` | 20 | 2026-09-16 | ⬜ | ❌ |
 | 8 | Will it Sting? | `DAHUeM0d8No` | 20 | 2026-09-16 | ⬜ | ❌ |
@@ -171,7 +182,8 @@ This means **there is no single COGS figure for "a kit."** Each topic must be co
 |---|---|
 | Topics with a design set | **24 of 24** ✅ |
 | Cards finished to standard | **2 done + 1 at 90%** |
-| Master materials lists built | **2** |
+| Master materials lists built | **3** *(Navigating, Marine Mammals, **Sharks** — Sharks rebuilt 2026-09-19 with assumed quantities)* |
+| Cards audited card-by-card against D-015 | **1 — Sharks** *(`product-development/topics/sharks-card-checklist.md`)* |
 | **Complete on both** | **1 — Navigating our Oceans** |
 
 **The work is finishing, not creating.** That is a very different job from what the team assumed in August.
