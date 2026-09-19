@@ -95,7 +95,12 @@
 | **Minimum order for free local delivery: 50 kits** | 2026-09-19 |
 | ⏱️ **Kit packing time: 10 minutes per box** — *conditional: once everything is organised for shipping, and once a master material list exists* | 2026-09-19 |
 | ⏱️ The **organising/staging step is NOT inside those 10 minutes** and has never been measured | 2026-09-19 |
-| 🔴 **A master material list does not yet exist** — Maya named it as the precondition for the 10-minute pack rate | 2026-09-19 |
+| **A master materials list EXISTS on Drive** — `Master_Materials_List_Navigating_MarineMammals`, covering **2 of 24 topics** (Marine Mammals, Navigating Our Oceans) to a high standard | 2026-09-16 |
+| Marine Mammals kit: **23 items packed, 9 supplied by the parent from home** | 2026-09-16 |
+| Navigating Our Oceans kit: **32 items packed, 12 supplied by the parent** | 2026-09-16 |
+| 🟢 **Many activity materials are household items the parent supplies** — they are NOT purchased or packed, which reduces cost per kit | 2026-09-16 |
+| 🔴 **SAFETY RULE: no face-in-water, no breath-holding.** The Diving Body and Sperm Whale cards were rewritten on 2026-09-16 to use a cold washcloth instead | 2026-09-16 |
+| 🔴 Three printed sheets for Navigating 10+ **do not exist yet** — tide table, Moon calendar, chart grid | 2026-09-16 |
 
 ## 💲 PRICES — CONFIRMED September 2026
 

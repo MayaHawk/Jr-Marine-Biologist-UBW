@@ -34,6 +34,16 @@ Now carried into the packing SOP.
 **Sharks: 7 cards. Every other kit: 5 cards.** The site promises "5 or more", so both hold.
 **Sharks is one of the 24 topics**, so the full range is 7 + (23 × 5) = **122 unique card designs**.
 
+## ⭐ Two formats exist — use the better one
+
+| File | Topics | Quality |
+|---|---|---|
+| `marine-mammals-and-navigating.md` | Marine Mammals, Navigating Our Oceans | ✅ **The standard.** Item→card mapping, age tiers, household split, flags sheet. |
+| `sharks.md` · `sea-turtles.md` · `coral-reefs.md` | 3 topics | 🟡 Rough. Missing quantities, no household split. |
+| *(19 other topics)* | — | ❌ Nothing |
+
+**The Marine Mammals / Navigating format is what bulk purchasing needs.** The other 22 topics should be brought up to it.
+
 ## Files
 - `sharks.md` — the most complete, and the only one with prices started
 - `sea-turtles.md` — two versions appear in the source; needs clarification
