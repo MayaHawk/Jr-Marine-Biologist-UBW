@@ -51,8 +51,7 @@
 - the necklace components (tooth, cord, clasp, presentation) — **never quoted**
 - the **hand-assembly time for the necklace** — **never timed**
 
-**ESTIMATE — what the labour could be worth.** *Input: 2,000 kits × an ASSUMED 3 minutes of extra necklace assembly (A-037 — no measurement exists).*
-**= 100 hours of Maya's time.** At 5 minutes it is 167 hours. **That may be a larger cost than the materials.**
+🔴 **The labour cannot be estimated and this file will not guess at it.** Necklace assembly time has never been measured, so no agent may put a number on it. **What can be said is that at 2,000 kits, even a small per-kit difference compounds into a large number — and that it may be a bigger cost than the materials.** Timing three necklace assemblies settles it.
 
 **Combined with risk R-02** — *the best-selling kit is also the most expensive* — leading with Sharks at volume does push blended margin down. The concern is real.
 

@@ -1,6 +1,6 @@
 # Partnership Channel — CAMPS
 
-**Rank:** #1 of 10 · **Best ring:** 🟢 Ring 1 (local delivery, within one week)
+**Rank:** #1 of 10 · **Best ring:** 🟢 Ring 1 (local hand delivery, free at 50+ kits)
 **Owner:** Sales Manager · **Prepared:** 2026-09-19
 **Metric it moves:** #3 Kits committed in bulk orders
 
@@ -71,24 +71,33 @@ Second: **729 of the 781 Tier 1 contacts are past camp families** (CONFIRMED). T
 
 | Offer shape | Why it fits |
 |---|---|
-| **One kit per camper as the take-home** | The camp's parent-facing win. Scales with enrolment, so the order size is large. |
-| **A session topic set** — e.g. 30 Sharks for shark week, 30 Sea Turtles for turtle week | Matches how camps already structure a summer |
-| **A rainy-day reserve** — 40 mixed kits held for cancelled water days | Small order, near-zero resistance, often the first yes |
-| **Mixed-topic classroom rotation** — 5 topics × 20 kits run as stations | Best margin protection (see `sales/sharks-lead-topic-recommendation.md`) and genuinely better programming |
+| **One kit per camper as the take-home** | The camp's parent-facing win. Scales with enrolment, so the order clears 50 easily. |
+| **A season topic set** — e.g. 60 Sharks for shark week, 60 Sea Turtles for turtle week | Matches how camps already structure a summer, and each block clears the floor on its own |
+| **A rainy-day reserve** — 50 mixed kits held for cancelled water days | Low resistance, often the first yes — **and exactly at the floor** |
+| **Mixed-topic rotation** — 3 topics × 25 kits run as stations | Best margin protection (see `sales/sharks-lead-topic-recommendation.md`) and genuinely better programming |
 
 **The two things to add that cost nothing:**
 - **The Complete Digital Library for the camp's staff** ($99, CONFIRMED price, zero fulfilment cost) — 🔴 blocked until the 17 wrong PDFs are fixed.
-- **Ring 1 delivery: "I'll bring them to you within a week."**
+- **Ring 1 delivery at 50+: "I'll bring them to you myself."**
+
+> 🟢 **The line for a camp sitting at 30–40 kits:** *"If you can get to fifty, I'll bring them out myself and include the full digital library for your staff."* **Both of those cost less than shipping 40 kits does.**
 
 ---
 
 ## The Ring 1 advantage, stated plainly
 
-A camp director's worst supply experience is materials that arrive late. **Maya can eliminate that risk for any camp in Palm Beach, Broward or Miami-Dade.** Not a tracking number — her, with the boxes, within a week.
+A camp director's worst supply experience is materials that arrive late. **Maya can eliminate that risk for any camp in Palm Beach, Broward or Miami-Dade.** Not a tracking number — her, with the boxes, on a date they agreed.
 
 **No national kit company can offer that.** It is the single most persuasive thing in the pitch after her background, and it costs Maya less than shipping does, not more.
 
-**Delivery promise discipline:** one week, up to ~50 kits. Above 50, a named date agreed with the director. **A camp director planning a June session is perfectly happy with "you'll have them by 1 May"** — bulk buyers want a date they can plan around, not speed. See `sales/partnerships/geographic-rings.md` §0.
+**Camps clear the 50-kit free-delivery floor more easily than any other channel** — typical orders are 50–300. ✅ **50 kits is CONFIRMED by Maya as the minimum for free local delivery.** At 50 kits the postage avoided is **$442.50–$600.00** (50 × the stated $8.85–$12.00 range).
+
+> ### 🚫 Delivery promise discipline — read this before quoting anything
+> **Per-kit build time has never been measured.** Maya's illustration: a 50-kit order is **~8 hours at 10 minutes a kit, ~42 hours at 50.** Inside a week, or well outside it.
+>
+> **Do not say "within a week" to a camp.** Say *"I deliver these myself"* and **ask for their date.** A camp director planning a June session is perfectly happy with *"you'll have them by 1 May"* — bulk buyers want a date they can plan around, not speed. **Agreeing a date is safer than promising one, and it sells just as well.**
+>
+> See `sales/partnerships/geographic-rings.md` §0.
 
 ---
 

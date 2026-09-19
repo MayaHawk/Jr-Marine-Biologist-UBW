@@ -52,16 +52,41 @@ Every step down the table should be earned by one or more of these four, **becau
 > ⚠️ **PROPOSED. Not approved. Not a price. Finance must confirm margin; Maya must approve.**
 > The proposed rows continue the confirmed curve; they are **not** derived from cost, because cost is unknown.
 
-| Quantity | Status | Per kit | Discount | Notes |
-|---|---|---|---|---|
-| 1–11 | ✅ **CONFIRMED** | **$45.99** | — | |
-| 12–23 | ✅ **CONFIRMED** | **$42.00** | 8.7% | |
-| 24–49 | ✅ **CONFIRMED** | **$39.58** | 13.9% | The classroom tier |
-| 50–99 | 🟡 **PROPOSED** | ~$36.50 | ~21% | |
-| 100–249 | 🟡 **PROPOSED** | ~$33.50 | ~27% | |
-| 250–499 | 🟡 **PROPOSED** | ~$30.50 | ~34% | 🔴 **Cannot be validated — COGS unknown** |
-| 500+ | 🟡 **QUOTE ONLY** | — | — | 🔴 **Maya decides each one individually** |
-| Retail wholesale | ⛔ **CLOSED** | — | — | Recommend not opening until COGS exists (`bulk-channel-assessment.md` §3) |
+**The structure is built around the 50-kit floor Maya set on 2026-09-19.** Everything below 50 is a shipped or collected order; **50 is where free local delivery begins**, and it should be where the discount curve visibly steepens, so that reaching 50 feels like crossing a line worth crossing.
+
+| Quantity | Status | Per kit | Discount | Local delivery | Notes |
+|---|---|---|---|---|---|
+| 1–11 | ✅ **CONFIRMED** | **$45.99** | — | ❌ (pickup only) | **The door for individual teachers and parents** |
+| 12–23 | ✅ **CONFIRMED** | **$42.00** | 8.7% | ❌ (pickup only) | |
+| 24–49 | ✅ **CONFIRMED** | **$39.58** | 13.9% | ❌ (pickup only) | One classroom sits here — **and cannot reach the delivery floor alone** |
+| **50–99** | 🟡 **PROPOSED** | ~$36.50 | ~21% | ✅ **FREE — the floor** | 🟢 **The target tier. 40 buyers here = the whole goal.** |
+| 100–249 | 🟡 **PROPOSED** | ~$33.50 | ~27% | ✅ Free | |
+| 250–499 | 🟡 **PROPOSED** | ~$30.50 | ~34% | ✅ Free | 🔴 **Cannot be validated — COGS unknown** |
+| 500+ | 🟡 **QUOTE ONLY** | — | — | ✅ Free | 🔴 **Maya decides each one individually** |
+| Retail wholesale | ⛔ **CLOSED** | — | — | — | Recommend not opening until COGS exists (`bulk-channel-assessment.md` §3) |
+
+### What sits BELOW the 50-kit floor
+
+**Nobody is turned away. They are given a different door.**
+
+| Buyer below 50 | Point them at | Why |
+|---|---|---|
+| **An individual classroom teacher** | The **$45.99 single kit** or the **$9.99 Digital Lesson Pack** | 🟢 **She is a lead, not a lost sale.** A teacher who buys one kit and loves it is the introduction to her grade-level lead — who *can* buy 50. |
+| A parent | $45.99 kit · $99 Digital Library | |
+| A scout troop or small co-op | **Pool with another group to reach 50**, or ship at confirmed prices | Pooling is how most mid-size buyers qualify |
+| Anyone local, any quantity | **Free pickup in Delray Beach** | Removes the postage without a drive. Currently not offered at all. |
+
+### What REWARDS going above the floor
+
+| Above 50, give | Why it works |
+|---|---|
+| **Free hand delivery** — the floor benefit itself | Worth $442.50–$600 in avoided postage at 50 kits |
+| **A steeper price step at 50** | Makes the jump from 49 to 50 feel decisive |
+| **The Complete Digital Library included** for the buying educator | $99 of value, zero cost to deliver (§5) |
+| **A date agreed rather than a queue position** | Scheduling certainty is what institutional buyers actually want |
+| **Topic choice across the confirmed range** | Costs nothing, feels like a lot |
+
+> 🟢 **The single best line for a buyer sitting at 30–40 kits:** *"If you can get to 50, I'll bring them to you myself and include the full digital library for your staff."* **Both of those cost Maya less than shipping 40 kits does.**
 
 ### 🔴 Two rules that matter more than the numbers
 
@@ -78,13 +103,13 @@ Neither number exists yet. **Therefore the 250+ tiers are genuinely unsafe to qu
 
 ## 4. 🟢 Local delivery — how to price it without giving the saving away
 
-Local delivery removes **$8.85–$12.00 of postage per kit** (stated range; open question U-8 confirms it). That is **more than the entire 24-kit bundle discount ($6.41).** The question is what to do with that money.
+Local delivery removes **$8.85–$12.00 of postage per kit** (stated range; open question U-8 confirms it). That is **more than the entire 24-kit bundle discount ($6.41).** At the 50-kit floor it is **$442.50–$600.00 recovered on a single order.** The question is what to do with that money.
 
 ### Three options
 
 | | **Option A — a separate, cheaper local price list** | **Option B — one price list; local delivery is a free upgrade** | **🟢 Option C — one price list, plus a local concession ceiling** |
 |---|---|---|---|
-| What the buyer sees | Lower prices if you're local | Same price, but *"I deliver it myself within a week"* | Same price; Maya can move down a fixed amount for local orders that clear the minimum |
+| What the buyer sees | Lower prices if you're local | Same price, but *"I deliver it myself"* | Same price; Maya can move down a fixed amount for local orders at 50+ |
 | Who gets the postage saving | **The buyer, automatically, always** | **Maya, as margin** | **Maya — unless she chooses to trade some of it to win a deal** |
 | Risk | Gives away the whole saving to people who never asked for it, and it is almost impossible to take back | Loses a deal that price would have won | — |
 | | | | **RECOMMENDED** |
@@ -104,12 +129,15 @@ Holding it in reserve means:
 
 | Ring | Free delivery at | Promise | Reference |
 |---|---|---|---|
-| **Ring 1** — Palm Beach · Broward · Miami-Dade | **12 kits** | **Within one week**, up to ~50 kits; above that, a named date | `geographic-rings.md` §3 |
-| **Ring 2** — Treasure Coast / wider drivable Florida | **24 kits**, on a scheduled run | **Within two weeks** | |
+| **Ring 1** — Palm Beach · Broward · Miami-Dade | ✅ **50 kits** (CONFIRMED by Maya) | Hand-delivered, **date agreed with the buyer** | `geographic-rings.md` §3 |
+| **Ring 2** — Treasure Coast / wider drivable Florida | ✅ **50 kits**, on a scheduled run | **Within two weeks** | |
 | **Ring 3** — everywhere else | Not offered | Stated handling time, then carrier transit | |
 | **Pickup, Delray Beach** | **Any quantity, including 1** | By arrangement | Costs nothing; not currently offered |
 
-🔴 **None of these promises should be published until assembly time is measured.** An unmeasured delivery promise is how this business already kept a customer waiting 50 days (open question N-1).
+> ## 🚫 Do not quote "within a week" on a 50-kit order
+> **Per-kit assembly time has never been measured.** Maya's own illustration: a 50-kit order is **~8 hours at 10 minutes a kit and ~42 hours at 50 minutes** — inside the week, or far outside it.
+>
+> **No agent may state or imply a build time, and this file does not.** Until three kits are timed, local outreach says *"I deliver these myself rather than shipping"* and **agrees a date with the buyer.** The competitive advantage survives completely; the risk of a repeat of the 50-day failure (open question N-1) does not.
 
 ---
 
@@ -158,12 +186,14 @@ Full reasoning: `sales/sharks-lead-topic-recommendation.md`.
 
 ## ⚠️ Needs Maya's Approval
 
-- [ ] **Approve or reject the proposed 50+ tiers.** Sales recommends **not publishing them and not quoting above 49 kits** until COGS exists.
+- [ ] **Approve or reject the proposed 50+ tiers.** 🔴 **Note the collision:** the free-delivery floor is 50, but the 50+ price tiers are **unvalidated because COGS is unknown.** Maya has set the volume at which she gives delivery away before anyone knows what the kit costs. **Finance must price the 50–99 tier before the floor is offered to anybody.**
 - [ ] **Approve Rule 1** — nothing below the 24-kit tier is published; 50+ is quote-only
 - [ ] **Approve Option C for local pricing** — one price list, with a Finance-set concession ceiling
 - [ ] **Have Finance set the concession ceiling** (Sales recommends: no more than the measured postage saving)
-- [ ] **Approve the free-delivery minimums** — 12 (Ring 1) · 24 on a run day (Ring 2)
+- [ ] ✅ ~~Approve the free-delivery minimum~~ **DECIDED by Maya: 50 kits**, Ring 1 and Ring 2
+- [ ] **Approve the retargeting consequence** — bulk outreach aims at grade-level leads, principals, co-op organisers, camp directors and program managers; **individual classroom teachers get the $45.99 kit or the $9.99 digital pack**
 - [ ] **Approve free Delray Beach pickup at any quantity**
+- [ ] 🚫 **Approve the delivery wording** — Sales' position: no "within a week" on a 50-kit order until three kits are timed
 - [ ] **Set a target gross margin.** Open question 22 has never been answered, and without it no floor price can be calculated.
 - [ ] **Decide whether purchase orders / 30-day invoicing are accepted** — this gates schools, districts, parks departments and museums
 - [ ] **Confirm wholesale stays closed** until COGS is known

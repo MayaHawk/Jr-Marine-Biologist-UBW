@@ -16,8 +16,10 @@
 | ❌ No price, discount, bonus or guarantee | CLAUDE.md §4 |
 | ❌ No number of years, camps run, or the previous camp's name | `company/founder-profile.md` |
 | ❌ No educational standard, safety standard or age certification claim | CLAUDE.md §5 |
-| ✅ **Local delivery is "within a week." Never same day. Never "immediately."** | Maya, 2026-09-19 |
-| ✅ Ring 1 = Palm Beach · Broward · Miami-Dade | `sales/partnerships/geographic-rings.md` |
+| 🚫 **Never say "within a week" on an order of 50+.** Per-kit build time has never been measured. Say *"I deliver these myself"* and **agree a date.** | Maya, 2026-09-19 |
+| ❌ Never same day. Never "immediately." Never a date that cannot be stood behind. | Maya, 2026-09-19 |
+| ✅ **Free local delivery starts at 50 kits** (CONFIRMED by Maya). Ring 1 = Palm Beach · Broward · Miami-Dade | `sales/partnerships/geographic-rings.md` |
+| ✅ **Write to people who can commit 50+** — camp directors, recreation supervisors, program coordinators. Camps clear the floor easily; this is the best-matched channel for it. | Maya, 2026-09-19 |
 | ⚠️ Any offer of a free sample kit is a **real cost** and needs an approved policy and cap | Sales |
 | ⚠️ Any offer of Maya's time (running a session) is **removed from all scripts** — Maya only | Sales |
 
@@ -47,7 +49,7 @@ It is real marine science. It is not a craft project with a fish on it.
 
 I'm writing because I'm in Delray Beach, and I think [camp] might use these the way I would have — one per camper as the take-home, or a topic per session.
 
-Two things that matter if you're local: **I deliver these myself, within a week.** No shipping, no tracking number, no wondering whether your materials turn up before the session starts.
+One thing that matters if you're local: **I deliver these myself.** No shipping, no tracking number, no wondering whether a pallet turns up before your session starts — I put them in your hands on a date we agree.
 
 If it's useful, I'd rather bring you one to open than describe it in an email. Would that be worth twenty minutes?
 
@@ -63,8 +65,8 @@ Jr. Marine Biologist
 *Same as Script 1, with two changes:*
 
 - Replace the Delray Beach paragraph with: *"I'm writing because I think [camp] might use these the way I would have — one per camper as the take-home, or a topic per session."*
-- **Delete the delivery paragraph entirely.** Ring 2 delivery is a two-week scheduled run and only above a minimum; Ring 3 ships. **Do not promise either in a first email.**
-- **Ring 2 only**, if the order looks likely to clear the minimum: *"I run deliveries up that way on a schedule — if the order's big enough I bring them myself rather than shipping."* **No number, no date, until Maya has approved the minimum.**
+- **Delete the delivery paragraph entirely.** Ring 2 delivery runs on a fortnightly schedule with a two-week window and only at 50+ kits; Ring 3 ships. **Do not promise either in a first email.**
+- **Ring 2 only**, where the order plainly clears 50: *"I run deliveries up that way on a schedule — at that kind of quantity I bring them myself rather than shipping."* **No date until it is agreed.**
 
 ---
 
@@ -98,7 +100,7 @@ I've been building something since: marine science kits for kids, one ocean topi
 
 I'm not writing to sell you a kit. I'm writing because you know this world better than a cold email list does — **do you know anyone running a camp, a classroom, a co-op or a troop who'd actually use these?** An introduction is worth more to me than an order.
 
-And if you're in Palm Beach, Broward or Miami-Dade and want one for [child], I'll drop it off myself within a week.
+And if you're in Palm Beach, Broward or Miami-Dade and want one for [child], I'll drop it off myself.
 
 Maya
 
@@ -119,6 +121,8 @@ Hi, this is Maya Hawk from Jr. Marine Biologist — I ran ocean adventure camps 
 | They say | Draft reply | Rule |
 |---|---|---|
 | **"How much?"** | *"Depends on the quantity and whether I'm delivering or shipping — tell me roughly how many campers and I'll come back with a proper number."* | 🔴 **Never quote. Route to Maya + Finance.** |
+| **"When could we have them?"** | *"Tell me the date you need them by and I'll tell you honestly whether I can hit it."* | 🚫 **Never quote a week on 50+.** Build time is unmeasured. **Ask for their date; agree, don't promise.** |
+| **"We'd only need about 30."** | *"That works — though if you can get to 50 I'll bring them to you myself rather than shipping. Is there a second session or another site that could go in with you?"* | 🟢 The pooling move. 50 is the CONFIRMED free-delivery floor. |
 | **"Send me a sample."** | *"Happy to. I'm local so I can bring it to you."* | ⚠️ Needs an approved sample policy and cap |
 | **"Are they safe for our 5-year-olds?"** | *"Kits are built in age bands — 4–6, 7–10 and 10+. The Sharks kit has a necklace in it, so for the youngest campers I'd talk you through that specifically."* | ⛔ **Never claim a safety standard, certification or age rating.** Risk R-01. |
 | **"Can you invoice us / do you take purchase orders?"** | *"Let me check and come straight back to you."* | **NEEDS FOUNDER INPUT** — never answered |
@@ -147,7 +151,8 @@ Hi, this is Maya Hawk from Jr. Marine Biologist — I ran ocean adventure camps 
 - [ ] **Approve or rewrite each script in her own words.** These are drafts in her voice, not her words.
 - [ ] **Confirm the credential wording** — may the previous camp operation be named? May a year be used? (`founder-profile.md` currently forbids both without written confirmation.)
 - [ ] **Approve the sample-kit policy** — free or paid, how many per month, hand-delivered or posted
-- [ ] **Approve the one-week local delivery promise** — Sales recommends not publishing it until assembly time is measured
+- [ ] 🚫 **Approve the delivery wording.** Sales' position: **no "within a week" on a 50+ order until three kits are timed.** Say "I deliver these myself" and agree a date.
+- [ ] 🔴 **Time three kits.** A 50-kit order is 8 hours or 42 hours depending on the answer — and camps order 50–300.
 - [ ] **Decide the purchase-order answer** before anyone asks it
 - [ ] **Decide the insurance answer** before anyone asks it
 - [ ] **Approve which camps are contacted.** The team has named none and will invent none.

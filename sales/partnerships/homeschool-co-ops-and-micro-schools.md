@@ -1,6 +1,6 @@
 # Partnership Channel — HOMESCHOOL CO-OPS & MICRO-SCHOOLS
 
-**Rank:** #2 of 10 · **Best ring:** 🟢 Ring 1 (local delivery, within one week)
+**Rank:** #2 of 10 · **Best ring:** 🟢 Ring 1 (local hand delivery, free at 50+ kits — **usually requires pooling**)
 **Owner:** Sales Manager · **Prepared:** 2026-09-19
 **Metric it moves:** #3 Kits committed in bulk orders
 
@@ -68,22 +68,38 @@ That sentence is worth more in this channel than anywhere else in the business. 
 
 > ⚠️ **No price below is confirmed. Shapes only. Finance checks margin; Maya approves any number before it is said to anyone.**
 
-| Offer shape | Order size | Why it fits |
-|---|---|---|
-| **A semester science block** — one kit per child, per month, for a term | 15–60 | Matches how a co-op actually schedules. The natural unit of sale. |
-| **A single-topic class set** — everybody does Sharks together | 15–30 | The easiest first yes |
-| **Mixed rotation set** — 4 topics, kids swap | 20–40 | Better margin *and* better teaching (see `sales/sharks-lead-topic-recommendation.md`) |
-| **Group buy for member families** — the co-op collects, one delivery | 20–60 | 🟢 **The best-shaped order in the business.** Retail-level interest, one delivery address, one payment, zero individual postage. |
+> ## 🔴 The 50-kit floor changes this channel more than any other
+>
+> **CONFIRMED by Maya, 2026-09-19: free local delivery starts at 50 kits.**
+>
+> **A single co-op science class is usually 15–30 children. Most co-ops cannot reach 50 on their own.**
+>
+> Two consequences, and both change the approach:
+>
+> | | |
+> |---|---|
+> | **Write to the co-op ORGANISER, not one class teacher** | The organiser can commit the whole co-op across classes or year groups. A single class teacher cannot reach the floor no matter how enthusiastic she is. |
+> | **Lead with pooling, on almost every email** | *"Two co-ops in the same town usually add up to fifty, and it's the same drive for me."* **Without pooling, most of this channel sits below the floor.** |
+>
+> **And a single class teacher is still valuable — as an introduction.** Point her at the **$45.99 kit** or the **$9.99 Digital Lesson Pack**, and ask who organises the co-op. She is lead generation, not a lost sale.
+
+| Offer shape | Order size | Clears 50? | Why it fits |
+|---|---|---|---|
+| **Whole-co-op semester block** — one kit per child per month across classes | 50–120 | 🟢 Yes | **The target order.** Matches how a co-op schedules and clears the floor. |
+| **Pooled order — two or more co-ops together** | 50+ | 🟢 Yes | 🔴 **How most of this channel qualifies at all** |
+| **Group buy for member families** — the co-op collects, one delivery | 30–80 | 🟡 Often | 🟢 **The best-shaped order in the business.** One address, one payment, zero individual postage. |
+| **Single-topic class set** — everybody does Sharks together | 15–30 | 🔴 No | Ships, or pools |
+| **Mixed rotation set** — 3 topics, kids swap | 20–40 | 🔴 No | Ships, or pools. Better margin and better teaching (`sales/sharks-lead-topic-recommendation.md`) |
 
 **Add at no cost:**
 - **The Complete Digital Library for the teacher** ($99, CONFIRMED price, zero fulfilment) — 🔴 blocked until the 17 wrong PDFs are fixed. Fixing them turns this into the strongest sweetener available.
-- **Ring 1 delivery within one week.**
+- **Ring 1 delivery at 50+** — ⚠️ *"I bring them out myself,"* **not** *"within a week."* Build time is unmeasured; agree a date instead.
 
 ### The pooled-order line worth saying out loud
 
-**"If two co-ops in the same town combine to 24 kits, I'll deliver to both."**
+**"I bring orders of fifty or more out myself. Most single co-ops aren't that size — but two co-ops in the same town usually are, and it's the same drive for me."**
 
-That single sentence makes the buyer recruit the second buyer, at zero cost to Maya. In a community as connected as homeschooling, it is probably the highest-return sentence in the whole outreach set.
+That sentence makes the buyer recruit the second buyer, at zero cost to Maya. In a community as connected as homeschooling, it is probably the highest-return sentence in the whole outreach set — and with a 50-kit floor it is no longer optional.
 
 ---
 
@@ -128,7 +144,8 @@ Realistic sources, all requiring Maya's approval before anything is posted or se
 - [ ] **Decide the secular / faith-based answer.** It will be asked in the first week.
 - [ ] **Resolve U-30** (are the three age tiers three different kits?) — a mixed-age co-op will ask immediately and there is currently no honest answer
 - [ ] Approve the outreach script: `sales/outreach/homeschool-co-ops.md`
-- [ ] Approve the pooled-order idea ("two co-ops combining to 24 both get delivery")
+- [ ] 🔴 **Approve the pooled-order offer** — "two co-ops combining to 50 both get delivery." **Without it, most of this channel falls below the 50-kit floor.** It also has a fulfilment consequence: two drop-offs, possibly two payments, one order. Operations should confirm that is workable.
+- [ ] **Approve the retargeting** — write to co-op organisers, not single class teachers
 - [ ] **Fix the 17 digital PDFs** — it turns the best sweetener in this channel back on
 - [ ] Decide the sample policy and cap
 - [ ] Confirm which homeschool groups Maya is genuinely a member of, and which she is not

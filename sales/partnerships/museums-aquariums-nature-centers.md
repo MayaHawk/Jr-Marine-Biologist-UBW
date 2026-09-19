@@ -1,6 +1,6 @@
 # Partnership Channel — MUSEUMS · AQUARIUMS · SCIENCE & NATURE CENTERS
 
-**Rank:** #3 of 10 · **Best ring:** 🟢 Ring 1 (local delivery, within one week)
+**Rank:** #3 of 10 · **Best ring:** 🟢 Ring 1 (local hand delivery, free at 50+ kits)
 **Owner:** Sales Manager · **Prepared:** 2026-09-19
 **Metric it moves:** #3 Kits committed in bulk orders · #2 Average revenue per kit
 
@@ -76,7 +76,11 @@ South Florida's Ring 1 also contains coastal nature centers, sea-turtle and mari
 
 **Add at no cost:** the Complete Digital Library for their education staff ($99, CONFIRMED price, zero fulfilment) — 🔴 blocked until the 17 wrong PDFs are fixed.
 
-**And the Ring 1 line:** *"I'm in Delray Beach. I'll bring them to you within a week."* Institutions are used to vendors with lead times measured in months.
+**And the Ring 1 line:** *"I'm in Delray Beach. Tell me your programme date and I'll bring them to you myself."* Institutions are used to vendors with lead times measured in months — and with no purchasing portal in between.
+
+✅ **50 kits is the CONFIRMED minimum for free local delivery. This channel clears it comfortably** — typical education-side orders are 50–150. At 50 kits the postage avoided is **$442.50–$600.00**.
+
+> 🚫 **Do not quote a turnaround.** Per-kit build time has never been measured. **Ask for their programme date and agree to it, or say honestly that you cannot hit it.**
 
 ---
 

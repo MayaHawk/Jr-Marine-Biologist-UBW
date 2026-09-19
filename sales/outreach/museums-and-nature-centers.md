@@ -18,7 +18,8 @@
 | ❌ No price. **Wholesale is closed until COGS is known** — do not open the gift-shop conversation yet. | Sales + Finance |
 | ❌ No safety standard, certification or age-rating claim | CLAUDE.md §5 · risk R-01 |
 | ⚠️ **Co-branding is not offered by a script.** It changes print runs, cost and lead time. Maya and Operations only. | Sales |
-| ✅ **Local delivery is "within a week."** Never same day. | Maya, 2026-09-19 |
+| 🚫 **Never say "within a week" on an order of 50+.** Build time has never been measured. Say *"I deliver these myself"* and **agree a date.** Never same day, never "immediately." | Maya, 2026-09-19 |
+| ✅ **Free local delivery starts at 50 kits** (CONFIRMED by Maya). This channel clears the floor comfortably — typical orders are 50–150. | Maya, 2026-09-19 |
 
 ---
 
@@ -43,7 +44,7 @@ Two things you'll care about that a catalogue won't tell you:
 
 The science is written by someone who has actually taught it in the field, and I'll happily send you the content for a topic so you can check it yourself before you believe me.
 
-And I'm ten minutes up the road — **I deliver these myself, within a week.** No lead times, no freight, no materials that arrive after your programme starts.
+And I'm ten minutes up the road — **I deliver these myself.** No freight, no purchasing portal, no materials arriving after your programme has started. We agree a date and I bring them.
 
 Could I bring one in for you to look at?
 
@@ -112,6 +113,8 @@ Maya
 | **"Do you have testing / CPSIA documentation?"** | *"Let me come back to you on that rather than answer it badly."* | 🔴 **Escalate to Maya.** Never claim testing that has not happened. |
 | **"Can you run a session for our members?"** | *"Let me think about what I could do and come back to you."* | ⚠️ Maya's time. **Never offered by a script.** |
 | **"We make our own materials."** | *"Most good education teams do. The gap I usually find isn't the programme — it's what the child leaves with. What do they take home today?"* | 🟢 Turns a brush-off into a diagnostic question |
+| **"When could you deliver?"** | *"Tell me the date your programme starts and I'll tell you honestly whether I can hit it."* | 🚫 **Never quote a week on 50+.** Build time unmeasured. **Ask for their date.** |
+| **"We'd want about 40 for one camp week."** | *"That works. At fifty or more I bring them out myself rather than shipping — is there a second week or a second site that could go in with it?"* | 🟢 50 is the CONFIRMED free-delivery floor. Institutions usually have a second programme that closes the gap. |
 
 ---
 
@@ -133,7 +136,7 @@ Maya
 - [ ] **Decide the co-branding position** — yes, no, or "let's talk" — before anyone asks
 - [ ] **Confirm wholesale stays closed until COGS is known** (Sales recommends yes)
 - [ ] **Approve the sample policy and cap**
-- [ ] **Approve the one-week local delivery promise** (Sales recommends measuring assembly time first)
+- [ ] 🚫 **Approve the delivery wording** — Sales' position: no "within a week" on a 50+ order until three kits are timed
 - [ ] **Decide the answer on safety testing and the necklace** before it is asked
 - [ ] **Approve which institutions are contacted.** The team has named none and will invent none.
 - [ ] Confirm Maya is willing to send topic content out for review — Sales recommends yes; it is the strongest credibility move available and costs nothing

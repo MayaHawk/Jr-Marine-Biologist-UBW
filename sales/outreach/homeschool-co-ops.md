@@ -15,7 +15,8 @@
 |---|---|
 | ⛔ **No standards claim.** Not "STEM-aligned," not "meets requirements," not "curriculum-approved." The STEAM structure is described as **what is in the box**, nothing more. | CLAUDE.md §5 · brand voice guide |
 | ❌ No price, discount, bonus or guarantee | CLAUDE.md §4 |
-| ✅ **Local delivery is "within a week."** Never same day. | Maya, 2026-09-19 |
+| 🚫 **Never say "within a week" on an order of 50+.** Build time has never been measured. Say *"I deliver these myself"* and **agree a date.** Never same day, never "immediately." | Maya, 2026-09-19 |
+| 🔴 **Free local delivery starts at 50 kits** (CONFIRMED by Maya). **A single co-op science class rarely reaches 50 — so write to the CO-OP ORGANISER, not one class teacher**, and lead with pooling. | Maya, 2026-09-19 |
 | ⚠️ Posting in a homeschool group is **not** outreach Maya can delegate — group rules vary and breaking them gets a brand permanently excluded. **No agent may post anywhere.** | Sales |
 | ⚠️ The secular / faith-based question **will** be asked. Maya must decide her answer before the first send. | Sales |
 
@@ -23,7 +24,7 @@
 
 ## SCRIPT 1 — Ring 1 co-op or micro-school, first contact
 
-**Send to:** the co-op coordinator, science class teacher, or micro-school founder
+**Send to:** 🔴 **the co-op coordinator or organiser** — the person who can speak for the whole co-op. **Not a single class teacher**, who cannot reach the 50-kit delivery floor alone.
 **Subject line options:**
 - `Marine science for your spring semester — from a homeschool mom in Delray Beach`
 - `A science block you don't have to build yourself`
@@ -41,7 +42,7 @@ Each kit is one ocean topic — sharks, sea turtles, coral reefs, mangroves, cep
 
 I'm writing because spring semester planning is starting, and a co-op science block is exactly the shape this fits: one topic a month, everything in the box, no lesson to build from scratch.
 
-If [co-op] is in Palm Beach, Broward or Miami-Dade — **I deliver them myself, within a week.** No shipping, no waiting, no box arriving the week after the class.
+If [co-op] is in Palm Beach, Broward or Miami-Dade — **I deliver them myself.** No shipping, no tracking number, no box arriving the week after the class. We agree a date and I bring them.
 
 Would it help to see one? I'd rather hand you a kit than describe it.
 
@@ -52,15 +53,19 @@ Jr. Marine Biologist
 
 ---
 
-## SCRIPT 2 — The pooled-order version (use when the group is under 12 children)
+## SCRIPT 2 — The pooled-order paragraph 🔴 *(use this on almost every co-op email)*
 
-*Add this paragraph to Script 1:*
+*Add to Script 1:*
 
-> And if you're smaller than that — if you know another co-op nearby doing the same thing, I'll deliver to both of you if the orders add up. It's the same drive for me.
+> I bring orders of fifty kits or more out myself rather than shipping them. Most single co-ops aren't that size — but two co-ops in the same town usually are, and it's the same drive for me. If you know another group doing marine science this spring, I'll deliver to both of you.
 
-> 🟢 **Why this sentence matters.** It makes the buyer recruit the second buyer, at zero cost to Maya, in a community that talks to itself constantly. It may be the highest-return line in the entire outreach set.
+> ## 🟢 Why this paragraph is now essential, not optional
 >
-> ⚠️ It implies a minimum order for free delivery. **Do not send until Maya has approved that minimum** (Sales recommends 12 for Ring 1, 24 on a run day for Ring 2 — Finance must check margin first).
+> **The free-delivery floor is 50 kits (CONFIRMED by Maya). A single co-op science class is usually 15–30 children — so most co-ops cannot reach it alone.**
+>
+> Without pooling, this channel mostly falls below the floor. **With pooling, it clears it — and the buyer does the recruiting.** In a community that talks to itself as much as homeschooling does, this is probably the highest-return sentence in the entire outreach set.
+>
+> ⚠️ **Do not send until Maya has confirmed the pooling offer.** The 50 floor is confirmed; whether two separate groups may combine to reach it is a policy decision only Maya can make, and it has fulfilment consequences (two drop-offs, two invoices, one order).
 
 ---
 
@@ -94,7 +99,7 @@ For a small school I think the useful version is a term of marine science that a
 
 I won't tell you it lines up with any particular standard — I have no way of knowing that and I wouldn't claim it. What I can tell you is exactly what's in the box and exactly what it teaches, and you can judge the fit yourself.
 
-I'm local, so I deliver within a week rather than shipping.
+I'm local, so at any real quantity I deliver rather than ship.
 
 Worth a look?
 
@@ -112,7 +117,7 @@ Thanks for writing.
 
 Short version: each kit is one ocean topic, five hands-on activities — one science, one technology, one engineering, one art, one math — plus collectible flash cards and a named certificate. Age bands 4–6, 7–10 and 10+.
 
-[If local:] I'm in Delray Beach, so if you're in Palm Beach, Broward or Miami-Dade I deliver within a week rather than shipping.
+[If local:] I'm in Delray Beach, so if you're in Palm Beach, Broward or Miami-Dade and the order's a decent size, I bring them out myself rather than shipping.
 
 Tell me how many children and what ages, and I'll tell you what I'd actually recommend — including if the answer is that it's not right for your group.
 
@@ -132,6 +137,9 @@ Maya
 | **"Is it just crafts?"** | *"No — one science, one technology, one engineering, one art and one math activity per kit, and I wrote them as a marine scientist. The art one is usually the thing they keep, but it isn't the point."* | 🟢 Best question they can ask |
 | **"Can we pay per family?"** | *"Let me check how I can set that up."* | **NEEDS FOUNDER INPUT** — split payment on one delivery has never been decided |
 | **"Will you teach a class for us?"** | *"Let me think about what I could do and come back to you."* | ⚠️ Maya's time. **Never offered by a script.** |
+| **"We've only got 18 kids."** | *"That works fine. I bring orders of fifty or more out myself — is there another co-op nearby you could go in with? Otherwise I'll ship them."* | 🟢 **The most common reply this channel will produce.** 50 is the CONFIRMED floor and most co-ops are under it. **Never apologise for the floor — offer the pooling route.** |
+| **"When would we get them?"** | *"Tell me the week you need them for and I'll tell you honestly if I can hit it."* | 🚫 **Never quote a week on 50+.** Build time unmeasured. |
+| **"I'm just one teacher, not the whole co-op."** | *"Then let's start you with a single kit so you can see it — and if it's a fit, I'd love an introduction to whoever organises the co-op."* | 🟢 **A teacher below the floor is an introduction, not a lost sale.** Point her at the $45.99 kit or the $9.99 digital pack. |
 
 ---
 
@@ -154,8 +162,9 @@ Maya
 - [ ] **Approve or rewrite each script in her own words**
 - [ ] 🔴 **Decide the secular / faith-based answer.** Nothing sends until this exists.
 - [ ] **Resolve U-30** — can a mixed-age group share a kit? A co-op will ask immediately.
-- [ ] **Approve the free-delivery minimum** — Script 2 cannot send without it
-- [ ] **Approve the one-week delivery promise** (Sales recommends measuring assembly time first)
+- [ ] 🔴 **Approve the pooling offer** — "two co-ops that add up to 50 both get delivery." **Script 2 cannot send without it, and without pooling most of this channel falls below the 50-kit floor.**
+- [ ] 🚫 **Approve the delivery wording** — Sales' position: no "within a week" on a 50+ order until three kits are timed
+- [ ] **Approve the retargeting** — write to co-op organisers, not single class teachers; point individual teachers at the $45.99 kit or $9.99 digital pack
 - [ ] **Approve the sample policy and cap**
 - [ ] **Provide activity timings**
 - [ ] **Confirm which homeschool groups Maya is genuinely a member of.** No agent may post anywhere, and vendor posting rules vary by group.

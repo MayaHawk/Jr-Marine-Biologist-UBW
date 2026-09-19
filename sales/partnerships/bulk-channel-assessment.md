@@ -9,9 +9,12 @@
 >
 > **The short version:** postage runs ~$8.85–$12.00 per box, which is **more than the deepest discount currently offered ($6.41 on the 24-kit bundle).** A locally delivered order can therefore be *cheaper for the buyer and better for Maya at the same time.*
 >
-> **The delivery promise is ONE WEEK for local orders. Never same day. Never "immediately."** Assembly time has never been measured, and this business has already failed a customer once on an optimistic date (open question N-1).
+> ### ✅ The two founder decisions that shape everything below
+> **1. Free local delivery starts at 50 KITS** (Maya, 2026-09-19). 40 buyers of 50 reaches the goal. **But a typical classroom is ~24 students, so a single teacher cannot reach the floor** — bulk outreach must aim at **grade-level leads, curriculum coordinators, principals, co-op organisers, camp directors, parks program coordinators and after-school program managers.** Individual teachers get pointed at the $45.99 kit or the $9.99 digital pack, and are treated as **introductions, not lost sales.**
 >
-> Every channel below is therefore read through the rings: **Ring 1** = local delivery within a week (Palm Beach · Broward · Miami-Dade) · **Ring 2** = extended local on a scheduled run, two-week window · **Ring 3** = shipped.
+> **2. Local delivery is never same-day and never "immediately."** 🚫 **And "within a week" must not be quoted on a 50-kit order until three kits are timed** — per-kit build time has never been measured, and a 50-kit order is ~8 hours at 10 minutes a kit or ~42 at 50. This business has already failed a customer on an optimistic date (open question N-1). **Say "I deliver these myself" and agree a date.**
+>
+> Every channel below is read through the rings: **Ring 1** = local hand delivery, 50+ (Palm Beach · Broward · Miami-Dade) · **Ring 2** = extended local on a scheduled run, 50+, two-week window · **Ring 3** = shipped.
 
 > **Nothing in this file has been sent to anyone. No person, school, camp, museum or shop has been contacted. No relationship named here exists unless Maya says it does — no organisation is named anywhere in this file, deliberately.**
 
@@ -86,7 +89,7 @@ Scores are the Sales Manager's judgement, not data. They are reasoning aids, not
 | **1** | **Camps** — day camps, summer/ocean camps, county & municipal parks-and-recreation programs | 🟢 **Ring 1** | **50–300** | 🟡 Fast conversation, **slow season** | 🟢🟢 **Best in the business — and it is her own back yard** | 🟢 Yes — per-camper supply budget | The right channel. Wrong month. Build now, lands Q1–Q2 2027. |
 | **2** | **Homeschool co-ops & micro-schools** | 🟢 **Ring 1** | **15–60** | 🟢 **Fastest of any bulk channel** | 🟢🟢 Homeschool mom + marine scientist | 🟡 Parent-funded, class fees | **The nearest real window: Oct–Dec buying for a January semester.** Local delivery in a week is a decisive advantage here. |
 | **3** | **Museums · aquariums · science & nature centers · sea-turtle and marine conservation centers** | 🟢 **Ring 1** | **50–150** | 🟡 2–4 months | 🟢🟢 An education director will take her seriously | 🟢 Program budget *and* gift-shop budget | Two doors in one building. Underrated. |
-| **4** | **Individual teachers · private, charter and marine/environmental magnet schools** | 🟢 **Ring 1** | **24** (one class) | 🟡 Weeks for a teacher, months for a school | 🟢 Strong | 🟡 Small classroom budgets, PTA/PTO, grants | Reliable, low volume per unit of effort. 83 classrooms = the whole goal. **"On your desk within a week" is the closing line here.** |
+| **4** | **Individual teachers · private, charter and marine/environmental magnet schools** | 🟢 **Ring 1** | **24** (one class) | 🟡 Weeks for a teacher, months for a school | 🟢 Strong | 🟡 Small classroom budgets, PTA/PTO, grants | 🔴 **Retarget upward: a single class (~24) is below the 50-kit floor.** Aim at grade-level leads, principals and PTA boards. Individual teachers get the $45.99 kit and become introductions. |
 | **5** | **Corporate / sponsor / donor buys** | 🔵 Any ring | **200–1,000** | 🔴 Unpredictable | 🟢 Good — the marine story sells | 🟢🟢 **Marketing budget, not education budget — the least price-sensitive money in the list** | Highest upside, lowest predictability. One yes could be 25% of the goal. Worth chasing at any distance: the order absorbs freight. |
 | **6** | **Scout troops · 4-H · after-school clubs** | 🟢 Ring 1 | **10–30** | 🟢 Fast (a volunteer leader decides) | 🟢 Strong | 🔴 Small, often parent-collected | Fast and friendly. Not volume. **Ring 1 only — not worth a Ring 2 drive alone.** |
 | **7** | **Libraries** — county youth services, summer reading, STEAM circulation kits | 🟢 Ring 1 | **10–30** | 🔴 Slow (system purchasing, fiscal year) | 🟢 Strong | 🟡 Real but small and committed early | Worth seeding, not worth leading with. |
@@ -99,6 +102,17 @@ Scores are the Sales Manager's judgement, not data. They are reasoning aids, not
 > **The channel Maya is best suited to (camps) is seasonally four to seven months away. The channel that can move fastest (homeschool co-ops) has its buying window opening in the next 6–10 weeks. The channel with the biggest single cheque (corporate) cannot be forecast at all.**
 >
 > That combination means 2,000 is a **9-month job, not a 9-week job.** The full arithmetic is in `sales/path-to-2000-kits.md`.
+
+### 🔴 What the 50-kit floor does to this ranking
+
+**Only four channels routinely clear 50 kits on a single order:** camps and parks-and-rec (rank 1), museums and nature centers (rank 3), multi-site after-school operators, and corporate (rank 5). Ranks 2, 4, 6, 7 and 8 mostly sit **below** the floor.
+
+| That means | Consequence |
+|---|---|
+| **Ranks 1, 3 and 5 get stronger** | They are where the floor and the channel naturally agree |
+| **Rank 2 (co-ops) needs pooling to qualify** | A single co-op class is 15–30. **Pooling is now structural, not a nice extra.** |
+| **Rank 4 (schools) must be retargeted upward** | Grade-level leads and principals, not classroom teachers |
+| **Ranks 6, 7, 8 (scouts, libraries, dive shops) fall below the floor entirely** | Ship them, pool them, or — better — **treat them as the referral network that introduces Maya to the 50+ buyers.** That is their real value anyway. |
 
 ### 🟢 What the geographic steer changes about this ranking
 
@@ -143,10 +157,10 @@ These are not objections to the strategy. They are the things that will bite in 
 
 | # | Action | Why it is in this position | Approval needed? |
 |---|---|---|---|
-| 1 | **Time three kits with a stopwatch** | 30 minutes. Sets the real ceiling on the one-week local delivery promise. Until this exists, "within a week" is a guess — and an optimistic date has already cost this business a customer (N-1). | Maya — 30 min |
+| 1 | **Time three kits with a stopwatch** | 30 minutes. A 50-kit order — the free-delivery floor — is ~8 hours at 10 min/kit or ~42 at 50. **Until this exists, no delivery date can be quoted honestly**, and an optimistic date has already cost this business a customer (N-1). It also unblocks the capacity plan, the hiring decision and the Sharks labour cost. | Maya — 30 min |
 | 2 | **Export the Click-N-Ship history (U-8)** | 10 minutes. Turns the $8.85–$12.00 postage range into a real number, which is the foundation of the entire local-delivery argument. | Maya — 10 min |
 | 3 | **Get product liability insurance quotes** | May be the gate on channels 1, 3, 4, 7, 9, 10. One call. | Maya — spend |
-| 4 | **Add one bulk question to the warm-list email** ("do you run or teach a group of kids?") **and a local line** ("if you're in Palm Beach, Broward or Miami-Dade I'll deliver them myself within a week") | Free. Turns 781 retail contacts into a bulk prospecting list, and the camp list is heavily South Florida. Do this *before* the send. | Maya — approve wording |
+| 4 | **Add one bulk question to the warm-list email** ("do you run or teach a group of kids?") **and a local line** ("if you're in Palm Beach, Broward or Miami-Dade I'll drop it off myself") | Free. Turns 781 retail contacts into a bulk prospecting list, and the camp list is heavily South Florida. Do this *before* the send. | Maya — approve wording |
 | 5 | **Fix the 17 digital PDFs** | Unlocks the best bundle sweetener and a zero-postage product — which is how Ring 3 is made worth serving | Product |
 | 6 | **Open the Ring 1 homeschool co-op / micro-school conversations** | Their buying window is Oct–Dec. It is 19 September. | Maya — approve script |
 | 7 | **Open Ring 1 camp and parks-department conversations now, for a spring decision** | Camp directors are reachable in autumn and buying in Jan–April. Build the relationship in the quiet season. | Maya — approve script |

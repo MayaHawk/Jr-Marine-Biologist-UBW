@@ -40,6 +40,33 @@
 
 ---
 
+## 🎯 SALES — BULK CHANNEL & THE 2,000-KIT GOAL (added 2026-09-19)
+
+**Context:** goal D-010 requires roughly **29–40 bulk buyers**, because the warm list cannot reach 2,000 at any conversion rate. Maya has set a **50-kit floor for free local delivery** and a **local-first geographic strategy**. These questions unblock that work. Full detail in `sales/partnerships/` and `sales/path-to-2000-kits.md`.
+
+| # | Question | Who needs it | Status |
+|---|---|---|---|
+| **B-0** | 🔴 **TIME THREE KITS WITH A STOPWATCH.** Per-kit build time has never been measured. A 50-kit order is ~8 hours at 10 min/kit and ~42 hours at 50. **This one number unblocks: the local delivery promise, the capacity plan, the hire-or-not decision, the Sharks labour cost, and any date on the 2,000-kit goal.** 30 minutes. | Everyone | ⬜ |
+| **B-1** | 🔴 **Does the 24-kit prepaid bundle ship as ONE carton or 24 separate parcels?** At ~$10 postage each, 24 parcels is **~$240 on a $949.99 sale — about 25% of the revenue.** If so it is the worst-margin product in the catalogue. | Finance, Ops, Sales | ⬜ |
+| **B-2** | 🔴 **Will you get product liability insurance quotes?** *(Duplicates U-19 deliberately — it has escalated.)* Schools, museums, libraries, parks departments and wholesale accounts commonly require a certificate before purchasing. **This may be a gate on the largest bulk channels, not just a liability exposure.** | Sales, Maya | ⬜ |
+| **B-3** | 🔴 **Can you accept purchase orders / invoice a school, camp or museum and be paid 30 days later?** Institutions frequently pay this way. If not, a large part of the school, district, parks-department and museum market is unreachable regardless of the pitch. | Sales, Finance | ⬜ |
+| **B-4** | 🔴 **Which local camps, co-ops, schools, nature centers, parks departments or marine businesses do you already know?** **The team has named none and will invent none.** This single answer turns the 2,000-kit plan from an illustration into a forecast. | Sales | ⬜ |
+| **B-5** | **Do you want to sell to schools at all in year one?** *(Duplicates question 30, never answered.)* Schools are slow and paperwork-heavy. **Saying no for now is a perfectly reasonable answer.** | Sales | ⬜ |
+| **B-6** | **Exact credential wording for outreach.** May the previous camp operation be named? May a year be used? A steer mentioned "since 2009" — **that year is not in `known-facts.md`, which records the camp in the past tense.** No year appears in any draft until you confirm. | Sales, Social | ⬜ |
+| **B-7** | 🔴 **Bulk certificates: blank, or filled from a roster?** Every kit contains a *personalized* Certificate of Completion. A 50-kit class set has no names. **Collecting children's names is also a privacy decision.** | Product, Ops, Maya | ⬜ |
+| **B-8** | **Are you secular or faith-based?** Homeschool co-ops ask this routinely and it will come up in week one. Decide the answer deliberately rather than improvising it. | Sales | ⬜ |
+| **B-9** | **How long does each activity take?** A teacher or co-op leader plans in 45-minute blocks and will ask immediately. There is currently no honest answer. | Product, Sales | ⬜ |
+| **B-10** | **Sample kit policy:** free or paid, how many per month, hand-delivered or posted? Every script offers a sample and **each one is a real cost.** | Sales, Finance | ⬜ |
+| **B-11** | **Approve the pooling offer?** "Two co-ops / classes / troops that add up to 50 both get delivery." **Without it most of the co-op and school channels fall below your 50-kit floor.** Fulfilment consequence: two drop-offs, possibly two payments, one order. | Sales, Ops | ⬜ |
+| **B-12** | **Approve free pickup in Delray Beach at any quantity?** Costs nothing, removes postage entirely, currently not offered. *(A pickup point is your own address — your call whether that is public.)* | Sales, Ops | ⬜ |
+| **B-13** | **What gross margin do you consider healthy?** *(Duplicates question 22.)* Without it **no floor price can be calculated**, and the 50+ bulk tiers cannot be validated at all. | Finance, Sales | ⬜ |
+| **B-14** | **Is wholesale closed until COGS is known?** Sales recommends yes — at ~50% of retail, 2,000 kits is ~$46,000 versus ~$79,160 at the 24-bundle rate, and nobody knows whether $23/kit is profit or loss. | Sales, Finance | ⬜ |
+| **B-15** | **Do you want packing help?** The plan needs ~2–6 outreach contacts every working day for nine months **while also packing 2,000 kits alone.** Answer B-0 first — it may decide this for you. | Maya, Ops | ⬜ |
+| **B-16** | **Can Sea Turtles and Coral Reefs actually be produced at volume today?** The catalogue still lists both as NEEDS FOUNDER INPUT. **If only Sharks is truly ready, the "mixed-topic bulk offer" is not available** and the Sharks margin question becomes unavoidable. | Product, Sales | ⬜ |
+| **B-17** | 🔴 **Fix purchase tracking.** GA4 records **0 purchases**. There is currently **no way to measure the 2,000-kit goal at all** — every milestone reads NEEDS FOUNDER INPUT until this works. | Everyone | ⬜ |
+
+---
+
 ## 🚨 PRIORITY 00 — from 2026-08-25 (still open unless you say otherwise)
 
 | # | Question | Who needs it | Status |
