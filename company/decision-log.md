@@ -4,7 +4,7 @@
 
 **Editing rule:** only decisions Maya has **actually made** go here. A recommendation is not a decision. An agent's preference is not a decision.
 
-**Last updated:** 2026-08-18
+**Last updated:** 2026-10-11
 
 ---
 
@@ -187,3 +187,30 @@ Each entry uses this shape:
 ---
 
 *(New decisions are appended below, newest last.)*
+
+---
+
+### D-016: Digital Lesson Pack contents, pilot topic and certificate format
+- **Date:** 2026-10-10
+- **Decision:**
+  1. Each **$9.99 Digital Lesson Pack** is one store product per topic, with **seven separate downloads**:
+     - START HERE Parent Guide & How to Print
+     - Ages 4-6
+     - Ages 7-9
+     - Ages 10+
+     - Extra Resources
+     - a typeable Certificate of Completion
+     - the existing **10% Off Coupon (KIT10)** page
+  2. **The Entire Course / $99 Digital Library is ON HOLD.** Packs come first. When it is built, it will have one file per topic, with all age groups for that topic in that one file.
+  3. **Coral Reefs is the pilot topic.** The other 23 follow it.
+  4. **Files reach Claude as PDF exports** that Maya attaches in chat. The Canva connector can't open her ALL designs.
+  5. **The certificate is a typeable PDF.** It works in any browser, Adobe Reader or Mac Preview, with no Canva account needed. **A Canva link from the full course file must never be used**, because anyone holding it could see the whole course for free.
+  6. Certificate wording: **"MARINE BIOLOGY FOR KIDS / PROUDLY AWARDS THIS"**, not "Under Blue Waters".
+- **Made by:** Maya Hawk
+- **Context:** session to upload the 24-topic digital course to underbluewaters.com, 2026-10-10 to 2026-10-11.
+- **Affects:**
+  - `operations/digital-lesson-packs.md`
+  - `company/product-catalog.md`
+  - sales files that offer the $99 Digital Library with bulk quotes
+  - order R916215991, which was promised the Digital Library (D-012)
+- **Revisit when:** the packs are live, and Maya restarts the $99 Digital Library.

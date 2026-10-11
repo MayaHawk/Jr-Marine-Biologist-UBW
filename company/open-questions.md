@@ -4,7 +4,7 @@
 
 **How to use this file:** answer the questions in the **Priority 1** block first — they unblock the most work. Answers get moved into `company/known-facts.md`.
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-10-11
 **Status key:** ⬜ open · 🟨 partly answered · ✅ answered
 
 ---
@@ -210,6 +210,21 @@
 | 20 | Are you currently spending anything on advertising? | ⬜ |
 | 21 | How much cash can be committed to inventory before revenue arrives? | ⬜ |
 | 22 | What gross margin would you consider healthy? | ⬜ |
+
+## 💻 DIGITAL LESSON PACKS: added 2026-10-11 (from the upload session report)
+
+Detail: `operations/digital-lesson-packs.md`.
+
+| # | Question | Who needs it | Status |
+|---|---|---|---|
+| DP-1 | **May Claude create a one-time 100%-off test coupon and place a $0 test order on Coral Reefs (product 2206)?** This checks the download email, all 7 links, and that the files open and print. | Operations, CX | ⬜ |
+| DP-2 | 🔴 **Exclude the Bundles product (ID 1874) from coupon KIT10?** Today KIT10 takes **$50–$95 off a $503.99 / $949.99 bundle**. Yes/no. | Finance, Sales | ⬜ |
+| DP-3 | **May Claude draft a message asking GoDaddy support to block direct access to the WooCommerce downloads folder?** Drafting only; sending it is a separate approval. | Operations | ⬜ |
+| DP-4 | **Publish Coral Reefs once the test order passes?** | Maya | ⬜ |
+| DP-5 | **Which topic is next?** Attach its ALL [Topic] export (PDF Print, all pages). | Operations, Product | ⬜ |
+| DP-6 | 🔴 **The $99 Digital Library is on hold. What does order R916215991 receive, and when?** D-012 promised that customer the library instead of a refund. Several sales files also plan to offer the library free with bulk quotes. | CX, Sales | ⬜ |
+| DP-7 | **Which store had the "17 products with the wrong PDF" (September)?** Is Navigating Our Oceans still live anywhere? On underbluewaters.com today, only the Certificates product is live in Digital Products. | Product, Sales | ⬜ |
+| DP-8 | **Card number wording: "No. X of 5" or "Card X of 5"?** D-015 says `Card [N] of 5`, but the Coral Reefs (and Sharks) fronts say "No. X of 5". | Product | ⬜ |
 
 ### Operations
 | # | Question | Status |

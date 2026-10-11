@@ -1,7 +1,7 @@
 # Product Catalog — Junior Marine Biologist
 
 **Owner:** Product & Curriculum Manager
-**Last updated:** 2026-08-18
+**Last updated:** 2026-10-11
 **Rule:** This is the ONLY place product facts live. If another file contradicts this one, this one wins and the other file gets corrected.
 
 ---
@@ -28,7 +28,22 @@
 
 > 🔴 **The 17 hidden products contain the wrong PDF.** They must not be made visible until the real files are uploaded, or customers will pay $9.99 and receive the wrong lesson.
 
-**NEEDS FOUNDER INPUT:** is the KIT10 coupon still live and working?
+~~**NEEDS FOUNDER INPUT:** is the KIT10 coupon still live and working?~~ ✅ **ANSWERED 2026-10-11:** KIT10 is live on underbluewaters.com:
+- 10% off the Kits category
+- one use per customer
+- can't be combined with other coupons
+- never expires
+
+🔴 Bundles sit in that category, so KIT10 also discounts bundles (open question DP-2).
+
+### Digital product status: UPDATE 2026-10-11 (underbluewaters.com, WooCommerce)
+- **Pack format set (D-016):** 7 downloads per $9.99 pack: Parent Guide, Ages 4-6, 7-9, 10+, Extra Resources, typeable Certificate, KIT10 coupon page.
+- **Coral Reefs** (ID 2206, SKU JMB-DLP-13): fully uploaded, **DRAFT/hidden**, waiting on a test order.
+- **Other 23 packs:** drafts with 1 file each. Each needs the full set, including a Parent Guide.
+- **Only the Certificates product (ID 2474) is live** in the Digital Products category.
+- **$99 Complete Digital Library: ON HOLD** (D-016).
+- ⚠️ The September list above (Navigating live, 17 with the wrong PDF) **may describe the GoDaddy store, not this one.** Not reconciled: open question DP-7.
+- Tracking file: `operations/digital-lesson-packs.md`.
 
 ## A. Product lines
 

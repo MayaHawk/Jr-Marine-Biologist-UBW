@@ -1,7 +1,7 @@
 # Risk Register
 
 **Owner:** Operations & Fulfillment Manager, with Product & Curriculum Manager
-**Last updated:** 2026-08-18
+**Last updated:** 2026-10-11
 
 > This register names risks so they can be decided on. Naming a risk is not claiming something has gone wrong.
 
@@ -130,6 +130,38 @@ Policy D-007, set the same day, says no refund is offered without Maya's explici
 **Why this is now the top refund-related item:** policy D-012 (2026-09-19) confirms the business does not offer refunds at all. The live Terms of Service still say it does. In any dispute — with a customer, a card issuer, or a regulator — **the published document carries more weight than an internal policy nobody outside the business has seen.**
 
 **This is a five-minute edit that closes the last piece of refund exposure Maya can actually control.** The wording itself is a question for whoever reviews your terms, not for this team.
+
+---
+
+## 🟠 R-12 — Paid digital files can be opened by anyone holding the exact link
+
+**Status:** OPEN · **Likelihood:** low · **Impact:** lost digital sales · **Owner:** Maya · **Opened:** 2026-10-11
+
+**CONFIRMED 2026-10-11:** GoDaddy's server does not block direct links to the WooCommerce downloads folder (`woocommerce_uploads/`).
+
+**Why the risk is low today:**
+- File names carry random codes ("Force downloads" setting).
+- Customers never see the real file addresses.
+
+**Real fix:** GoDaddy support adds a rule that blocks that folder. This needs Maya's approval to draft the message, and again to send it *(open question DP-3)*.
+
+**Related:** never deliver a Canva link from a full course file. Anyone with it can see the whole course free (D-016).
+
+---
+
+## 🟠 R-13 — Coupon KIT10 discounts bundles by $50–$95
+
+**Status:** OPEN · **Likelihood:** happens on any bundle order that uses the code · **Impact:** $50–$95 per bundle · **Owner:** Maya · **Opened:** 2026-10-11
+
+KIT10 gives 10% off the Kits category (ID 34). **The Bundles product (ID 1874) is in that category.** Every digital pack hands out the code. The code never expires and works once per customer.
+
+**ESTIMATE** *(inputs: CONFIRMED bundle prices × 10%)*:
+- $503.99 × 10% = **$50.40**
+- $949.99 × 10% = **$95.00**
+
+Bundles are already the lowest per-kit price in the range.
+
+**Fix:** exclude Bundles from KIT10. This changes a coupon, so it needs Maya's yes/no *(open question DP-2)*.
 
 ---
 

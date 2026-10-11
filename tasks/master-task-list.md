@@ -1,7 +1,7 @@
 # Master Task List
 
 **Owner:** Chief of Staff — the single backlog for the whole business.
-**Last updated:** 2026-08-18
+**Last updated:** 2026-10-11
 
 **Status key:** ⬜ not started · 🟦 in progress · ⏸️ blocked · ✅ done
 **Priority:** P1 (this week) · P2 (this month) · P3 (later)
@@ -15,6 +15,25 @@ The Under Blue Waters project handover has been merged into these files. Prices,
 
 ---
 
+## 💻 DIGITAL LESSON PACKS: added 2026-10-11
+
+Detail: `operations/digital-lesson-packs.md`. Coral Reefs is uploaded as a **hidden draft** (product 2206). **This is the work behind X-4 and W-8.**
+
+| # | Task | Owner | Status |
+|---|---|---|---|
+| P-1 | Coral Reefs pack: Canva QA, split, upload, typeable certificate | Maya + Claude | ✅ 2026-10-11 |
+| P-2 | **Test order on Coral Reefs** ($0, one-time test coupon) | Maya | ⏸️ needs approval (DP-1) |
+| P-3 | **Decide: exclude Bundles from KIT10** | Maya | ⏸️ DP-2 |
+| P-4 | Decide: draft the GoDaddy downloads-folder request | Maya | ⏸️ DP-3 |
+| P-5 | Publish Coral Reefs | Maya | ⏸️ after P-2 (DP-4) |
+| P-6 | Upload the remaining 23 topics, one at a time | Maya + Claude | ⬜ Maya attaches each ALL export |
+| P-7 | Make Parent Guides for the 23 other topics (Coral Reefs is the template) | Product | ⬜ |
+| P-8 | Load the $99 Digital Library (one all-ages file per topic) | Maya + Claude | ⏸️ on hold (D-016) |
+| P-9 | Clean up the old 2026-10-04 Coral Reefs files | Maya | ⏸️ only with Maya's OK |
+| P-10 | Minor: un-bold the Reef Facts bullets, Coral Reefs Ages 7-9 Card 5 (page 23) | Maya | ⬜ |
+
+---
+
 ## 🎄 Q4 / CHRISTMAS — raised 2026-09-19, hard deadline
 
 **Christmas is the one direct-to-consumer volume spike of the year, and it lands inside the 90-day window.** The real deadline is **December 17** (last ship date), not December 25. Full detail: `sales/q4-christmas-window.md`.
@@ -24,7 +43,7 @@ The Under Blue Waters project handover has been merged into these files. Prices,
 | X-1 | 🔴 **Bulk flash card quote — THIS WEEK** | Maya | A 6-week print lead means ordering by ~Oct 15 |
 | X-2 | 🔴 **Time three kits** | Maya | Decides whether Q4 is a 100-kit or 500-kit opportunity |
 | X-3 | 🔴 **Decide how many kits to build for Q4** | Maya | Materials must be ordered within weeks |
-| X-4 | 🔴 **Fix the 17 digital packs (wrong PDF)** | Maya | Zero-fulfilment, ~100% margin, sells to Dec 24 — currently idle |
+| X-4 | 🔴 **Fix the 17 digital packs (wrong PDF)**: 🟦 in progress, see P-1 to P-6 | Maya | Zero-fulfilment, ~100% margin, sells to Dec 24 — currently idle |
 | X-5 | Confirm USPS last-ship dates when published | Maya | The whole calendar hangs off it |
 | X-6 | Gift options — message, certificate, "gift a kit" | Sales | Standard for the season; none exists |
 | X-7 | Q4 campaign to the 781 warm list | Sales | After list verification (R-10) |

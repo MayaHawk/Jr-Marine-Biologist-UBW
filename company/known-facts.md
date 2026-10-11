@@ -4,7 +4,7 @@
 
 **Editing rule:** an agent may add to this file only when Maya has explicitly stated or approved the fact. Every entry is dated. If you are not certain it came from Maya, it goes in `assumptions-log.md` instead.
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-10-11
 
 ---
 
@@ -158,6 +158,25 @@
 | "marine biology for kids" | position ~7.5, 118 impressions |
 | Indexed pages | fell 48 → 41; 25 URLs discovered-not-indexed |
 | Facebook ad lands on | the **$503.99 bundle page** |
+
+## 🛒 STORE & DIGITAL LESSON PACKS: CONFIRMED October 2026
+
+*Source: Maya's session report, 2026-10-10 to 2026-10-11, done with Maya present in the store admin. Full detail: `operations/digital-lesson-packs.md`.*
+
+| Fact | Date |
+|---|---|
+| underbluewaters.com runs **WordPress + WooCommerce**. Login goes through **GoDaddy**. **Maya signs in. Claude never types passwords.** | 2026-10-11 |
+| Store max upload size **1 GB**. Downloads use **"Force downloads"**, with random codes added to file names. | 2026-10-11 |
+| **Digital Products category (ID 35):** 24 lesson packs exist as **drafts** (SKU JMB-DLP-NN). **Only the $9.99 Certificates product (ID 2474) is live** in that category. 23 drafts have **only 1 file each**. | 2026-10-11 |
+| ⚠️ The line above **does not match** `product-catalog.md` §A0 (September), which says Navigating Our Oceans was "live and visible" and 17 products carried the wrong PDF. Those 17 may be on the GoDaddy store, not this one. **Not resolved: open question DP-7.** | 2026-10-11 |
+| **Each $9.99 pack holds 7 downloads:** Parent Guide, Ages 4-6, Ages 7-9, Ages 10+, Extra Resources, typeable Certificate, KIT10 coupon page *(D-016)* | 2026-10-10 |
+| 🟨 **Coral Reefs: Digital Lesson Pack** (product 2206, SKU JMB-DLP-13, $9.99) has all 7 files uploaded and is a **DRAFT, hidden from customers** | 2026-10-11 |
+| The Coral Reefs Canva master ("UBW Marine Biology for Kids Coral Reef", 40 pages) is set to **"Only you can access"**, with no public link | 2026-10-11 |
+| ⏸️ **The $99 Digital Library is ON HOLD.** The packs come first *(D-016)*. | 2026-10-10 |
+| **Coupon KIT10:** 10% off the **Jr. Marine Biology Kits** category (ID 34). One use per customer. Can't be combined with other coupons. **Never expires.** | 2026-10-11 |
+| 🔴 **The Bundles product (ID 1874, $503.99 / $949.99) sits in the Kits category, so KIT10 currently takes $50–$95 off a bundle** *(open question DP-2)* | 2026-10-11 |
+| 🔴 **GoDaddy's server does not block direct links to the downloads folder.** Anyone holding an exact file link can open the file. *(Open question DP-3, risk R-12)* | 2026-10-11 |
+| Card standards: **US units and US spelling only**. Say **"field notebook"**, never "paper". **No repeated front photos between age groups.** | 2026-10-11 |
 
 ## Offers
 
